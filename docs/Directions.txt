@@ -1,0 +1,4 @@
+1. download .iso files
+2. right click and click "open with"
+3. choose file explorer
+4. double click CDSTART.EXE or AutoRun.exe

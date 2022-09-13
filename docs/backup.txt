@@ -1,0 +1,28 @@
+git add -u
+git commit -m "your commit message"
+git push origin master 
+
+make that a .bat
+and task schedule it every 5 min?
+
+then git ignore
+desktop .txt
+p ignore node modules fml so noob
+
+what happens if no changes does it error? error notify?
+okay thats on way back up what about sync?
+
+okay so acronis is an option
+large files in back blaze?
+like desktop -> nas
+then speciifc nas folders zip and encrypted (file level) -> bb and glacier s3
+one sys prep windows image too i guess
+
+
+so symlink everything to a directory
+2 folders, one for back up, other for 2way sync
+back up is like game saves, sonarr ,large downloads 
+this just goes rsync,clone to nas then cloud
+
+sync stuff just goes to git, then also back up? 
+idk

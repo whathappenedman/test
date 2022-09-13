@@ -1,0 +1,13 @@
+desk
+laptop
+pi 3
+pi 4
+wireless charger
+
+
+bed
+phone 1
+phone 2 optiopnal
+headphones
+portable battery
+misc device
