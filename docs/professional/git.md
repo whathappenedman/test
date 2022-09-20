@@ -18,3 +18,5 @@ git push
 
 ## stash
 
+## git ignore
+

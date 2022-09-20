@@ -1,6 +1,9 @@
+wsl git add . && git commit -m --allow-empty-message && git push
+add appropriate branch and and repo and upstream
+then make it a batch file in windows and write its log into p/.logs/
+
 npp workiung dir
 branch per computer
-config for not commit message
 auto run
 
 learn how to remove dir or un track/unstage
