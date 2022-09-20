@@ -1,9 +1,9 @@
-LAUNCH marketing
+LAUNCH and marketing
 
 # Launch Targets
 hn
 product hunt
-indihackers
+indiehackers
 
 slashdot, lobsters
 svelte blog
