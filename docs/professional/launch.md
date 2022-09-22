@@ -42,3 +42,8 @@ need to do and seo demo site!
 
 ## Monitoring
 f5bot.com
+
+## Copy
+faq
+privacy 
+
