@@ -19,4 +19,8 @@ has jwt? Api,
 
 Compiling from source? 
 
+React and next 
+Svelte
+Quik js framework?
+
 
