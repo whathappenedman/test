@@ -3,13 +3,19 @@ password and shit
 
 
 git status
+
 git add .
+git add -u
+
 git commit -m ""
+
+git push origin master 
 git push
 
-git reset
+# reset 
+git reset for stage
 https://stackoverflow.com/questions/19730565/how-to-remove-files-from-git-staging-area
-
+git reset HEAD~ for commit
 ## set upstream 
 ## branch
 

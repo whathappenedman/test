@@ -40,3 +40,5 @@ make gif and shorts fml
 need to do an hn project for stats and titles
 need to do and seo demo site!
 
+## Monitoring
+f5bot.com

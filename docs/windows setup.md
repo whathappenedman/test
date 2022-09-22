@@ -40,7 +40,7 @@ browser
 	s19
 
 
-windows settings hanad
+# windows settings hanad
 ps -> cmd
 activity/timeline off
 disable ondirve

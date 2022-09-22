@@ -31,5 +31,33 @@ TS
 Svelte
 Quik js framework?
 
+# Bundlers
+vite
+rollup,webpack,others???
+
+# Later
+## languages
+typescript
+golang
+
+## network tools
+http,network
+https://httptoolkit.tech/
+wireshark, cert?, ngrok,
+
+## testing
+cypress,
+jest, pupeteer
+
+## browser automation
+playwright
+
+
+## load testing
+k6
+apache bench
+wrk
+
+
 
 
