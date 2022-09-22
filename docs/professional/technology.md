@@ -52,12 +52,12 @@ jest, pupeteer
 ## browser automation
 playwright
 
-
 ## load testing
 k6
 apache bench
 wrk
 
-
+## cross-plat
+tauri
 
 

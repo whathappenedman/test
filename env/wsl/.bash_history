@@ -765,3 +765,148 @@ cls
 .logout
 .exit
 exit
+ps
+cat --help
+cd p/temp
+la
+less sl2.txt
+cat sl2.txt
+echo cat sl2.txt
+echo `cat sl2.txt`
+nano ~/.backup
+cat ~/.backup
+cd ~
+cp `cat .backup` /mnt/c/Users/Mustafa/p/temp/
+backup
+bkp
+nano ~./bash_aliases
+nano ~/.bash_aliases
+. ~/.bashrc
+nano ~/.bash_aliases
+. ~/.bashrc
+nano ~/.bash_aliases
+. ~/.bashrc
+backup
+nano ~/.bash_aliases
+cp -i `cat .backup` /mnt/c/Users/Mustafa/p/temp/
+nano ~/.bash_aliases
+. ~/.bashrc
+backup
+nano ~/.bash_aliases
+cd ~
+cd ..
+. ~/.bashrc
+backup
+nano ~/.bash_aliases
+cd p
+backup
+. ~/.bashrc
+backup
+cd p
+backup
+nano .bash_aliases
+nano ~/.bash_aliases
+ip
+curl ip
+curl icanhaz.ip
+curl canihazip.com
+curl icanhazip.com
+ip?
+ipis
+ipp
+nano ~/.bash_aliases
+. ~/.bashrc
+ipp
+backup
+gs
+gce
+git add .
+ga.
+gs
+gce
+gp
+cd
+nano .backup
+nano ~/.bash_aliases
+backup
+. .bashrc
+backup
+la
+ls
+la
+backup
+cp --help
+nano .bash_aliases 
+. .bashrc
+backup
+ipp
+cd p
+gs
+git add .
+gs
+gce 
+gp
+gs
+git add .
+gce && git push
+gs
+cd ~
+nano .bash_aliases
+fg
+cd -
+gs
+git pull
+gs
+git commit
+git add .
+gs
+git add .
+gcep
+. .bashrc
+. ~/.bashrc
+gcep
+gs
+git add .
+gcep
+backup
+gs
+nano ~/.bash_alaises
+nano ~/.bash_aliases
+. ~/.bashrc
+gs
+git diff
+backup
+git diff
+gs
+gcep
+git diff
+backup
+git status
+gs
+cd yttag
+cd projects
+cd yttag
+gs
+git diff
+gcep
+cd
+nano .bash_alaises
+nano .bash_aliases
+. .bashrc
+cd yttag
+cls
+cd
+gs
+cd p
+gs
+git diff
+gs
+git add .
+cd
+nano .bash_aliases 
+. .bashrc
+ip?
+nano .bash_aliases 
+. .bashrc 
+ipp
+ip?
