@@ -1,4 +1,6 @@
-git init
+# git init
+
+add like the commands to start from scracth
 password and shit 
 
 
@@ -11,6 +13,11 @@ git commit -m ""
 
 git push origin master 
 git push
+
+# check for pull
+git remote update
+git remote -v update
+git status -uno
 
 # reset 
 git reset for stage
