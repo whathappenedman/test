@@ -1,12 +1,17 @@
 ## Linux
 vimtutor (3)
 
+sed,awk,grep
+digg curl nslookup
+
 File and user permissions (3)
 Shells and screen (4)
 start/stop process, sys.ctl (3)
 
 bash (4)
     chron my cp script
+    clean history
+    !# binbash
 
 Auto update (1)
 
@@ -20,8 +25,11 @@ has jwt? Api,
 
 Compiling from source? 
 
+# JS 
 React and next 
+TS
 Svelte
 Quik js framework?
+
 
 

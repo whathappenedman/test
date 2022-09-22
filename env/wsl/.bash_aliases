@@ -4,7 +4,7 @@ alias cls="clear"
 
 alias ipp="curl icanhazip.com"
 
-alias backup='cd ~ && cp -iu `cat .backup` /mnt/c/Users/Mustafa/p/env/wsl && cd -'
+alias backup='cd ~ && cp -vu `cat .backup` /mnt/c/Users/Mustafa/p/env/wsl && cd -'
 
 
 # git aliases
