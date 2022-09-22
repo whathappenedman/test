@@ -131,49 +131,10 @@ https://superuser.com/questions/1043806/how-to-exit-the-ranger-file-explorer-bac
 ctrl s, ctrl d
 
 https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
-
-check git for guide on linux secuyring
-ctrl s, ctrl d
-
-https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
-
-check git for guide on linux secuyring
-ctrl s, ctrl d
-
-https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
-
-check git for guide on linux secuyring
-ctrl s, ctrl d
-
-https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
-
-check git for guide on linux secuyring
-ctrl s, ctrl d
-
-https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
-
-check git for guide on linux secuyring
-ctrl s, ctrl d
-
-https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
-
-check git for guide on linux secuyring
-ctrl s, ctrl d
-
-https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
-
 check git for guide on linux secuyring
 
-ctrl s, ctrl d
 
-https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
 
-check git for guide on linux secuyring
-ctrl s, ctrl d
-
-https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
-
-check git for guide on linux secuyring
 
 
 # further
