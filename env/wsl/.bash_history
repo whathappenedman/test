@@ -910,3 +910,43 @@ nano .bash_aliases
 . .bashrc 
 ipp
 ip?
+ipp
+cd p
+gs
+backup
+gs
+ga.
+gs
+gcep
+gs
+gcep
+gs
+cls
+gs
+gcep
+cd
+explorer.exe .
+gedit
+exit
+sudo apt update
+apt list --upgradeable
+sudo apt upgrade
+sudo apt install gedit
+sudo apt upgrade
+sudo apt install gedit
+gedit
+la
+cd p
+cd
+gedit .bashrc
+gedit
+startx
+start x
+gedit
+ip
+ip --help
+ipaddr
+ip addr
+gedit
+ver
+exit

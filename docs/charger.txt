@@ -11,3 +11,9 @@ phone 2 optiopnal
 headphones
 portable battery
 misc device
+
+so 4 port dont need like 60 watt or something
+iphone charger
+wireless (iphone, buds)
+type c device charger (battery,buds)
+extra misc port for one off
