@@ -950,3 +950,154 @@ ip addr
 gedit
 ver
 exit
+cd p
+gs
+ga.
+gs
+backup
+gcep
+sudo apt install zlib1g-dev libpng-dev libjpeg-dev
+cd
+la
+pwd
+cd ..
+pwd
+la
+cd ..
+pwd
+la
+cd home
+cd dev1
+mkdir
+mkdir bin
+cd bin
+mkdir avif
+cd avif
+git clone -b v0.9.1 https://github.com/AOMediaCodec/libavif.git
+la
+rm libavif
+explorer .
+explorer.exe .
+git clone -b v0.9.1 https://github.com/AOMediaCodec/libavif.git
+cd libavif
+cd ext
+la
+./
+cd ./
+cd .
+./aom.cmd
+cd ..
+mkdir build
+cd build
+cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
+cd
+sudo apt install cmake
+sudo apt install ninja-build
+cd -
+cd ../ext
+la
+explorer.exe .
+cd
+cd bin/avif
+git clone -b v0.9.1 https://github.com/AOMediaCodec/libavif.git
+cd libavif/ext
+./aom.cmd
+man more
+exit
+cd ~/bin/avif/libavif/
+ls
+cd ext
+ls
+./aom.cmd
+cmake -v
+cmake --help
+apt uninstall cmake
+apt uninstal cmake
+apt remove cmake
+sudo apt remove cmake
+apt search cmake
+cd 
+explorer.exe .
+ls
+cmake-3.24.2-linux-x86_64.sh
+./cmake-3.24.2-linux-x86_64.sh
+chmod +x cmake-3.24.2-linux-x86_64.sh
+./cmake-3.24.2-linux-x86_64.sh
+cd bin/avif
+git clone -b v0.9.1 https://github.com/AOMediaCodec/libavif.git
+cd libavif/ext
+./aom.cmd
+cd ..
+mkdir build
+cd build
+cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
+$PATH
+cd ~
+explorer.exe .
+cd -
+cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
+~/bin/cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
+sudo ~/bin/cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
+cd
+ls bin
+chmod +x bin/cmake
+sudo ~/bin/cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
+sudo apt install cmake
+cd -
+cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
+cd p/experiments/avif
+cls
+avifenc.exe
+ls
+la
+avifenc.exe 
+./avifenc.exe
+exit
+time
+time ./avif.exe images/pill.jpg pill.jpg
+time ./avifenc.exe images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 2 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 4 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 12 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 16 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 12 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 4 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 6 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
+cd p/experiments/avif/
+time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
+time ./avifenc.exe --jobs 1 images/pill.jpg pill.jpg
+cd experiments
+cd p/experiments/avif/
+time avifenc.exe images/paper.jpg paper.avif
+time ./avifenc.exe images/paper.jpg paper.avif
+avifenc
+./avifenc.exe
+cls
+time ./avifenc --min 0 --max 63 -a end-usage=q -a cq-level=18 -a tune=ssim images/paper.jpg paper.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=18 -a tune=ssim images/paper.jpg paper.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=30 -a tune=ssim images/paper.jpg paper.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=30 -a tune=ssim --jobs 8 images/paper.jpg paper.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 --s 10 images/paper.jpg paper.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 3 images/paper.jpg paper.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 6 images/paper.jpg paper.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 6 images/pill.jpg pill_q40.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 5 images/pill.jpg pill_q40.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 7 images/pill.jpg pill_q40.avif
+time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 6 images/pill.jpg pill_q40.avif
+cd /
+ls
+cd var
+ls
+la
+cd lib
+la
+cd systemd
+ls
+cd ..
+cd vim/
+ls
+la
