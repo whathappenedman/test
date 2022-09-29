@@ -30,6 +30,7 @@ React and next
 TS
 Svelte
 Quik js framework?
+clojurescript??
 
 # Bundlers
 vite
@@ -59,5 +60,8 @@ wrk
 
 ## cross-plat
 tauri
+
+## design
+penpot
 
 

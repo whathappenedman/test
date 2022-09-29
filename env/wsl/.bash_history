@@ -1101,3 +1101,129 @@ cd ..
 cd vim/
 ls
 la
+htop
+cd p
+gs
+gp
+gs
+gs remote update
+git remote update
+cd downloads
+yt-dlp -a del.txt
+exit
+ipp
+gs
+cd p
+gs
+git pull
+cd p/docs
+ls
+nano windows\ setup.md
+nano "windows setup.md" 
+/bin/nano windows\ setup.md 
+nano ~.bash_aliases
+nano ~/.bash_aliases
+. ~/.bash_aliases
+nano "windows setup.md" 
+nano ~/.bash_aliases
+bin/nano ~/.bash_aliases
+/bin/nano ~/.bash_aliases
+. ~/.bash_aliases
+nano ~/.bash_aliases
+nano "windows setup.md" 
+nano ~/.bash_aliases
+. ~/.bash_aliases
+nano ~/.bash_aliases
+nano "windows setup.md" 
+/bin/nano windows\ setup.md 
+nano windows\ setup.md 
+realpath windows\ setup.md 
+nano ~/.bash_aliases 
+ipp
+gs
+ga.
+gs
+gcep
+gce
+top
+htop
+cls
+man htop
+cd ~
+la
+cd .config
+la
+cd htop
+la
+nano htoprc
+cd ..
+la
+cd .wrangler
+la
+cd config
+la
+nano default.toml 
+cd ..
+la
+cd neofetch/
+la
+nano config.conf 
+cd ,,
+cd ..
+cd .
+ls
+cd procps
+ls
+la
+cd ../ranger
+ls
+la
+cd ..
+la
+rm cmake-3.24.2-linux-x86_64.sh cmake-3.24.2-linux-x86_64.sh sl.txt 
+.backup
+ls .backup
+nano .backup
+backup
+cls
+neofetch
+sudo apt install neofetch
+neofetch 
+cls
+neofetch 
+neofetch -h
+neofetch --help
+nano ~
+nano ~/.bash_aliases
+nano ~./bash_history
+la ~./
+la ~/
+la ~/.bash_history
+nano ~/.bash_history
+nano ~./bash_history
+nano ~/.bash_history
+cls
+nano ~/.bash_history
+htop
+sudo htop
+man bash
+nano ~/.bash_aliases
+cls
+cls
+cd ~
+cd .config
+la
+cls
+nano ~/.bash_history
+backup
+history
+history 1147
+history --help
+nano ~/.bash_aliases
+nano ~/.bash_aliases
+cd ~
+ls .cache/
+ls .landscape/
+vi
+vi vitemp
+la

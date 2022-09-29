@@ -15,11 +15,12 @@ alias gce="git commit -am 'auto-alias'"
 alias gcep="gce && git push"
 
 # Functions
-nano() { /bin/nano `realpath $1`; }
+nano() { /bin/nano `realpath $@`; }
 
 # CD Path
 export CDPATH=.:/mnt/c/Users/Mustafa/:/mnt/c/Users/Mustafa/p/code/:/mnt/c/Users/Mustafa/p/code/projects/
 
 # History
-HISTSIZE=5000
-HISTFILESIZE=10000
+HISTSIZE=10000
+HISTFILESIZE=100000
+HISTCONTROL=ignoreboth:erasedups
