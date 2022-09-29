@@ -1,7 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "../docs"
+			"path": "../../docs"
+		},
+		{
+			"path": "../../code"
 		}
 	],
 	"settings": {}
