@@ -21,8 +21,10 @@ os ticket
 
 git
 dns
+nomad, vault
 
 curl ip 
+webhook job runner
 uptime ping
 tinyurl
 

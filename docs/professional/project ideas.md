@@ -15,3 +15,8 @@ tag and search
 ## hn tag
 tag hn posts by topic 
 same for comments
+
+# Router/Extention
+privacy redirect
+    amp, proxy
+p2p noise

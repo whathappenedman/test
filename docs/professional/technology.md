@@ -36,10 +36,19 @@ clojurescript??
 vite
 rollup,webpack,others???
 
+# SSG
+eleventy
+Hugo or gatsby?
+
+
 # Later
 ## languages
 typescript
 golang
+
+## BI
+powerbi,kibana
+r,sql
 
 ## network tools
 http,network
