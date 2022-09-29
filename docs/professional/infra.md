@@ -13,6 +13,9 @@ ovh
 # Self Host
 
 umami (user analytics)
+    very basic, like cant get mac version
+    or cant group screen size
+    plausible seems a little better
 prometheous, grafana 
 os ticket
 
