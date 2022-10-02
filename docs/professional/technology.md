@@ -56,8 +56,9 @@ https://httptoolkit.tech/
 wireshark, cert?, ngrok,
 
 ## testing
-cypress,
+cypress - NO use playwright now for this too
 jest, pupeteer
+https://news.ycombinator.com/item?id=33047136
 
 ## browser automation
 playwright
@@ -73,8 +74,12 @@ tauri
 ## design
 penpot
 
-## Analytics
-umami
+## Analytics/monitoring
+umami (plausible is a little better)
+prometheous grafana/
+logstash,loki?
+signoz?
+https://signoz.io/docs/faqs/product/#how-is-signoz-different-from-prometheus
 
 ## comments
 
