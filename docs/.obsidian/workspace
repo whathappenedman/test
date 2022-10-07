@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "5f7e4f7397aa118b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f055b51ca059abe1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "professional/project ideas.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f9ca4f1525896c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "492e2dcfe73288b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da7a7f2ada97979f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb330b565e54fe58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d85d117cac447099",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b12599d3687e00b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5054bd6f66b6fc52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc190a673fc0751",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "professional/project ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4f5044cb1a59ba1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "professional/project ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "109fe736a815700b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "754781269f19968e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "professional/project ideas.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f055b51ca059abe1",
+  "lastOpenFiles": [
+    "professional/technology.md",
+    "professional/project ideas.md",
+    "professional/notes.md",
+    "professional/Programming notes/js.md",
+    "personal/monitor.md",
+    "personal/readme.md",
+    "professional/bussiness/launch.md",
+    "personal/Tech Todo.md",
+    "professional/linux commands.md",
+    "professional/infra.md"
+  ]
+}

@@ -1,12 +1,12 @@
 ## Linux
 vimtutor (3)
 
-sed,awk,grep
+sed,awk,grep,find
 digg curl nslookup
 
 File and user permissions (3)
 Shells and screen (4)
-start/stop process, sys.ctl (3)
+start/stop process, sys.ctl, nohup, gb/fg(3)
 
 bash (4)
     chron my cp script
@@ -25,6 +25,10 @@ has jwt? Api,
 
 Compiling from source? 
 
+
+
+# DB
+Use the index luke
 # JS 
 React and next 
 TS

@@ -24,6 +24,7 @@ find some twitch or creator plugs
 ### Ads
 fb/ig ads for creators
 google search ads
+app store search ads (apple)
 
 newsletter sponsership
 productivity youtubers

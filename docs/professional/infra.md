@@ -19,7 +19,8 @@ umami (user analytics)
 prometheous, grafana 
 os ticket
 
-git
+git 
+ci/cd
 dns
 nomad, vault
 
@@ -30,3 +31,5 @@ tinyurl
 
 weather
 geoip
+scriptrunner ala windmill.dev
+

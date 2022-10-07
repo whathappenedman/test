@@ -1227,3 +1227,41 @@ ls .landscape/
 vi
 vi vitemp
 la
+vi
+vi vitemp
+la
+cd p/docs
+code.exe .
+code .
+cd ..
+backup
+ga.
+gs
+gcep
+ipp
+ipp
+cd p/docs
+git add .
+gs
+gcep
+exit
+.exit
+cd downloads\dl
+cd downloads/dl
+nano dl.txt
+exit
+.exit
+cd downloads/dl
+yt-dlp -a dl.txt
+yt-dlp.exe -a dl.txt
+ls
+nano dl.txt
+./yt-dlp.exe -a dl.txt
+cd downloads
+cat dl/dl.txt
+nano dl/dl.txt
+cd dl
+ls
+rm dl.txt
+emacs
+vi
