@@ -1,4 +1,4 @@
-# DevUtils
+# DevUtils 
 its a home page plus it
 always has like an uptodate awesome list
 like what toold to use
@@ -12,7 +12,7 @@ online tools
 catalog and tag tech related blog posts
 cf, uber, dropbox, netflix,
 tag and search
-## hn tag
+## hn tag 
 tag hn posts by topic 
 same for comments
 
@@ -20,3 +20,6 @@ same for comments
 privacy redirect
     amp, proxy
 p2p noise
+
+
+

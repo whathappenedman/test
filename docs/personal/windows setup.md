@@ -90,4 +90,6 @@ dns settings
 
 nightlight
 
+disable pasword reset?
+
 	

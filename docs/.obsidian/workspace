@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "professional/project ideas.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -122,13 +122,13 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f055b51ca059abe1",
+  "active": "a4f5044cb1a59ba1",
   "lastOpenFiles": [
     "professional/technology.md",
     "professional/project ideas.md",
