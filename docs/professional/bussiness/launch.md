@@ -7,6 +7,7 @@ indiehackers
 
 slashdot, lobsters
 svelte blog
+https://f5bot.com/
 
 ## reddit ? which
 r/ productivity

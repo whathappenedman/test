@@ -37,8 +37,11 @@ Quik js framework?
 clojurescript??
 
 # Bundlers
-vite
-rollup,webpack,others???
+vite (uses rollup)
+turbopack(succesor to webpack kind of)
+esbuild?
+parcel (no hype compared to vite)
+webpacl (bad, too much config?)
 
 # SSG
 eleventy

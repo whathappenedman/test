@@ -24,9 +24,9 @@ ci/cd
 dns
 nomad, vault
 
-curl ip 
+curl icanhazp (my own not cf)
 webhook job runner
-uptime ping
+uptime ping  
 tinyurl
 
 weather
