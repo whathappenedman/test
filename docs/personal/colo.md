@@ -100,3 +100,15 @@ can pay slaries and monthlies from income
 but need 300k stacked.
 so 100k users thats 1gbit can handle anyways.
 so yea just use cloud till i can afford.
+
+in other words looking at cost over 4 years
+its like 120 per rack and 2400 colo
+over 4 years thats almost 1mil
+thats 20k a month but i have to pay upfront for about half.
+lets say 100kx3 so 300k
+so lets say break even in 10months thats 300 + 20kx5 = 500k
+so 50k, my spend should be 50k before i consider this seriously
+but im sure i can always do cheaper
+like avif crucncher or just web server models
+so basic rack needed items is 20k and just web servrs on commodity hardware
+coming from the $400 colo is not that bad tho. ugh idk
