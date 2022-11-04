@@ -28,3 +28,7 @@ vite
 # DB
 postgres/use the index
 couch
+
+# Prep
+1 leet code a day min if not two (easy + other)
+make a list 

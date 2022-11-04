@@ -1,17 +1,34 @@
-check what c state i am going into like stats want c8(linux tool)
+# TODO
+test cpu
+test mobo
+install windows
+check power
+check drives in case, stas, smart, stress
 
+now its mixed
+check drives shucked
+linux
 decide what file system to use and nfs vs samba
 so like 4 options min (nfs/samba + ntfs/ext4)
 and check if works on windows like direct read not through share
+c states c8?
+
+then temps, fan dust
+sleep
+qbit/sonar/radar/vpn/ytdlp/node/nginx/jellyfin/uptime/dns
+now see what sleep/power/network+sonarr
+then decide pi. still need pi regardless
+then i can dokcer it all
+b2, rsync
 
 # Services
 
 ## always on
 sonarr/radarr
 qbitorrent
-vpn out
-ytdlp downloader
-ping/uptime
+vpn out!
+ytdlp downloader!
+ping/uptime!
 
 ## server
 plex,emby,jellyfin
@@ -76,3 +93,30 @@ going shelf option or qnap option is interesting
 and u want a pdu with web gui (smart power strip but also delivery)
 basically u want 30 amp but iof not still liek a half rack
 with power monitoring
+
+# Notes
+
+## Sleep issue
+need to test that
+post on sonarr discord - sleeping nfs issue
+maybe use qbitweb api to pause, wake nfs,, resume
+sonar doesnt seem to be able to handle it, it will stall
+os level fix too, on linux try unmounting and see if sonarr will still dl
+either way whould be totally solvable. 
+https://forums.sonarr.tv/t/sonarr-hangs-when-nfs-share-is-unavaliable/30877
+media managment setting adv
+okay so i can use jacket to cache too.
+
+so like max returns 100 thats should cover prime time,
+then another hundred in the morning. so basically 
+can wake server every 4 hours out side of night time.
+
+yea fuck all this. just wake it outside of prime time if not already on every 4 hours aside from night
+so lets say sleeps at 2am. day work from 8-5 and prime time on at 6 till 12
+so actually just dont do anything. 
+
+## yt-dlp
+yt-dlp on pi
+this has two endpoint, one is behind nginx at home through vpn or tunnel
+another is cf pages -> free cloud db, read from there
+put all my other shit behind nginx, (sonarr,radarr,jacket,qbit,yt-dlp,dashboards,ha,misc)
