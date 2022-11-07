@@ -1265,3 +1265,102 @@ ls
 rm dl.txt
 emacs
 vi
+node
+ipp
+cd p
+cd ../download/dl
+cd ../downloads/dl
+ls
+nano dl.txt
+cd
+vi
+gs\
+cd p
+gs
+gcep
+nano ~/.bash_aliases
+cd p
+gcep
+git push
+ip
+ipp
+gcep
+git push
+curl https://raw.githubusercontent.com/macvk/dnsleaktest/master/dnsleaktest.sh -o dnsleaktest.sh
+chmod +x dnsleaktest.sh
+./dnsleaktest.sh
+ipp
+git push
+vim
+vi
+vimtutor
+suicide
+ipp
+suicide
+ipp
+./dnsleaktest.sh
+ipp
+suicide
+ipp
+./dnsleaktest.sh
+sudo apt install tesseract-ocr
+sudo apt update && sudo apt upgrade
+cd p
+cd experiments/
+cd avif
+cd images/
+ls
+tesseract pill.jpg
+tesseract pill.jpg -
+tesseract pill.jpg - -l eng
+tesseract ss_jerry.jpg - -l eng
+tesseract large_menu.jpg - -l eng
+tesseract paper.jpg - -l eng
+tesseract ss_engineer.jpg - -l eng
+tesserarc -v
+tesseract small_ticket.jpg -
+tesseract small_ticket.jpg - -l eng
+tesseract small_ticket.jpg - -l eng -dpi 70
+tesseract small_ticket.jpg - -l eng --dpi 70
+tesseract price_card.jpg 
+tesseract price_card.jpg -
+tesseract price_card.jpg - -l eng
+tesseract -v
+history
+history | grep avif
+tesseract paper-cropped.jpg -
+tesseract small-ticket-rs50.jpg -
+tesseract parking-rates-rs50.jpg -
+/mnt/c/Users/Mustafa/ocr/tesseract.exe
+/mnt/c/Users/Mustafa/ocr/tesseract.exe parking-rates-rs50.jpg -
+time /mnt/c/Users/Mustafa/ocr/tesseract.exe parking-rates-rs50.jpg -
+time /mnt/c/Users/Mustafa/ocr/tesseract.exe large-menu-rs50.jpg -
+ipp
+ls /bin
+ls ~/bin
+cd avif
+cd ~/bin/avif
+ls
+ls /
+ls /media/
+ls /opt
+ls usr
+ls /usr
+ls /usr/bin
+ls /sys
+ls /srv
+ipp
+cd p
+ls
+ga.
+gs
+gcep
+nano
+ls /srv
+ipp
+ls
+nano
+cd p
+ga.
+gcep
+gs
