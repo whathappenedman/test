@@ -13,11 +13,14 @@ so like 4 options min (nfs/samba + ntfs/ext4)
 and check if works on windows like direct read not through share
 c states c8?
 
+https://www.snapraid.it/faq#enc
+snap raid, enc, pool, smartools/power
 then temps, fan dust
 sleep
 qbit/sonar/radar/vpn/ytdlp/node/nginx/jellyfin/uptime/dns
 now see what sleep/power/network+sonarr
 then decide pi. still need pi regardless
+mergerfs annd all file spinning
 then i can dokcer it all
 b2, rsync
 
@@ -28,6 +31,7 @@ sonarr/radarr
 qbitorrent
 vpn out!
 ytdlp downloader!
+website archiver!
 ping/uptime!
 
 ## server
