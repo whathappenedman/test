@@ -1,3 +1,7 @@
+# Prep
+1 leet code a day min if not two (easy + other)
+make a list 
+
 # HTML, CSS
 html
 css
@@ -9,13 +13,17 @@ less/sass
 # JS/React
 JS
 React
-Next
-Svelte
+Next!!!
+Svelte, svelte-kit
 
 # Back End
-node
+node, express
 lmabda/cf workers
 serverless like amplify
+
+# DB
+postgres/use the index
+couch
 
 # Devops
 Docker
@@ -25,10 +33,5 @@ CI/CD
 Git
 vite
 
-# DB
-postgres/use the index
-couch
 
-# Prep
-1 leet code a day min if not two (easy + other)
-make a list 
+
