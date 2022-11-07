@@ -19,10 +19,11 @@ dns api
 cdn, object 
 
 # V2 
-docker images
-monitoring, node, pm2, analytics
 one click auto scale
 adapters(hetzner,linode,s3...)
+docker image
+monitoring, node, pm2, analytics??
+
 
 user story
 pick provioders
@@ -32,6 +33,12 @@ object storage
 admin dashboard
 simple and quick sites. like limited in scope. no large projects
 demo, quick, sample, lightweight, static, simple
+like this sever just send ur initial html (<5kb)
+all else is cahced or cdn. no realy server routes, just for analytics and monitoring/beacon
+so 1gbps server is like 50k rps x 3 servers x 10userfactor is over a million users. enough for most needs
+have failover to 2 clouds, rr dns, fast dens failover. dual cdn.
+pitch to hetzner, ovh, linode, vultr, bunny for sponsorship
+
 # Later (maybe not this project)
 poketbasse, memcached
 auth and simple db
