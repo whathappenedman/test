@@ -4,6 +4,7 @@ TOC/outline
 fileExplorer, fodlers, tags
 export as plain md, images in dir?
 sync
+easy linking
 
 # Contenders
 
