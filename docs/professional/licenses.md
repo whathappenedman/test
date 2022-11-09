@@ -21,3 +21,12 @@ dual licensing and commerical.
 
 
 https://www.fsf.org/blogs/licensing/more-about-the-app-store-gpl-enforcement
+
+
+# MISC
+
+https://opensource.stackexchange.com/questions/13265/is-agplv3-or-mplv2-better-for-an-open-source-api-meant-to-be-integrated-into-clo
+
+https://github.com/WordPress/gutenberg/issues/31893
+
+https://opensource.stackexchange.com/questions/5599/any-successful-dual-license-oss-project-i-can-use-as-template

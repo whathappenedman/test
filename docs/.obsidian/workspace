@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f055b51ca059abe1",
+        "id": "729cd3c87d21cf54",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "professional/project ideas.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional/project ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +89,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "professional/project ideas.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -116,29 +110,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "professional/project ideas.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a4f5044cb1a59ba1",
+  "active": "729cd3c87d21cf54",
   "lastOpenFiles": [
-    "professional/technology.md",
-    "professional/project ideas.md",
-    "professional/notes.md",
-    "professional/Programming notes/js.md",
-    "personal/monitor.md",
+    "personal/nas.md",
+    "professional/Project-Ideas/project-ideas.md",
+    "personal/bench.md",
     "personal/readme.md",
-    "professional/bussiness/launch.md",
+    "professional/infra.md",
+    "professional/technology.md",
     "personal/Tech Todo.md",
-    "professional/linux commands.md",
-    "professional/infra.md"
+    "professional/ai.md",
+    "professional/notes.md",
+    "personal/colo.md"
   ]
 }

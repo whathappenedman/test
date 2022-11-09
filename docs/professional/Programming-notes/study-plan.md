@@ -33,5 +33,9 @@ CI/CD
 Git
 vite
 
+# Open SOurce
+futon/couchdb
+mdn/web.dev
+
 
 

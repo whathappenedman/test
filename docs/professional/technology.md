@@ -90,4 +90,11 @@ https://signoz.io/docs/faqs/product/#how-is-signoz-different-from-prometheus
 
 ## comments
 
+# notifications
+https://pushover.net/ - emrgency alerts
+ntfy.sh
+make ur own like
+https://pushurl.43z.one
+
+
 

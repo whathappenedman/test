@@ -33,6 +33,7 @@ vpn out!
 ytdlp downloader!
 website archiver!
 ping/uptime!
+ntfy.sh!
 
 ## server
 plex,emby,jellyfin
@@ -123,4 +124,4 @@ so actually just dont do anything.
 yt-dlp on pi
 this has two endpoint, one is behind nginx at home through vpn or tunnel
 another is cf pages -> free cloud db, read from there
-put all my other shit behind nginx, (sonarr,radarr,jacket,qbit,yt-dlp,dashboards,ha,misc)
+put all my other shit behind nginx, (sonarr,radarr,jacket,qbit,yt-dlp,dashboards,ha,misc) ^70ea02

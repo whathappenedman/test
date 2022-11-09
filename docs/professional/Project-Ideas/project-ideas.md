@@ -21,15 +21,18 @@ privacy redirect
     amp, proxy
 p2p noise
 
-# archiver
+# archiver 
 web ui for data like b2
     abstract disks from retrival (3x copies)
 web ui -> command line -> original link, newlink?, tag
     yt-dlp 
         single video, playlist, past and future(rss)
-    htTrack single site 
+    htTrack
         httrack.exe --get htpps://example.com/singlepage
-        mirror whole site and future
+        mirror whole site and future on weekly/monthly
+        check out archive.org
+    integrate with my notes app
+
 
 
 

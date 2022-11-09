@@ -16,7 +16,7 @@ view server key finger print ssh-keygen -l -f /etc/ssh/  ssh_host_ecdsa_key.pub
  1. disalow root
  2. change port  
  3. cert only  
-
+https://www.raspberrypi.com/documentation/computers/remote-access.html
 ## Firewall
 
 ### UFW
@@ -126,15 +126,14 @@ use arch wiki for example ssh fail2ban
 https://wiki.archlinux.org/title/security
 also see if there is a fedora or debian wiki
 
+## rsync
+https://tylersguides.com/guides/rsync-backups/
 ## ranger
 https://superuser.com/questions/1043806/how-to-exit-the-ranger-file-explorer-back-to-command-prompt-but-keep-the-current
 ctrl s, ctrl d
 
 https://www.rootusers.com/23-hardening-tips-to-secure-your-linux-server/
 check git for guide on linux secuyring
-
-
-
 
 
 # further
