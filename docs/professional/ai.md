@@ -22,6 +22,8 @@ https://news.ycombinator.com/item?id=27876383
 first comment on wolf binary
 https://hn.algolia.com/?q=ocr
 
+works good and fast, have to resise image like 5mb image to 50%
+
 obj detect ok
 image class ok
 both by google not impo rn

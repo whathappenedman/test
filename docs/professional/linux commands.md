@@ -1,3 +1,19 @@
+# MISC TEMP
+installl nvm
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+nvm install node
+
+install wrangler
+npm install wrangler -g
+wrangler login
+
+github
+git clone https://username(notemail)@github.com/username/reponame
+git conifg --global user.name "username"
+					user.email
+git config --global credential.helper store not secure stop using!!
+
 # Basic Security and Setup
 ## Update pakcages
 ```
