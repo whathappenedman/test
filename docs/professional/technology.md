@@ -96,5 +96,18 @@ ntfy.sh
 make ur own like
 https://pushurl.43z.one
 
+# Forum Software
+in no particular order
+
+ - https://invisioncommunity.com/buy/self-hosted/
+ - https://xenforo.com/purchase/self-hosted
+ - https://www.phpbb.com/
+ - https://www.simplemachines.org/community/index.php?board=254.0
+ - https://www.discourse.org/pricing
+ - https://flarum.org/
+
+https://news.ycombinator.com/item?id=32171283
+
+
 
 

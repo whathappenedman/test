@@ -76,6 +76,9 @@ api fuzz/ load test
 npm install
 sudo npm install -g nodemon
 ```
+https://nodejs.org/en/download/package-manager/#nvm
+https://github.com/nvm-sh/nvm#install--update-script
+https://github.com/nodesource/distributions/blob/master/README.md
 
 # Linux
 users  
@@ -88,6 +91,8 @@ ls/grep/awk/pipe ... basic bash
 selinux tutorial  
 ssh,screen,git  
 proc management  
+
+https://linuxconfig.org/  ??
 
 ## scp
 ```scp public master@172.18.191.18:/home/master/app```

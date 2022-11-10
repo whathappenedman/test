@@ -8,11 +8,11 @@ then virtualize
 also test this first doing linux(latpop) to linux (pi)
 then do one side linux virt
 then try windows on bare then virt
-try other x servers on windows
+try other x servers on windows (xming)
 
 tbf vnc will probably be good enough
-then try kasm web for refrence and rustdesk
-    
+then try kasm web for refrence and rustdesk (instant audiuo, good video)
+also there is quacamole
 
 # Existing options
 
@@ -34,6 +34,11 @@ As of 2020, there are several projects that use these methods to provide GUI acc
 
 ### [GNOME RDP](https://wiki.gnome.org/Projects/Mutter/RemoteDesktop) 
     using pipewire, wayland and flatpak
+
+Mighty
+parsec
+open-stream.net
+cf teams
 
 # Broswer based
 BrowserBox[HN RBI using headless chrome](https://news.ycombinator.com/item?id=27180813)
