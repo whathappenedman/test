@@ -15,6 +15,8 @@ no network provision.
 for exmaple gets aroudn and issue of using gpls code 
 on android or ios, cus apps arent open source
 or drm?
+https://tldrlegal.com/license/mozilla-public-license-2.0-(mpl-2) is cool
+
 # CLA
 must make sure that i pick one that allows
 dual licensing and commerical.

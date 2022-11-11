@@ -108,6 +108,10 @@ in no particular order
 
 https://news.ycombinator.com/item?id=32171283
 
+# OCR
+tesseract
+    need to reduce image size
+
 
 
 
