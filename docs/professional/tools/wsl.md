@@ -10,5 +10,9 @@ In my case the WSL interface is vEthernet (WSL) so I ran:
  netsh int ipv4 set subinterface "vEthernet (WSL)" mtu=1420 store=persistent
 At the end I ended up changing only the MTU of the VPN Ethernet device, without modifying the "vEthernet (WSL)"
 
+https://github.com/microsoft/WSL/issues/7345
+https://github.com/microsoft/WSL/issues/6264
+
+
 ## Files
 [working accross filesystems](https://learn.microsoft.com/en-us/windows/wsl/filesystems)
