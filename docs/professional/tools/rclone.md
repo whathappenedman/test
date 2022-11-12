@@ -1,22 +1,20 @@
 MARGASA)123MARGASA)!@#
-MARGASA)123MARGASA)!@#
 
-b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Desktop\Dektop 2020.7z" "Desktop/Desktop 2020.7z"
-
-b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Laptop\Laptop.7z" "Laptop/Laptop.7z"
-
-
-can use b2 and/or rclone
-b2 has sync command
-rclone has crypt
-
-
-openeed out all these other direcotries.
-upload large files?
-upload yt-dl
+use crypt for yt-dlp
 dl google
 
+rclone config file issue and also keys issue
+rclone sync -P "/mnt/c/Users/Mustafa/p" secret-b2:windows/p --exclude .git/ --exclude node_modules/
 
+rclone ls/lsd
+rclone config
+rclone sync
+rclone ncdu
+
+# Notes
+https://www.reddit.com/r/DataHoarder/comments/f4jacr/rclone_s3_deep_archive_workflow/
+
+# History
 
 b2-windows.exe upload-file Desktop-HDD-Backup
 -----------------
@@ -25,9 +23,10 @@ b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Phone\s4-s6-misc-fromD
 b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Laptop\ibuyp.7z" "Laptop/ibuyp.7z"
 b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Laptop\Laptop 2021.7z" "Laptop/Laptop 2021.7z"
 b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Laptop\laptop clone.7z" "Laptop/laptop clone.7z"
+
 b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Laptop\laptop clone 2.7z" "Laptop/laptop clone 2.7z"
 
--------------------
+
 b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Desktop\Dektop 2020.7z.001" "Desktop/Dektop 2020/Dektop 2020.7z.001"
 b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Desktop\Dektop 2020.7z.002" "Desktop/Dektop 2020/Dektop 2020.7z.002"
 ----------------------

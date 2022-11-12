@@ -1364,3 +1364,56 @@ cd p
 ga.
 gcep
 gs
+ls
+nano
+ls /srv
+ipp
+ls
+nano
+cd p
+nano ~/.bash_aliases
+source 
+soruce ~/.bash_aliases
+source ~/.bash_aliases
+ga.
+backup
+gcep
+gs
+cd p
+gs
+ga.
+gcep
+gcep
+ip a
+wsl
+ip route | grep default
+cat /etc/resolv.conf | grep nameserver
+firefox --no-remote --no-xshm
+source ~/.bash_aliases
+backup
+ip a
+wsl
+ip route | grep default
+cat /etc/resolv.conf | grep nameserver
+firefox --no-remote --no-xshm
+cd p
+diff
+git add
+git add .
+git resotre 
+git restore
+git reset
+git diff
+cls
+git diff -w
+ga.
+gs
+gcep
+ga.
+cd p
+gcep
+gs
+cd p
+gs
+ga.
+gcep

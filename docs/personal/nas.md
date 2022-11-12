@@ -3,20 +3,25 @@ test cpu
 test mobo
 install windows
 check power
-check drives in case, stas, smart, stress
+check drives in case, stas, smart, stress, temp
+sleep, hibernate, wol
+then put drives in case(shuk)
+power up from what curcit/breaker
+measure power draw
 
-now its mixed
-check drives shucked
-linux
+now its sage 2 not same week
+## linux and nas
 decide what file system to use and nfs vs samba
 so like 4 options min (nfs/samba + ntfs/ext4)
 and check if works on windows like direct read not through share
 c states c8?
 
+## step 3
 https://www.snapraid.it/faq#enc
 snap raid, enc, pool, smartools/power
 then temps, fan dust
 sleep
+
 qbit/sonar/radar/vpn/ytdlp/node/nginx/jellyfin/uptime/dns
 now see what sleep/power/network+sonarr
 then decide pi. still need pi regardless

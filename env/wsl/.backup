@@ -2,6 +2,7 @@
 .bash_aliases
 .bash_history
 
-.gitconfig
-
 .backup
+
+.gitconfig
+.config/rclone/rclone.conf
