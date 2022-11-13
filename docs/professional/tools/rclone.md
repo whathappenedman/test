@@ -1,9 +1,15 @@
-MARGASA)123MARGASA)!@#
-
+# To DO
 use crypt for yt-dlp
 dl google
 
 rclone config file issue and also keys issue
+
+adopt this https://rclone.org/filtering/#exclude-directory-based-on-a-file
+bascially add a file in every dir u want to exlcue,
+lets say an .rc-ignore file
+then replace rclone allias with --exclude-if-present .ignore
+and make an rclonef for without it f for full
+# Commands
 rclone sync -P "/mnt/c/Users/Mustafa/p" secret-b2:windows/p --exclude .git/ --exclude node_modules/
 
 rclone ls/lsd
@@ -33,3 +39,6 @@ b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups\Desktop\Dektop 2020.7z
 b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups-LargeFiles\NOTE 4 PHONE DATA.7z.001" "Backups-LargeFiles/NOTE 4 PHONE DATA/NOTE 4 PHONE DATA.7z.001"
 b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups-LargeFiles\NOTE 4 PHONE DATA.7z.002" "Backups-LargeFiles/NOTE 4 PHONE DATA/NOTE 4 PHONE DATA.7z.002"
 b2-windows.exe upload-file Desktop-HDD-Backup "D:\Backups-LargeFiles\NOTE 4 PHONE DATA.7z.003" "Backups-LargeFiles/NOTE 4 PHONE DATA/NOTE 4 PHONE DATA.7z.003"
+
+
+MARGASA)123MARGASA)!@#
