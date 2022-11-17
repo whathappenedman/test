@@ -57,6 +57,7 @@ explorer
 	extentions
 	hidden
 	group by none
+	show frequently used in quick access
 win e opens my computer
 add user folder and p folder to pinned position 1 and 2
 

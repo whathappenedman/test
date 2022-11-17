@@ -17,6 +17,8 @@
  - rizq
  - dua
  - purpose of life/why we are here
+ - shaytaan and his trap
+   beware of your enemy, take him as an enemy
 
 ### Category 2 (All can be or not be boosters)
  - jannah/fire
@@ -45,7 +47,7 @@
     love for aal
 
  - other prohets (quran -> practical examples)
-    musa: taqwa, dawah
+    musa: taqwa, dawah,
     yusuf: modernity
 
  - hayaa/fahshaa
@@ -55,7 +57,17 @@
  - unity
     hasan, pray behin khawarij
 
+ - zhulm/huqooq
+   environemnt
+   resources
+   family
+   money, corporation,
+
  - honesty/justice/honor
+ - adab/humility
+
+ - build society, evryone has role, 
+   womens role, have sex.
 
 
 ## The hour
@@ -85,6 +97,14 @@ basically write 60 snippits (blocks on one topic, corresponding to 1 out of the 
 khutbahs)
 that covers half the year, then when u repeat its always fresh cus u mix and match
 u add your own, or there is guest speaker
+
+encourage a fast delivery style when doing the exhortations or boosters
+always add in, sprinkele in statements wherevery u can for example:
+talking about sins, be like brother dont get black dot on your heart!
+the angels wont forget, your hand will testify.
+say things like, what are you waiting for. wake up.
+time is running out. but balance dont be always doom and gloom.
+
 
 # Broad Themes
 Where applicable always mention or weave into point:

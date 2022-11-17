@@ -13,6 +13,14 @@ At the end I ended up changing only the MTU of the VPN Ethernet device, without 
 https://github.com/microsoft/WSL/issues/7345
 https://github.com/microsoft/WSL/issues/6264
 
+## High CPU
+caused by wslg, can disable for temp solution
+or try win+ctrl+shift+B to reset graphics, or toggle monitor states?
+[Fix][def]
+[on of many gihub issues](https://github.com/microsoft/WSL/issues/6982)
+
 
 ## Files
 [working accross filesystems](https://learn.microsoft.com/en-us/windows/wsl/filesystems)
+
+[def]: https://tkacz.pro/wsl-fix-vmmem-high-cpu-usage/

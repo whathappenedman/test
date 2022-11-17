@@ -1,4 +1,6 @@
 # To DO
+1. add chron
+
 use crypt for yt-dlp
 dl google
 

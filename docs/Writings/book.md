@@ -1,0 +1,3 @@
+big pharma
+
+patents
