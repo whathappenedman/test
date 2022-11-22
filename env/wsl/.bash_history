@@ -1716,3 +1716,18 @@ gs
 ga.
 gcep
 bakn
+ga.
+bakn
+cd p
+backup
+gs
+gcep
+backup-notes
+nano ~/.bash-aliases
+nano ~/.bash_aliases
+source ~/.bash_aliases
+cd ~
+cd .config
+cd rclone
+ls
+nano rclone.conf 
