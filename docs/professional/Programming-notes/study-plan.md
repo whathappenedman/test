@@ -27,6 +27,9 @@ couch
 
 # Devops
 Docker
+ansible
+bash
+    regex,grep,awk,find,
 CI/CD
 
 # Tooling
@@ -36,6 +39,13 @@ vite
 # Open SOurce
 futon/couchdb
 mdn/web.dev
+
+# sysadmin
+linux:
+users/file perm
+ufw, iptables
+systemd (process man)
+bash scripting (f2b,installer)
 
 
 

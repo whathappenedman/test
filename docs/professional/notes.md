@@ -93,6 +93,10 @@ or swim lanes
 collapsable columns/expand all/ select and collapse/collapse empty
 sub cards with toggle, icon for has desc
 recurring(every x thing. so bi weekly quarterly)
+some formula thing
+like add up values
+for me its total of price for buy
+can be time/difficulty estimate
 
 
 have a kanban view

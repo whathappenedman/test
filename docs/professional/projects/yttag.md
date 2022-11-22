@@ -22,3 +22,9 @@ Desktop Browser Extentions (chrome,ff)
 IOS Aapp, Safari Extention
 ## Tier 3
 Desktop App
+
+stackvoerflow saves
+stackorganizer c
+
+later add bookmarks and cross browser bookmark and tab sync and read later
+and generic rss

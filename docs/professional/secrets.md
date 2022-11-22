@@ -8,6 +8,14 @@ https://12factor.net/config tl,dr env vars are per deployment! not in code
 git config/cred
 ssh
 rclone
+db
+
+[can use ssh passphrase cached in agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases)
+https://security.stackexchange.com/questions/183636/ssh-keygen-what-is-the-passphrase-for
+same with rclone.
+basically passwrod gets used once at login and then stored in mem
+always do fde too, can also do root perms for sudo
+
 
 # Notes
 config files can be read from disk, on server scope them to user

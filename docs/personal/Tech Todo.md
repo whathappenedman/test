@@ -1,3 +1,22 @@
+## small
+NPP
+    temp dir -> p
+vs code 
+    git integartion
+    workspaces and back up
+    TEMP SAVE DIR
+bash
+    .config
+    protect ssh keys
+
+backup
+    b2 x2
+    b2 every 5 min, versioning?
+    test
+
+vpn/dns/browser sync/login ff
+## main
+
 SM
 Passwords
 
