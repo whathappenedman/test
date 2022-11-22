@@ -11,6 +11,7 @@ bascially add a file in every dir u want to exlcue,
 lets say an .rc-ignore file
 then replace rclone allias with --exclude-if-present .ignore
 and make an rclonef for without it f for full
+instead i did an alias to a file at the root of p
 # Commands
 rclone sync -P "/mnt/c/Users/Mustafa/p" secret-b2:windows/p --exclude .git/ --exclude node_modules/
 

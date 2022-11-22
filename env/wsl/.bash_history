@@ -1417,3 +1417,220 @@ cd p
 gs
 ga.
 gcep
+ls /srv
+ipp
+nano
+source 
+soruce ~/.bash_aliases
+source ~/.bash_aliases
+ip a
+wsl
+ip route | grep default
+cat /etc/resolv.conf | grep nameserver
+firefox --no-remote --no-xshm
+source ~/.bash_aliases
+ip a
+wsl
+ip route | grep default
+cat /etc/resolv.conf | grep nameserver
+firefox --no-remote --no-xshm
+diff
+git add
+git add .
+git resotre 
+git restore
+cls
+git diff -w
+cd p
+git reset
+gs
+git diff
+ga.
+gcep
+sudo apt update
+apt list --upgradable 
+sudo apt upgrade
+sudo apt install rclone
+config
+rsync
+rclone
+ls
+rclone ls
+rclone about
+rclone about "b2 - test"
+rclone about "B2 - test"
+rclone "B2 - test"
+rclone mnt "B2 - test"
+rclone ncdu "B2 - test"
+rclone ncdu "B2 - test":
+rclone ls "B2 - test"
+mkdir b2
+rclone ls "B2 - test":
+rclone about "B2 - test":
+rclone lsd
+rclone lsb
+rclone lsd "b2 - test":
+rclone mkdir "B2 - test":rclone
+rclone mkdir "B2 - test":rclone6
+rclone lsd "B2 - test":
+rclone lsd "B2 - test":rclone6
+rclone config
+rclone sync -i "C:\Users\Mustafa\p\docs" secretb2:docs
+rclone sync "C:\Users\Mustafa\p\docs" secretb2:docs
+rclone sync "/mnt/c/Users/Mustafa/p/docs" secretb2:docs
+rclone sync "/mnt/c/Users/Mustafa/p/docs" secret-b2:docs
+rclone ncdu
+rclone listremotes
+rclone ncdu b2-test:
+rclone ncdu secret-b2
+rclone ncdu secret-b2:
+rclone sync "/mnt/c/Users/Mustafa/p" secret-b2:windows/p
+rclone sync "/mnt/c/Users/Mustafa/p" secret-b2:windows/p -pi
+rclone sync -p "/mnt/c/Users/Mustafa/p" secret-b2:windows/p 
+rclone sync -I "/mnt/c/Users/Mustafa/p" secret-b2:windows/p 
+rclone sync -P "/mnt/c/Users/Mustafa/p" secret-b2:windows/p 
+rclone sync -P -I "/mnt/c/Users/Mustafa/p" secret-b2:windows/p 
+rclone sync -P -I "/mnt/c/Users/Mustafa/p" secret-b2:windows/p --vv
+rclone sync -P -I "/mnt/c/Users/Mustafa/p" secret-b2:windows/p -vv
+rclone ls "/mnt/c/Users/Mustafa/p"  
+rclone ls -exclude .git/* "/mnt/c/Users/Mustafa/p"  
+rclone ls --exclude .git/* "/mnt/c/Users/Mustafa/p"  
+rclone ls "/mnt/c/Users/Mustafa/p" --exclude .git/ 
+rclone ls "/mnt/c/Users/Mustafa/p" --exclude .git/ --exclude code/
+rclone ls "/mnt/c/Users/Mustafa/p" --exclude .git/ -- exclude node_modules/
+rclone ls "/mnt/c/Users/Mustafa/p" --exclude .git/ --exclude node_modules/
+rclone lsd secret-b2:windows/p 
+nano ~/.bash_aliases
+nano ~/.config/rclone/rclone.conf
+rclone sync -P "/mnt/c/Users/Mustafa/p" secret-b2:windows/p --exclude .git/ --exclude node_modules/
+rclone sync -P "/mnt/c/Users/Mustafa/p" b2-secret:windows/p --exclude .git/ --exclude node_modules/
+cd
+la .git-credentials
+nano .git-credentials 
+nano .gitconifg
+nano .gitconfig
+nano .backup
+backup
+bg
+fg
+jobs
+rm .bash_aliases.save.1
+rm .bash_aliases.save
+la
+git reset
+git diff
+cls
+git diff -w
+ga.
+gs
+gcep
+ga.
+cd p
+gcep
+gs
+cd p
+gs
+ga.
+gcep
+find
+find rclone.conf
+cd etc
+cd ..
+cd var
+rclone
+rclone config file
+cd .config
+nano rclone
+cd rclone
+nano rclone.conf
+cd
+rclone ncdu secret-b2:
+cd .backup
+nano .backup
+ls
+la
+la .config
+la .config/rclone
+ga.
+gcep
+rclone ndcu b2-test:
+rclone ncdu b2-test:
+rclone ncdu secret-b2:
+cd
+ls
+la
+nano .backup
+backup
+exit
+ipp
+exit
+ipp
+ipp
+exit
+cd p
+ga.
+gcep
+gs
+git
+rclone sync -P "/mnt/c/Users/Mustafa/p" secret-b2:windows/p --exclude .git/ --exclude node_modules/ -vv --logfile=rclonelog.txt
+rclone sync -P "/mnt/c/Users/Mustafa/p" b2-secret:windows/p --exclude .git/ --exclude node_modules/ -vv --logfile=rclonelog.txt
+rclone sync -P "/mnt/c/Users/Mustafa/p" b2-secret:windows/p --exclude .git/ --exclude node_modules/ -vv --log-file=rclonelog.txt
+rclone sync -P "/mnt/c/Users/Mustafa/p" b2-secret:windows/p --exclude .git/ --exclude node_modules/ -v --log-file=../rclonelog.txt
+exit
+ipp
+history
+cd 
+nano .bash_aliases 
+cd p
+cd ..
+la
+nano rclonelog.txt
+nano rclonelog.txt
+cd p
+gs
+ga.
+git commit -m "auto-byhandlol" 
+git push
+nano rclonelog.txt
+git commit -m "auto-byhandlol" 
+git push
+cd p
+ga.
+gcep
+gs
+ipp
+exit
+ipp
+rclone list remotes
+rclone listremotes
+rclone ncdu b2-test:
+git commit -m "auto-byhandlol" 
+nano rclonelog.txt
+git commit -m "auto-byhandlol" 
+ga.
+gcep
+find . -links +1
+git commit -a
+git diff
+git reset head
+git reset head~
+cd p
+ls
+gs
+git add .
+git stauts
+git status
+git commit -m "auto" 
+git push
+history
+git history 1300
+history 1300
+history --help
+rclone sync -P "/mnt/c/Users/Mustafa/p" b2-secret:windows/p --exclude .git/ --exclude node_modules/ -v --log-file=../rclonelog.txt
+ncdu
+rclone ncdu
+rclone ncdu b2-secret:
+rclone ncdu b2-test:
+cd bin
+cd /bin
+ls
