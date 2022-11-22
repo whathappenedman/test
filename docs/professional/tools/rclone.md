@@ -22,6 +22,13 @@ rclone ncdu
 # Notes
 https://www.reddit.com/r/DataHoarder/comments/f4jacr/rclone_s3_deep_archive_workflow/
 
+eventually can use 
+mega and hetzner storage box or 1ficher
+need to be storing over 1tb, but more like 2tb to make hetzner worth it($4/1tb or $13 for 5)
+and 4 for mega (8tb offer @ $20)
+
+
+
 # History
 
 b2-windows.exe upload-file Desktop-HDD-Backup

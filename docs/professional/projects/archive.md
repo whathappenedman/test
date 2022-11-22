@@ -9,13 +9,18 @@ AHM
 
 Maturidi
 Music Channels
+
 ## Secular
-comedy
+comedy (grif,)
 empirefiles
 
 # Websites
 tldrlegal
 workable economics
+torrentfreak
 rms
 
 # Books, PDFs
+
+# Data hoarding
+wiki

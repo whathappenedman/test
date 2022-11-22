@@ -133,6 +133,11 @@ and u want a pdu with web gui (smart power strip but also delivery)
 basically u want 30 amp but iof not still liek a half rack
 with power monitoring
 
+v1 is 18drive 10gb(whatever is ~$200) fractal case (125TB)
+v2 is supermirco 36 bay
+v3 is 60-72 bay (with 16-20TB drives) 1PB
+in eithercase can get larger drives, or extras
+
 ## Hardware
  - [Fractal 7 cases](https://www.amazon.com/Fractal-Design-Aluminum-Tempered-Computer/dp/B08146GB6Y/ref=sr_1_1?keywords=fractal%2Bdefine%2B7%2Bxl&qid=1667350631&qu=eyJxc2MiOiIyLjM5IiwicXNhIjoiMS40NSIsInFzcCI6IjAuNTAifQ%3D%3D&sprefix=fractal%2Bdefine%2B%2Caps%2C135&sr=8-1&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&th=1)
  
