@@ -1634,3 +1634,85 @@ rclone ncdu b2-test:
 cd bin
 cd /bin
 ls
+ncdu
+rclone ncdu
+rclone ncdu b2-secret:
+rclone ncdu b2-test:
+cd bin
+cd /bin
+cd ~
+ls
+cd .config
+cd rclone
+la
+nano rclone.conf
+cd p
+source ~/bash_aliases
+source ~/.bash_aliases
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --log-level INFO
+rclone sync /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --log-level INFO
+rclone ncdu b2-test:
+git commit -m "auto-byhandlol" 
+nano rclonelog.txt
+git commit -m "auto-byhandlol" 
+find . -links +1
+git commit -a
+git diff
+git reset head
+git reset head~
+ls
+git add .
+git stauts
+git status
+git commit -m "auto" 
+git push
+history
+git history 1300
+history 1300
+history --help
+rclone sync -P "/mnt/c/Users/Mustafa/p" b2-secret:windows/p --exclude .git/ --exclude node_modules/ -v --log-file=../rclonelog.txt
+ncdu
+rclone ncdu
+rclone ncdu b2-test:
+cd p
+rclone ncdu b2-secret:
+rclone ls
+rclone ls local:
+pwd
+rclone ls /mnt/c/Users/Mustafa/p
+rclone ls /mnt/c/Users/Mustafa/p/test
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude .git/*
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude .git/**
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude 
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude apple.txt
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude bad*.*
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude bad
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude bad*
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude .git
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude .git/
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude node_modules
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude node_modules/
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude-if-present .rcloneignore
+touch .rcloneignore
+fg
+
+
+rclone --dry-run
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude-from .rcloneignore
+rclone ls /mnt/c/Users/Mustafa/p/ --exclude-from .rcloneignore
+rclone sync -P /mnt/c/Users/Mustafa/p secret-b2:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --dry-run
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --dry-run
+backup-notes 
+backup-notes
+backup
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore -v
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore
+nano ~/.bash_aliases 
+source ~/.bash-aliases
+source ~/.bash_aliases
+nano ~/.bash_aliases
+backn
+gs
+ga.
+gcep
+bakn

@@ -36,8 +36,12 @@ vlc config
 ff dev
 	delete all
 
-browser 
+browsers 
 	s19
+	reopentabs
+	ff, trr
+	
+
 
 
 # windows settings hanad

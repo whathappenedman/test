@@ -25,6 +25,7 @@ cmd and bash
 	autocomplete,
 	history,aliases
 	jump lists
+	move into .config
 	
 https://unix.stackexchange.com/questions/30925/in-bash-when-to-alias-when-to-script-and-when-to-write-a-function
 

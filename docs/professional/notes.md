@@ -115,6 +115,8 @@ workflowy
 amazinmarvin
 bundlenotes
 super notes
+[emery - some hn notes](https://news.ycombinator.com/item?id=32313583)
+[general task](https://news.ycombinator.com/item?id=33658763)
 
 ### commerical/teams
 monday
@@ -124,9 +126,9 @@ teams
 
 # sample road map
 
-## v.5
+## v.5 
 keep with columns
-kanban basic
+kanban basic (embed notes)
 archiver(private)
 pwa(private)
 ## v1
