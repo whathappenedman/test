@@ -1,4 +1,13 @@
-How to hire analysits?
+# misc
+hire local guys
+make them always train other teams
+a portion of their time is spent creating docs/teaching resources
+all lower employees have to thouroughly document what they do
+and learn. need a good kb
+
+# Analysits/think tank
+
+this includes news people, edu,media
 
 train them do the thing
 for intel

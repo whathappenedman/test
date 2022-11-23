@@ -97,6 +97,10 @@ some formula thing
 like add up values
 for me its total of price for buy
 can be time/difficulty estimate
+eventually this sint just kanban
+kanban is just on implementation of the fact that this is a more abstract board
+so doesnt just haev to follow kanban style can be a bulliten board.
+if you take that oone step fuirther its my one note with blocks?
 
 
 have a kanban view

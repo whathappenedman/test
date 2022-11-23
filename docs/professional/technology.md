@@ -113,5 +113,11 @@ tesseract
     need to reduce image size
 
 
+# Reverse engineering
+https://stackoverflow.com/questions/273145/is-it-possible-to-decompile-a-windows-exe-or-at-least-view-the-assembly
+
+https://www.goggleheadedhacker.com/blog/post/6
+
+
 
 

@@ -1,5 +1,6 @@
-the settings.json here is a hardlink, to where?
-write the command here too
+the settings.json is a hard link to: "C:\Users\Mustafa\AppData\Roaming\Code\User\settings.json"
+
+write the command here too to make hrdlinjk
 
 and need per wrokspace settings here too 
 like for docs titlebar

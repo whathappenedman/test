@@ -22,8 +22,11 @@ lmabda/cf workers
 serverless like amplify
 
 # DB
-postgres/use the index
+firebase/dynamo
+postgres/use the index!!
 couch
+supabase/planetscale/cocaroach
+scylla
 
 # Devops
 Docker
@@ -37,6 +40,7 @@ Git
 vite
 
 # Open SOurce
+vimium(ff, extention)
 futon/couchdb
 mdn/web.dev
 

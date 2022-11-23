@@ -7,13 +7,18 @@ vs code
     TEMP SAVE DIR
 bash
     .config
-    protect ssh keys
+    protect ssh keys!! use passphrase.!!
 
 backup
+    see if i can log to file while still outputting p
+        so u can so add log command to it with info?
+        while ignoring it
     b2 x2
-    b2 every 5 min, versioning?
+    b2 every 5 min, versioning? (switch to windows prolly)
     test
 
+iphone
+    backup/contacts
 vpn/dns/browser sync/login ff
 ## main
 

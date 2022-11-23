@@ -6,6 +6,11 @@
     "workbench.colorCustomizations": {
     
     },
-    "window.commandCenter": true
+    "window.commandCenter": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.minimap.enabled": false
     
 }
