@@ -101,12 +101,54 @@ eventually this sint just kanban
 kanban is just on implementation of the fact that this is a more abstract board
 so doesnt just haev to follow kanban style can be a bulliten board.
 if you take that oone step fuirther its my one note with blocks?
+links tasks like dupes and chains
+also re representation (first sub task for now in one cloulmn)
+main task still in some athe area. not kanban obvs.
+in basic notes need a link section and a scratch/inbox/shadow section
+and basic column or two with toc
+this isnt full block
+prolly still mkdown/rtf
+embeddable in kanban (buliten board tbh)
+have a vision board too
 
+shopping list has inventory of items u can check them in for any weeks
+also add recurring there
+click specific button in card or hover to expand
+single lists inline
+or pop up multi.
+sub cards.
+just use firebase and 2-3 tables. do everythign cleint side
+till yuour dont with alpha
+spell check
+encrypt text e2e and voice
+but you loose web search and speech recog. can do on device tho
+so basically toggle to turn on e2e, no web search.
+not for pics, cus need to compress.
+paid users for extra storage can compress.
+can supply own key on each startup, or scrypt from a password
+if you loose it your fucked. not your account, your data.
 
 have a kanban view
 then an agenta/calander view
 keep
 journal
+
+## Abstract this: lists
+so to buy list
+can list items
+seperate into conrete vs ideas
+like $100wd8tbhdd@amazon vs need saucepan dont know what
+so like project not concrete item
+then can also view all without grouping
+or group by online, go search instore
+amazon, others
+returns.
+abstract this into a list type?
+
+in general you also
+have the square of impo/urgent
+but also back log/rn
+but also project/vs soon
 
 
 ## other apps

@@ -1731,3 +1731,118 @@ cd .config
 cd rclone
 ls
 nano rclone.conf 
+nano rclone.conf 
+cd p
+gs
+rclone lsl b2-secret: | grep 11-22
+rclone lsl b2-secret: | grep 11-22 15
+rclone lsl b2-secret: | grep "11-22 15"
+pwd
+rclone ls /mnt/c/Users/Mustafa/p
+rclone ls /mnt/c/Users/Mustafa/p/test
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude .git/*
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude .git/**
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude 
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude apple.txt
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude bad*.*
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude bad
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude bad*
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude .git
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude .git/
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude node_modules
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude node_modules/
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude-if-present .rcloneignore
+touch .rcloneignore
+fg
+rclone --dry-run
+rclone ls /mnt/c/Users/Mustafa/p/test --exclude-from .rcloneignore
+rclone ls /mnt/c/Users/Mustafa/p/ --exclude-from .rcloneignore
+rclone sync -P /mnt/c/Users/Mustafa/p secret-b2:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --dry-run
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --dry-run
+backup-notes 
+backup-notes
+backup
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore -v
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore
+nano ~/.bash_aliases 
+source ~/.bash-aliases
+source ~/.bash_aliases
+nano ~/.bash_aliases
+backn
+backup
+backup-notes
+nano ~/.bash-aliases
+nano ~/.bash_aliases
+source ~/.bash_aliases
+cd ~
+cd .config
+cd rclone
+nano rclone.conf 
+git add code/projects/yttag/
+git ls
+git ls-files
+git rm --cached code/projects/yttag
+aliases
+alias
+alert
+ga.
+git rm --cache code/projects/yttag
+nano .gitignore
+git rm --cahced
+git rm --cached
+git rm --cached code
+git rm --cached code/projects
+git rm --cached code/projects/pictag
+git rm --cache code/projects/search
+git rm --cache code/projects/dataWrangler
+git rm --cache code/projects/dataWrangler -r
+git add code/
+git rm --caached 
+git rm --cached code -r
+git restore --staged
+git restore 
+git restore $head
+git reset
+rclone ncdu b2-secret:
+rclone ls b2-secret:
+rclone la b2-secret:
+rclone 
+rclone lsl b2-secret
+rclone lsl b2-secret:
+rclone lsf b2-secret:
+rclone lsf b2-secret:windows
+rclone lsf b2-secret:windows/p
+rclone ls b2-secret:windows/p
+rclone lsl b2-secret:windows/p
+rclone lsl b2-secret:windows/p | grep .txt
+rclone lsl b2-secret:windows/p | grep -c 11-22
+rclone lsl b2-secret:windows/p | grep 11-22
+gcep
+gs
+bakn
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --log
+rclone
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore 
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --log-file rclone.log
+nano .gitignore 
+cd docs
+la
+ls
+ls -h
+cd p
+cd mustafa
+cd ..
+cd downloads/dl
+cd saved
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -f
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -F
+cd downloads/dl/saved
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -F
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -f 22+250
+explorer
+explore
+cd p
+gs
+ga.
+gcep
