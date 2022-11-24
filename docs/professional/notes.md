@@ -133,6 +133,10 @@ then an agenta/calander view
 keep
 journal
 
+aging, but only for tasks?
+like its programable, but power user feature
+same with e2e
+
 ## Abstract this: lists
 so to buy list
 can list items

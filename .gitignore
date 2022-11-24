@@ -1,9 +1,10 @@
 **/node_modules/
 **/.git/
 
-
-/code
+code/
 /private/
 
 *.jpg
 *.avif
+
+*.swp
