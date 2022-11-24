@@ -1846,3 +1846,12 @@ cd p
 gs
 ga.
 gcep
+explorer
+explore
+bakn
+nano p/.rcloneignore 
+cd [
+cd p
+gs
+backup
+gcep
