@@ -40,3 +40,6 @@ git reset HEAD~ for commit
 
 # nested git notes
 https://stackoverflow.com/questions/40567461/track-the-same-files-in-multiple-repositories
+
+try this?
+https://stackoverflow.com/a/64294714

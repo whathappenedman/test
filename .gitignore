@@ -1,5 +1,5 @@
 **/node_modules/
-code/**/.git/
+code/
 
 
 /private/
@@ -7,4 +7,3 @@ code/**/.git/
 *.jpg
 *.avif
 
-*.swp
