@@ -36,9 +36,11 @@ card
 ## SO what?
 so all of these decompose into metadata and notes for tag app
 
-and for notes its metadata(card) or blocks.
+and for notes its metadata(card) or long documents or blocks.
 
 i like this so basically like metadata/indexs/toplevel data arrays. all in one and all cacheable in mem. like under 5mb.
 then spread out notes and blocks into another db tier or what. worst case that 5mb can def use indexdb or even local storage. 
 and no reason not to use dynamo for objects
+
+
 # General

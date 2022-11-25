@@ -11,6 +11,7 @@
         80,
         120
     ],
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "window.openFilesInNewWindow": "on"
     
 }

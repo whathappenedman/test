@@ -1855,3 +1855,73 @@ cd p
 gs
 backup
 gcep
+rclone ncdu b2-secret:
+rclone ls b2-secret:
+rclone la b2-secret:
+rclone 
+rclone lsl b2-secret
+rclone lsl b2-secret:
+rclone lsf b2-secret:
+rclone lsf b2-secret:windows
+rclone lsf b2-secret:windows/p
+rclone ls b2-secret:windows/p
+rclone lsl b2-secret:windows/p
+rclone lsl b2-secret:windows/p | grep .txt
+rclone lsl b2-secret:windows/p | grep -c 11-22
+rclone lsl b2-secret:windows/p | grep 11-22
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --log
+rclone
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore 
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --log-file rclone.log
+nano .gitignore 
+ls -h
+cd mustafa
+cd ..
+cd downloads/dl
+cd saved
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -f
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -F
+cd downloads/dl/saved
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -F
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -f 22+250
+explorer
+explore
+bakn
+nano .gitignore
+mkdir code/practice
+la code
+cd code/practice/
+mkdir editablecss
+cd editablecss/
+touch index.html
+code index.html
+cd p
+git add code/
+gs
+ga.
+gcep
+ls -lC
+ls -l -C
+ls -l -c
+ls -c
+ls -clt
+ls -a
+cd docs
+cd profesional
+cd professional/
+ls
+la
+ls -s
+ls -S
+ls -lm
+ls -l -m
+ls -ls
+ls -lS
+ls -l
+ls -lc
+ls -lt
+ls -lt | grep "Nove 24"
+ls -lt | grep "Nov 24"
+ls -lt | grep "Nov 23"
+ls -lt | grep .md
