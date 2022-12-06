@@ -44,3 +44,6 @@ and no reason not to use dynamo for objects
 
 
 # General
+also need pub/sub and crawler(just metadata)
+and ocr on images is a note and so is transcript for short voice memos
+for longer videos this requires a full search db

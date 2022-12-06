@@ -1,4 +1,4 @@
-takes 1 sec on 5600x for default with 8 threads
+takes 1 sec on 5600x for default with 8 threads (4 core??)
 on 16thread hetzner x3 thats gonna be 1mil a day
 thats supports 60k users. dont need to worry ever.
 
@@ -13,3 +13,4 @@ https://web.dev/compress-images-avif/
 https://github.com/AOMediaCodec/libavif
 https://ci.appveyor.com/project/louquillio/libavif/build/artifacts
 
+avifenc --max NUMBER input.jpg -o output.avif 
