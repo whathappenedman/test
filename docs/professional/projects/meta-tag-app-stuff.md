@@ -65,7 +65,7 @@ then! caching
 i want to opensource some stuff
 maybe 
 
-
+# User Stories
 what are my user stoires
 add
 search by tag
@@ -90,7 +90,7 @@ need to design on mobile ui
 so just get an defualt editor and have added psudo blocks (links,attachments,toc)
 what i need/want built into this editor is
 collapse of bullets/headings
-# headings
+\# headings
 #! color/bold/italic
 hot linking
 second column of notes thatsd it! for v1
@@ -99,6 +99,7 @@ second column of notes thatsd it! for v1
 https://getpolarized.io/
 archivebox too
 
+# Input types/options
 input types
 video
 	yt,tiktok,insta/fb,vimeo, rumble?, streamable
@@ -116,8 +117,7 @@ share dialog, (android yes, ios app)(desktop??)
 bookmarkelt:
 https://joeldare.com/creating_a_drag_and_drop_bookmarklet.html
 
----------------------------
-okay roadmap! 12/1/22
+# Roadmap! 12/1/22
 
 yt tag 
 video (all sites) add from web(desktop/android pwa) and bookmarklet
@@ -191,6 +191,8 @@ open backend/api so can use your own backing store(archiver,ytdlp on nas,localdb
 bussiness options like not basic i mean monday, roadmap, sso
 messaging, email
 
+on device ai/compression (iphone/pixel) so can have e2e voice notes and pics
+
 archiver projects (weblinks,yt-dlp ui,)
 
 dev utils/blog tracker
@@ -201,7 +203,7 @@ news mockup
 sm
 
 ________________________________
-FUTURE PLANS
+# FUTURE PLANS
 ________________________________
 
 ar/vr/ai
@@ -275,3 +277,33 @@ so just start with hetzner because avif prolly wont happen on gpu anyways.
 then wire it up to aws g4dn? on spot for the t4s for whisper, after testing. 
 yea i can bring it after launch. just need avif enc and on server should be good, otherwise fall back to jpeg till fix
 https://www.reddit.com/r/AV1/comments/fq4p0j/can_av1_encoding_be_efficiently_gpu_accelerated/
+
+use this math and spot math to get answer:
+For revoldiv.com we have profiled, many gpus, the best one is 4090. We do a lot of intelligent chunking and detect word boundaries and run the model in parallel in multiple gpus and we get about 40 to 50 seconds for an hour long audio but without expect 7 minutes for an hour long audio on tesla t4
+  on tesla-t4-30gb-memory-8vcpu google cloud
+   on tiny and tiny.en
+    for 10 minute = 30 seconds
+   on medium
+    for 10 minute = 1m 30s
+    for 60 minute = 7m
+   on large
+    for 60 miutes = 13m
+  on NVIDIA GeForce RTX 4090
+   on tiny
+    for 10-minute = 5.5 seconds
+    for 60-minute = 35 seconds
+   on base
+    for 10-minute = 7 seconds
+    for 60-minute = 50 seconds
+   on small
+    for 10-minute = 14 seconds
+    for 60-minute = 1 min 35 sec
+   on medium
+    for 10-minute = 26 seconds
+    for 60-minute = 3 mins
+   on large
+    for 10-minute = 40 seconds
+    for 60-minute = 3 min 54 sec
+basically 6x diff so yea. also need to do bathcing anyways or chubnking rather but how
+so if doing 10x speed up as base on tiny. then 650 hours in month to get that $100 spot price
+times the 10x facot is about 400,000 mins so / $100 thats 4000min per 1 so offer 1000 min thats like 1hr per workday 
