@@ -32,3 +32,6 @@ https://opensource.stackexchange.com/questions/13265/is-agplv3-or-mplv2-better-f
 https://github.com/WordPress/gutenberg/issues/31893
 
 https://opensource.stackexchange.com/questions/5599/any-successful-dual-license-oss-project-i-can-use-as-template
+
+[GNU](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses)
+[GITHUB](https://choosealicense.com/)

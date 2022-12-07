@@ -1,192 +1,3 @@
-clear
-cd ~
-pwd
-cd p
-mkdir p
-cd p
-cd 
-pwd
-cls
-clear
-sudo apt update 
-sudo apt upgrade
-cls
-clear
-sudo apt install git
-sudo apt install htop
-sudo apt install neovim
-pwd
-cls
-clear
-git
-vimtutor
-everydaygit
-git help everyday
-git help
-git help -g
-git help tutorial
-touch apple.txt
-less apple
-less apple.txt
-ls
-sudo apt update
-sudo apt list --upgradable 
-sudo apt install
-sudo apt upgrade
-sudo apt install git htop ranger screen tmux
-sudo apt install rnager
-sudo apt install ranger
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-cd
-ls
-ls -A
-nano .gitconfig
-ls -A
-nano .git-credentials 
-code .
-wrangler 
-wrangler dev
-npm install
-wrangler dev
-wrangler publish
-git status
-git commit -a
-git diff
-git commit -a
-git status
-git diff
-git status
-git diff
-git commit -a
-git status
-git branch
-git push
-git status
-cd /etc
-ls -A
-nano ssh
-cd ssh
-ls
-nano ssh_host_ecdsa_key
-ranger
-git status
-git branch
-git branch --
-git branch -help
-git branch -a
-git checkout 
-git -h
-git --hlp
-git --help
-git branch --help
-git branch
-git branch --help
-git fetch 
-git fetch -all
-git fetch --all
-git branch
-git branch -a
-git checkout ui
-npm install
-git status
-git diff
-git commit 
-git add .
-git status
-git commit
-git push
-git branch
-git branch -a
-git branch -a
-nvm
-node -v
-nvm install node
-node -v
-npm -v
-npm
-npm version
-npm update
-npm install wrangler -g
-clear
-wrangler
-wrangler login
-wrangler whoami
-wrangler login
-wrangler whoami
-git
-git clone 
-cd 
-pwd
-cd ..
-pwd
-cd mnt
-cd c
-cd users
-cd mustafa
-dc
-cd
-cd /mnt/c/users/Mustafa/p/
-pwd
-ls
-touch apple.txt
-ls
-sudo ls
-ls -?
-ls --help
-ls -a
-ls -A
-rm --help
-rm apple
-rm apple.txt
-ls -A
-mkdir cod
-rm cod
-rm cod -d
-ls
-mkdir code
-mkdir code/projects
-ls
-cd code
-las
-ls
-cd projects
-ls
-git clone https://github.com/whathappenedman/yttag
-git clone https://github.com/whathappenedman/pictag
-git clone https://github.com/whathappenedman/search
-git config --global user.name "whm"
-git config --global user.email whathappenedman@gmail.com
-git push
-cd yttag
-git push
-git ocnifg --list
-git conifg --list
-git config --list
-git config --list --show-origin
-git push
-git clone https://whathappenedman@gmail.com@github.com/whathappenedman/yttag
-git clone https://github.com/whathappenedman/yttag
-cd ..
-git clone https://whathappenedman@gmail.com@github.com/whathappenedman/yttag
-git clone https://whathappenedman@github.com/whathappenedman/yttag
-git clone https://github.com/whathappenedman/yttag
-git clone https://whathappenedman@github.com/whathappenedman/yttag
-git config --list
-git config --listall
-cd yttag
-git config --listall -s
-git config --list 
-git config --list --show-origin
-cd ..
-git clone whathappenedman@github.com/whathappenedman/yttag
-git clone http://whathappenedman@github.com/whathappenedman/yttag
-git clone https://whathappenedman@github.com/whathappenedman/yttag
-git push
-cd yttag/
-git push
-git clone https://github.com/whathappenedman/yttag
-cd ..
-git clone https://github.com/whathappenedman/yttag
 git ocnfig --global credential.helper store
 git config --global credential.helper store
 git clone https://github.com/whathappenedman/yttag
@@ -1925,3 +1736,265 @@ ls -lt | grep "Nove 24"
 ls -lt | grep "Nov 24"
 ls -lt | grep "Nov 23"
 ls -lt | grep .md
+git rm --cached code/projects
+git rm --cached code/projects/pictag
+git rm --cache code/projects/search
+git rm --cache code/projects/dataWrangler
+git rm --cache code/projects/dataWrangler -r
+git rm --caached 
+git rm --cached code -r
+git restore --staged
+git restore 
+git restore $head
+rclone ncdu b2-secret:
+rclone ls b2-secret:
+rclone la b2-secret:
+rclone 
+rclone lsl b2-secret
+rclone lsl b2-secret:
+rclone lsf b2-secret:
+rclone lsf b2-secret:windows
+rclone lsf b2-secret:windows/p
+rclone ls b2-secret:windows/p
+rclone lsl b2-secret:windows/p
+rclone lsl b2-secret:windows/p | grep .txt
+rclone lsl b2-secret:windows/p | grep -c 11-22
+rclone lsl b2-secret:windows/p | grep 11-22
+bakn
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --log
+rclone
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore 
+rclone sync -P /mnt/c/Users/Mustafa/p b2-secret:windows/p --exclude-from /mnt/c/Users/Mustafa/p/.rcloneignore --log-file rclone.log
+nano .gitignore 
+cd docs
+ls -h
+cd mustafa
+cd ..
+cd downloads/dl
+cd saved
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -f
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -F
+cd downloads/dl/saved
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -F
+../yt-dlp.exe https://www.youtube.com/watch?v=6V_sEqfIL9Q -f 22+250
+explorer
+explore
+explorer
+explore
+bakn
+nano p/.rcloneignore 
+cd [
+backup
+nano .gitignore
+mkdri test
+mkdir test
+cd code
+cd projects
+cd yttag
+cd test
+mkdir projects
+touch projects.txt
+cd projects/
+mkdir repo
+touch repot.txt
+cd repo
+mkrdir .foo
+touch foo.txt
+git add test/
+cd test/projects/repo/.foo
+touch hidden.txt
+mkdir .foo
+git restore --staged test/
+rm test/
+rm test/ -r
+diff
+git diff
+git reset HEAD~
+gp
+git pull
+git reset 
+ga.
+git add code
+git reset
+git add --help
+git rm --cached code
+git rm --cached code/projects/yttag
+dir code/projects/yttag
+la code/projects/yttag
+nano code/projects/yttag.gitignore
+nano code/projects/yttag/.gitignore
+gcep
+git add code/
+git rm --cached code/
+git rm --cached code/ -r
+git restore --staged code/
+gs
+cd ../downlaods/takeouts/keep1
+cd ../downloads/takeouts
+cd keep1
+cd keep
+la
+ls -l
+ls -C
+ls --help
+ls -l | grep .html
+grep --help
+awk --help
+man awk
+man grep
+man ls
+ls
+cd
+cd p
+cls
+ls -lt | grep "Nov 23"
+ls -lt | grep .md
+cd p
+backup
+gs
+gcep
+backup-notes 
+cls
+lscpi | grep -i display
+lspci | grep -i display
+lspci 
+pip install git+https://github.com/openai/whisper.git
+.exit
+exit
+exit
+wshiper
+whisper
+whisper.py
+python.exe
+whisper.exe
+time 
+time whisper.exe --threads 1 --model tiney.en --language en --fp16 False 
+cd C:\Users\Mustafa\Documents\Sound recordings
+cd Documents\Sound recordings
+cd Documents/"Sound recordings"
+time whisper.exe --threads 1 --model tiney.en --language en --fp16 False  test2.m4a
+time whisper.exe --threads 2 --model tiny.en --language en --fp16 False  test2.m4a
+time whisper.exe --threads 1 --model tiny.en --language en --fp16 False  test2.m4a
+time whisper.exe --model tiny.en --language en --fp16 False  test2.m4a --threads 2
+time whisper.exe --model tiny.en --language en --fp16 False  test2.m4a --threads 3
+time whisper.exe --model tiny.en --language en --fp16 False  test2.m4a --threads 4
+time whisper.exe --model tiny.en --language en --fp16 False  test2.m4a --threads 5
+time whisper.exe --model tiny.en --language en --fp16 False  test2.m4a --threads 12
+time whisper.exe --model tiny.en --language en --fp16 False  test1.m4a --threads 2
+time whisper.exe --model tiny.en --language en --fp16 False  test1.m4a --threads 1
+time whisper.exe --model tiny.en --language en --fp16 False  test1.m4a --threads 12
+time whisper.exe --model tiny.en --language en --fp16 False  testyq.m4a --threads 12
+ffmpeg.exe
+ffmpeg.exe -i testyq.m4a -ss 00:00:00 -to 00:04:00 -c copy testyq4.m4a
+time whisper.exe --model tiny.en --language en --fp16 False  testyq4.m4a --threads 1
+time whisper.exe --model tiny.en --language en --fp16 False  testyq4.m4a --threads 2
+time whisper.exe --model tiny.en --language en --fp16 False  testyq4.m4a --threads 4
+time whisper.exe --model tiny.en --language en --fp16 False  testyq4.m4a --threads 6
+time whisper.exe --model tiny.en --language en --fp16 False  testyq4.m4a --threads 9
+time whisper.exe --model tiny.en --language en --fp16 False  testyq.m4a --threads 2
+cd Documents
+ls
+cd Sound\ recordings/
+time whisper.exe --model tiny.en --language en --fp16 False  testyq.m4a --threads 1
+time whisper.exe --model tiny.en --language en --fp16 False  testyq1.m4a --threads 4
+time whisper.exe --model tiny.en --language en --fp16 False  testyq1.m4a --threads 4
+PWD
+pwd
+ls --hyperlink 
+open
+open .
+explorer .
+explorer.exe .
+explorer.exe
+uname
+uname -h
+uname --h
+uname --help
+uname -m
+uname -i
+uname -o
+uname -p
+uname -r
+exit
+exit
+ipp
+cd downloads/dl
+tail dl.txt
+man tail
+less dl.txt
+yt-dlp -v
+yt-dlp.exe -v
+dl.txt | grep
+dl.txt
+grep dl.txt 
+grep dl.txt f
+grep -h
+grep --help
+grep f dl.txt
+grep  dl.txt
+grep / dl.txt
+grep 0- dl.txt
+grep /0- dl.txt
+yt-dlp.exe `grep /0- dl.txt`
+uname -r
+exit
+htop
+neovim
+neowin
+neofetch 
+yt-dlp.exe -F https://banned.video/watch?id=638b9ea494cc1f7c63034393
+yt-dlp.exe https://rumble.com/v1yjafg-getting-penile-enlargement-surgery-with-6ix9ine.html
+yt-dlp.exe -F https://rumble.com/v1yjafg-getting-penile-enlargement-surgery-with-6ix9ine.html
+history
+history | grep ffmpeg
+d ffmpeg.exe -i testyq.m4a -ss 00:00:00 -to 00:04:00 -c copy testyq4.m4a
+cd downloads
+banned-video.mp4
+ls | grep banned
+ffmpeg.exe -i banned-video.mp4 -ss 00:21:38 -to 00:23:04 -c copy share.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 00:27:17 -to 00:31:08 -c copy share1.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 00:33:45 -to 00:34:30 -c copy share2.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 00:37:22 -to 00:37:32 -c copy share3.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 00:37:22 -to 00:37:50 -c copy share3.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 00:37:22 -to 00:38:31 -c copy share3.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 01:19:19 -to 01:20:20 -c copy share4.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 01:53:20 -to 01:57:27 -c copy share5.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 02:15:18 -to 02:16:23 -c copy share6.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 02:18:15 -to 02:18:18 -c copy share6.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 02:18:15 -to 02:18:18 -c copy share7.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 02:18:14 -to 02:18:19 -c copy share7.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 02:17:50 -to 02:18:27 -c copy share7.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 02:20:18 -to 02:25:00 -c copy share7.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 02:20:18 -to 02:25:00 -c copy share8.mp4
+ffmpeg.exe -i banned-video.mp4 -ss 02:42:40 -to 02:43:30 -c copy share9.mp4
+ffmpeg -f concat -safe 0 -i merge.txt -c copy output.mp4
+cd dl
+cd saved/kanye/infowars
+ffmpeg.exe -f concat -safe 0 -i merge.txt -c copy output.mp4
+history | grep share
+history | grep share > cuts.txt
+nano cuts.txt
+ls
+la
+ls -h
+cat
+cat cuts.txt
+man cat
+man less
+cd p
+less docs/professional/tools/bash.md 
+less docs/professional/tools/ffmpeg.md 
+cd p
+cd temp
+ffmpeg -f lavfi -i color=c=black:s=1280x720:r=5 -crf 0 -c:a copy -shortest output.mp4
+ffmpeg.exe -f lavfi -i color=c=black:s=1280x720:r=5 -crf 0 -c:a copy -shortest output.mp4
+ffmpeg.exe -f lavfi -i color=c=black:s=1280x720:r=5:2=2 -crf 0 -c:a copy -shortest output.mp4
+ffmpeg.exe -f lavfi -i color=c=black:s=1280x720:r=5:d=2 -crf 0 -c:a copy -shortest output.mp4
+ffmpeg.exe -f lavfi -i color=c=black:s=1280x720:r=5:d=3 -crf 0 -c:a copy -shortest output.mp4
+
+cd ..
+cd ../Downloads/dl
+cd saved/kanye/infowars/
+ls
+ffmpeg.exe -f concat -safe 0 -i merge.txt -c copy output.mp4
