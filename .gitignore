@@ -1,9 +1,12 @@
 **/node_modules/
 code/projects
+experiments/shark/*/shark_tmp
 
 
 /private/
 
 *.jpg
 *.avif
+*.exe
+*.vmfb
 
