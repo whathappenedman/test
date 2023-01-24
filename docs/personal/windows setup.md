@@ -40,7 +40,10 @@ browsers
 	s19
 	reopentabs
 	ff, trr
-	
+	vimium,ublock,
+
+steam, epic
+	offline,throttle
 
 
 

@@ -12,6 +12,7 @@
         120
     ],
     "editor.minimap.enabled": false,
-    "window.openFilesInNewWindow": "on"
+    "window.openFilesInNewWindow": "on",
+    "git.decorations.enabled": false
     
 }

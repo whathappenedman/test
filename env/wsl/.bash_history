@@ -1,72 +1,3 @@
-git ocnfig --global credential.helper store
-git config --global credential.helper store
-git clone https://github.com/whathappenedman/yttag
-git clone https://whathappenedman@github.com/whathappenedman/yttag
-dig
-dig porntrex.com
-dig 109.201.134.96
-dig porntrex.com +short
-dig -x 109.201.134.96
-git init
-git add
-git status
-touch .gitignore
-nano .gitignore
-git status
-git add .
-git remote add origin https://github.com/whathappenedman/test.git
-git status
-git add .
-git status
-git commit -m "dfd"
-git push
-git push -u origin master
-git status
-git add projects\yttag\
-git add projects/yttag/
-git add code/projects/yttag/
-git status
-git add code/projects/yttag/
-git commit -m " dffd"
-git push
-git add code/projects/yttag
-git status
-nano .gitignore
-git status
-git add .
-git status
-git push
-git commit -m "new ingonre"
-git push
-nano .gitignore
-git status
-git add .gitignore
-git commit -m "tempm" 
-git push
-git status
-git add code/projects/yttag
-git status
-git push
-git commit -m "sds"
-git commit -a -m "fdf"
-git init
-git status
-git add .
-git commit -m "init"
-git status
-git branch
-git remote add origin https://github.com/whathappenedman/homedocs.git
-git push -u origin master
-git status
-git branch
-git branch temp
-git branch 
-git status
-git checkout temp
-git status
-git commit desktop
-git commit desktop\
-git status
 cd apples
 ls
 cd ../
@@ -1998,3 +1929,72 @@ cd ../Downloads/dl
 cd saved/kanye/infowars/
 ls
 ffmpeg.exe -f concat -safe 0 -i merge.txt -c copy output.mp4
+ls
+ffmpeg.exe -f concat -safe 0 -i merge.txt -c copy output.mp4
+cd p
+gs
+ga.
+gcep
+bakn
+ls
+ffmpeg.exe -f concat -safe 0 -i merge.txt -c copy output.mp4
+ga.
+bakn
+cd p
+git add docs/
+git add env/wsl/.bash_history 
+git commit -m "Auto but not rly" 
+git push
+gs
+gcep
+python
+curl (IFW-U01
+curl https://howlongtobeat.com/game/2127
+wget https://howlongtobeat.com/game/2127
+wget google.com
+wget
+wget --help
+wget -0- google.com
+wget -O- google.com
+wget -O- https://howlongtobeat.com/game/2127
+wget -U "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" -O- https://howlongtobeat.com/game/2127
+wget -U "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" https://howlongtobeat.com/game/2127
+yt-dlp -G https://www.youtube.com/watch?v=5CMWfXCJIPw
+yt-dlp.exe -G https://www.youtube.com/watch?v=5CMWfXCJIPw
+yt-dlp.exe -g https://www.youtube.com/watch?v=5CMWfXCJIPw
+yt-dlp -f "(bestvideo+bestaudio/best)[protocol-g https://www.youtube.com/watch?v=5CMWfXCJIPw=dash]" --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:54:23.00 -to 00:54:34.00"
+yt-dlp.exe -f "(bestvideo+bestaudio/best)[protocol-g https://www.youtube.com/watch?v=5CMWfXCJIPw=dash]" --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:54:23.00 -to 00:54:34.00"
+yt-dlp -f "(bestvideo+bestaudio/best)[protocol-f "(bestvideo+bestaudio/best)[protocol-g https://www.youtube.com/watch?v=5CMWfXCJIPw=dash]" --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:54:23.00 -to 00:54:34.00"=dash]" --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:54:23.00 -to 00:54:34.00"
+yt-dlp https://www.youtube.com/watch?v=5CMWfXCJIPw --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:54:23.00 -to 00:54:34.00"
+yt-dlp.exe https://www.youtube.com/watch?v=5CMWfXCJIPw --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:54:23.00 -to 00:54:34.00"
+yt-dlp.exe https://www.youtube.com/watch?v=5CMWfXCJIPw -x --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:54:23.00 -to 00:54:34.00"
+yt-dlp.exe https://www.youtube.com/watch?v=5CMWfXCJIPw -x --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:37:44.00 -to 00:39.08.00"
+yt-dlp.exe https://www.youtube.com/watch?v=5CMWfXCJIPw -x --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:37:44.00 -to 00:39:08.00"
+yt-dlp.exe https://www.youtube.com/watch?v=5CMWfXCJIPw -x --external-downloader ffmpeg --external-downloader-args "ffmpeg_i:-ss 00:37:46.00 -to 00:39:08.00"
+
+rclone
+rclone listremotes 
+rclone b2-test:
+rclone ls b2-test:
+history | grep rclone
+rclone lsd b2-test:
+rclone lsd b2-test:Desktop-HDD-Backup/
+rclone ls b2-test:
+history | grep rclone
+rclone lsd b2-test:
+rclone lsd b2-test:Desktop-HDD-Backup/
+D:\Files\takeouts\drive\Takeout\Drive\S6\Full res pics\20180209_151855.jpg
+ipp
+rclone
+rclone ncdu b2-test:
+yt-dlp.exe
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -F
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -F >> out.txt
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -F >> out1.txt
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -F 
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o %(title)s-%(height)s-f$(format_id)s.%(ext)s
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-f$(format_id)s.%(ext)s"
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-f$(format)s.%(ext)s"
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-$(format)s.%(ext)s"
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -j
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -j

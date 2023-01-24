@@ -66,3 +66,14 @@ dont need nas+compute lite
 
 
 # I/O mux
+
+# main server (core node)
+this is just an idea? maybe can fit all in 4u
+4 gpu,2s, water cooled
+16 nvme ssd(raid mmirror?)
+8 16tb hdd for back up and misc data (2 snap raid, 1 spare, 5 data)
+intrustion brook, immersion cooled passive from being burried? 
+with batteries (2 power walls)
+only runs up two conduits. each conduit has power and netowrk 
+connect to the ground wind tuirbines and solar
+network is starlink or p2p antenna
