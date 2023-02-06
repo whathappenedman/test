@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2037948f1caf0d0f","x":-2655,"y":-1602,"width":250,"height":437,"type":"text","text":""},
+		{"id":"ec50a80ca4c7d286","x":-2377,"y":-1602,"width":250,"height":437,"type":"text","text":""},
+		{"id":"ccd47b7b80939ada","x":-2957,"y":-1602,"width":283,"height":437,"type":"file","file":"Medical.md"},
+		{"id":"5e10b1e76605247f","x":-3624,"y":-1563,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=vLBd_ADeKIw"}
+	],
+	"edges":[]
+}

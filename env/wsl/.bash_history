@@ -1,18 +1,4 @@
 cd
-explorer.exe .
-ls
-touch foo.txt
-nano foo.txt
-nano Foo.txt
-less foo
-less foo.txt
-diff
-diff foo.txt Foo.txt
-cd mnt
-cd /mnt/c/users/mustafa/p/docs
-less .gitignore
-nano .gitignore
-cd
 cd /mnt/c/users/mustafa/p/docs
 cd ..
 less .gitignore
@@ -1998,3 +1984,17 @@ cat "https://www.youtube.com/@SadaiSalah/videos"
 echo "https://www.youtube.com/@SadaiSalah/videos" >> readme.txt 
 yt-dlp https://www.youtube.com/@SadaiSalah/videos -download-archive archive.txt
 exit
+ipp
+nano ~/.bash_aliases 
+exit
+htop
+neowin
+neofetch
+exit
+newfetch
+neofetch
+neofetch
+htop
+pwd
+whoami
+ipp

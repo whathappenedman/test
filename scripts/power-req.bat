@@ -1,0 +1,2 @@
+powercfg /requests
+pause
