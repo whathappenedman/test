@@ -11,22 +11,13 @@
             "id": "729cd3c87d21cf54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b2e417a4d90de32c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Untitled 1.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "right": {
     "id": "5b12599d3687e00b",
@@ -92,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,26 +122,40 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled 1.png"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5,
+    "collapsed": true
   },
-  "active": "b2e417a4d90de32c",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "729cd3c87d21cf54",
   "lastOpenFiles": [
-    "RA.md",
-    "personal/nas.md",
-    "professional/Project-Ideas/project-ideas.md",
-    "personal/bench.md",
-    "personal/readme.md",
-    "professional/infra.md",
-    "professional/technology.md",
-    "personal/Tech Todo.md",
-    "professional/ai.md",
-    "professional/notes.md"
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "attachments/muhammad-bin-yahya-al-ninowy-f019a75a-6bc9-43d0-a96d-1b784bc546a-resize-750.jpeg",
+    "photo-1527838832700-5059252407fa.jpg",
+    "attachments/travel-industry-air.jpg",
+    "attachments/Pasted image 20230126212621.png",
+    "attachments/gettyimages-183840052_sf.webp",
+    "attachments/Engelbart.jpg",
+    "Medical.md",
+    "RA.md"
   ]
 }

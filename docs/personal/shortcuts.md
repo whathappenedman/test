@@ -1,8 +1,10 @@
 like for kb or mouse 12:
 
 terminal
-notepp
+files
+notepp/
 notes app
+browser 1 (pomodore/yt) browser 2(fredium or w/e)
 everthing
 
 mute vol

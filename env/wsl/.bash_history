@@ -1,56 +1,3 @@
-cd apples
-ls
-cd ../
-git status
-git add apples
-git status
-git add .
-git status
-git commit -m "test"
-git push
-git push --set-upstreams origin temp
-git push --set-upstream origin temp
-cd
-ranger
-cd p/docs
-git status
-git add .
-git status
-git unstage
-git --help
-git rm
-git rm -n code\
-git rm -n code\ -r
-git rm -n -r code\ -r
-git rm -n -r code\ 
-git rm -n -r code\* 
-git rm -n -r code
-git rm -n -r /code
-git rm -n -r code
-git rm -n -r code/
-ls
-git rm -n -r ../code
-cd
-exit
-git status
-git rm code -n
-git rm code -r -n
-git rm code -r 
-git rm -n code -r 
-git commit -m --allow-empty-message
-git push
-git status
-git -n rm
-git rm -n code
-git rm -n code -r
-git status
-git commit -m --allow-empty-message
-git commit -am --allow-empty-message
-git push
-git status
-git commit -am " " && git push
-git commit -am "-" && git push
-git status
 cd
 explorer.exe .
 ls
@@ -1998,3 +1945,56 @@ yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(he
 yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-$(format)s.%(ext)s"
 yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -j
 yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -j
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o %(title)s-%(height)s-f$(format_id)s.%(ext)s
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-f$(format_id)s.%(ext)s"
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-f$(format)s.%(ext)s"
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-$(format)s.%(ext)s"
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -j
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -j
+cd p
+ga.
+gs
+gcep
+cd /mnt
+cd e
+cd 'Public Share'/
+cd Videos/
+ls
+cd TV
+ll
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -F 
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o %(title)s-%(height)s-f$(format_id)s.%(ext)s
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-f$(format_id)s.%(ext)s"
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-f$(format)s.%(ext)s"
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -o "%(title)s-%(height)s-$(format)s.%(ext)s"
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -f 397 -j
+yt-dlp.exe https://www.youtube.com/watch?v=WTtbKMeSkQY -j
+cd ~/
+ls
+nano .bash_aliases 
+cd p
+nano ~/.bash_aliases 
+nano .rcloneignore 
+backup && backup-notes
+nano rclone.log
+cd ..
+la
+nano rclonelog.txt 
+cd -
+sudo apt update
+sudo apt upgrade
+rclone ncde 
+rclone ncdu
+rclone ncdu b2-test:
+apt update
+sudo apt update
+cd p
+yt-dlp -F https://www.youtube.com/watch?v=DxREm3s1scA
+yt-dlp.exe -F https://www.youtube.com/watch?v=DxREm3s1scA
+yt-dlp --playlist-items 0 -O playlist:channel_url https://www.youtube.com/c/ChrisWereDigital
+yt-dlp.exe --playlist-items 0 -O playlist:channel_url https://www.youtube.com/c/ChrisWereDigital
+man cat
+cat "https://www.youtube.com/@SadaiSalah/videos" 
+echo "https://www.youtube.com/@SadaiSalah/videos" >> readme.txt 
+yt-dlp https://www.youtube.com/@SadaiSalah/videos -download-archive archive.txt
+exit
