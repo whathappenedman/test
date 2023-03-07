@@ -15,6 +15,7 @@ less/sass
   - APIS
     - dom
 - React
+  - vite
 - Next!!!
 - Svelte, svelte-kit
 
@@ -26,6 +27,7 @@ serverless like amplify
 # DB
 firebase/dynamo
 postgres/use the index!!
+sqlite
 couch
 supabase/planetscale/cocaroach
 scylla
@@ -50,7 +52,7 @@ mdn/web.dev
 linux:
 users/file perm
 ufw, iptables
-systemd (process man)
+systemd (process man) screen over tmux
 bash scripting (f2b,installer)
 
 

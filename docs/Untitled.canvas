@@ -1,9 +1,14 @@
 {
 	"nodes":[
-		{"id":"2037948f1caf0d0f","x":-2655,"y":-1602,"width":250,"height":437,"type":"text","text":""},
-		{"id":"ec50a80ca4c7d286","x":-2377,"y":-1602,"width":250,"height":437,"type":"text","text":""},
-		{"id":"ccd47b7b80939ada","x":-2957,"y":-1602,"width":283,"height":437,"type":"file","file":"Medical.md"},
-		{"id":"5e10b1e76605247f","x":-3624,"y":-1563,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=vLBd_ADeKIw"}
+		{"id":"0507410e2fd155b5","x":-4643,"y":-2128,"width":597,"height":453,"type":"text","text":"- appointments (rhumetoid, ear, eye)\n- bank chase why intrest\n- org all banks again final\n\t- notifs on all \n\t- use loadout\n\t- chase $2000/gov card\n\n- get glasses new"},
+		{"id":"2df4a7a552703da9","x":-2370,"y":-2108,"width":443,"height":653,"type":"text","text":"# Tech TODO\n- nas\n\t- stable diffusion/whisper\n- pi\n\t- nextcloud\n- xps battery\n-\n\n- passwords\n\t- change all\n\t- use bitwarden\n\t- 2fa all\n- get off gmail\n\t- move main accounts off it\n- new sm"},
+		{"id":"c6ae1ccd9a2cd6a9","x":-4643,"y":-1650,"width":482,"height":523,"type":"text","text":"# Quick TODOS\n- Iphone \n\t- screen protector\n\t- apple pay\n\t- backup phots\n\t- dns\n- cotton on\n- hydroflask"},
+		{"id":"7f18897a6181cb0d","x":-2437,"y":-1092,"width":250,"height":306,"type":"text","text":"- buy\n\t- nailcutter\n\t- lotion"},
+		{"id":"3487a94d32bbb5b2","x":-4643,"y":-1083,"width":525,"height":288,"type":"text","text":"- curtains (hold back, style/rings/ solid bar)\n- fix coax and ethernet outlets"},
+		{"id":"c98e15312c66189b","x":-4101,"y":-1650,"width":476,"height":218,"type":"text","text":"get green screen\ndo scripting for video\n\tbascially just like voice over then screenshot at time\n\tor video at time\n\twith transitions and music\n\tlook at gamermeld or techlinked or fireship"},
+		{"id":"7617d6dde6589bc0","x":-3602,"y":-2128,"width":250,"height":60,"type":"text","text":"try sync for this shit"},
+		{"id":"98c8d4a646319eb8","x":-3241,"y":-1844,"width":776,"height":456,"type":"text","text":"- TYPE EVERY DAY\n- SCHED:\n\t- 1 HR TODO\n\t- 1 HR LEET\n\t- 1 HR APPLY\n\t- 2 HR STUDY/CODE\n\t- 1 HR APP\n- FUCK IT DO 1440P IF NEEDED\n- GET 1440P CURVED FROM COSTCO AND BE DONE WITH IT AND LG 4K?\n- SEAT CUSHION/RAISE DESK/MOUNT\n- "},
+		{"id":"08d284713f9fef6f","x":-3863,"y":-1269,"width":719,"height":591,"type":"text","text":"- mat for floor chair\n- chair cushion\n- cancel prime"}
 	],
 	"edges":[]
 }

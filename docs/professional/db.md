@@ -47,3 +47,19 @@ and no reason not to use dynamo for objects
 also need pub/sub and crawler(just metadata)
 and ocr on images is a note and so is transcript for short voice memos
 for longer videos this requires a full search db
+
+
+# 2/16/23
+https://news.ycombinator.com/item?id=34812527
+lots in the comments/snippitsbasically for most apps can just get a $20 hetzner
+even at 160gb thats for many cases enough (1-2mb epr user) 
+thats iver 10k user even for yttag at 5mb and u add in notes later or use dynamo
+this is even with pg, can also use sqlite
+and you just need 1 for sqlite with replication to s3
+or just 2 for pg 1 master and one hot failover
+
+
+# SQLITE (serparte file)
+https://news.ycombinator.com/item?id=34812527
+https://news.ycombinator.com/item?id=34813298 (how to run)
+more notes https://news.ycombinator.com/item?id=33975635 on how to run

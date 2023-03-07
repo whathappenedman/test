@@ -11,9 +11,15 @@
             "id": "729cd3c87d21cf54",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Untitled 1.png"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -3563.3896541255526,
+                  "y": -1396.0369002414132,
+                  "zoom": -0.5,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -67,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b12599d3687e00b",
@@ -83,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.png",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.png",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.png"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -147,15 +154,15 @@
   },
   "active": "729cd3c87d21cf54",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
+    "RA.md",
     "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 1.png",
     "attachments/muhammad-bin-yahya-al-ninowy-f019a75a-6bc9-43d0-a96d-1b784bc546a-resize-750.jpeg",
     "photo-1527838832700-5059252407fa.jpg",
     "attachments/travel-industry-air.jpg",
     "attachments/Pasted image 20230126212621.png",
     "attachments/gettyimages-183840052_sf.webp",
-    "attachments/Engelbart.jpg",
-    "Medical.md",
-    "RA.md"
+    "attachments/Engelbart.jpg"
   ]
 }

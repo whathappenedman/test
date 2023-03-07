@@ -1,57 +1,3 @@
-cd
-cd /mnt/c/users/mustafa/p/docs
-cd ..
-less .gitignore
-c;s
-cls
-clear
-cd p
-cd 
-cd p/docs
-cd p/code/projects/
-cd yttag
-cd
-cd yttag
-echo hi
-ls
-cd ~
-ls
-ls --help
-la
-la .config
-ls /etc
-ls /etc/security
-ls /etc/security/limits.d
-nano /etc/security/limits
-cd
-ls
-echo $PATH
-cls
-la
-cd p/temp
-cp --help
-cls
-la ~
-cp --help
-la ~
-cp -i ~/.bash_aliases ~/.gitconfig .
-la
-rm bashrc
-la
-cp -i ~/.bash_aliases ~/.gitconfig .
-cp -i -u ~/.bash_aliases ~/.gitconfig .
-cp -i -u ~/.bash_aliases ~/.gitconfig ~/.bash_hisotry .
-cp -i -u ~/.bash_aliases ~/.gitconfig ~/.bash_history .
-cp -i ~/.bash_aliases ~/.gitconfig ~/.bash_history .
-cp -iu ~/.bash_aliases ~/.gitconfig ~/.bash_history .
-nano ~/.bash_logout
-la
-la ~
-touch foo.txt
-nano foo.txt
-cd ../docs
-ls
-cd desktop
 ls
 touch butt
 cd ..
@@ -1998,3 +1944,57 @@ htop
 pwd
 whoami
 ipp
+exit
+newfetch
+neofetch
+neofetch
+htop
+pwd
+whoami
+ipp
+sudo apt install dc
+man dc
+nano numbers.txt
+cat numbers.txt 
+numbers > dc
+numbers.txt > dc
+cat numbers.txt > dc
+dc
+cat numbers.txt > dc f
+cat numbers.txt < dc f
+cat numbers.txt < dc "f"
+cat numbers.txt > dc "f"
+sudo apt install datamash
+cat numbers.txt | datamash sum 1
+yt-dlp --flat playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege | datamash sum 1
+yt-dlp.exe --flat playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege | datamash sum 1
+yt-dlp.exe --flat-playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege | datamash sum 1
+yt-dlp.exe --flat-playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege 
+yt-dlp.exe --flat-playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege > numbers.txt
+cls
+cat numbers.txt | grep
+cat numbers.txt
+cat numbers.txt | NA
+cat numbers.txt | grep NA
+cat numbers.txt | grep -v NA
+cat numbers.txt | grep -v NA | datamash sum 1 
+expr 5/2
+expr 5 / 2
+
+cat numbers.txt | grep -v NA | datamash sum 1 | expr
+cat numbers.txt | grep -v NA | datamash sum 1 | expr $ / 5
+cat numbers.txt | grep -v NA | datamash sum 1 | expr  / 5
+cat numbers.txt | grep -v NA | datamash sum 1 | expr  / 
+cat numbers.txt | grep -v NA | datamash sum 1 | expr  
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 60
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 60 / 60
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 3600 
+man grep
+cat numbers.txt | grep -c
+cat numbers.txt | grep -v -c
+
+yt-dlp.exe --flat-playlist --print duration https://www.youtube.com/@BloggingTheology > numbers.txt
+cat numbers.txt | grep -v NA -c
+cat numbers.txt | grep -v NA 
+cat numbers.txt | grep -v NA | datamash sum 1
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 3600
