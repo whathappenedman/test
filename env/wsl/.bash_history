@@ -1,4 +1,3 @@
-ls
 touch butt
 cd ..
 cd -
@@ -1998,3 +1997,4 @@ cat numbers.txt | grep -v NA -c
 cat numbers.txt | grep -v NA 
 cat numbers.txt | grep -v NA | datamash sum 1
 expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 3600
+bakn
