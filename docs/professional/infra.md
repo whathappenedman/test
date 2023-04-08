@@ -27,7 +27,7 @@ nomad, vault
 curl icanhazp (my own not cf)
 webhook job runner
 uptime ping  
-tinyurl
+tinyurl/pastebin/sharedrop/pomodoro/(uglypretty/chef/hex)/(mdn,web.dev,docs mirror)
 
 weather
 geoip

@@ -40,7 +40,7 @@ vpn out!
 ytdlp downloader!
 website archiver!
 ping/uptime!
-ntfy.sh!
+ntfy.sh! (sends push msgs)
 
 ## server
 plex,emby,jellyfin
@@ -154,3 +154,10 @@ prefer above but if needed hotsawp options:
 r5 and 7 both work
 
 [reddit post](https://www.reddit.com/r/htpc/comments/or33pq/any_good_atx_cases_with_10x_35_hdd_bays/)
+
+
+## U2 HBA
+https://www.highpoint-tech.com/product-page/rocket1580
+OR 1180
+
+

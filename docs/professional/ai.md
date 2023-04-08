@@ -1,3 +1,31 @@
+whisper (no windows amd) (shoul be plenty fast on 1660 cus no amd gpu on windows)
+and this is what ineed only tbh if needed can also run on xps easy
+
+automatic1111 and sd (no good windows amd) 
+linux rocm testing not shown on toms
+1660 is slower tho even then my amd card on windows prolly (2min perimage)
+no this is false its gonna be closer to a 3050 cus my 1050 is 1min30 
+*(https://www.reddit.com/r/StableDiffusion/comments/x7vbt8/installed_sd_on_my_pc_running_on_a_gtx_1660ti/)
+linux amd rocm should be decent but i cant :(
+
+lets see if i can get lamma working? should work on 1660
+set up chat gpt and copilot using api on laptop or some oneline thing.
+- nod.ai
+
+also set up sam from fb
+# oogabooga and chat
+- https://github.com/oobabooga/text-generation-webui
+
+DIDNT TRY laptop 1050 might work for whisper and stable
+idk about llama
+but try that. otherwise short term get 3060 cus has alot of vram
+other wise xx90 cards all the way 
+used 3090s non ti shoulkd be good. two for nvlink and ur set
+l4 are replacing t4 this is low power passive
+otherwise the a data center ones 
+
+
+
 for my ai
 [keep notes]
 

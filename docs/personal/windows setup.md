@@ -68,6 +68,8 @@ explorer
 win e opens my computer
 add user folder and p folder to pinned position 1 and 2
 
+system properties -> hardware -> devioce install settings off
+
 news and intrest no hover
 only ocmbine when full
 search only icon

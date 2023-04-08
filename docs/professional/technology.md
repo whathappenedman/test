@@ -119,5 +119,15 @@ https://stackoverflow.com/questions/273145/is-it-possible-to-decompile-a-windows
 https://www.goggleheadedhacker.com/blog/post/6
 
 
+# virt
+docker/podman
+cgroup/namspace
+
+kvm
+proxmox
+ovirt/qemu
+xcp-ng (hyperscale, vsan?)
+
+
 
 
