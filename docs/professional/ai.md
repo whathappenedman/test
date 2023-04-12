@@ -1,3 +1,11 @@
+get the other alpaca models at least the higher two.
+look into what else? try to get original ones like dalai x some bs
+runs on cpu super slow. 
+can probably get 4b version to work on xps
+but most likely will work on 1660
+
+https://www.reddit.com/r/LocalLLaMA/comments/11zcqj2/llama_optimized_for_amd_gpus/
+
 whisper (no windows amd) (shoul be plenty fast on 1660 cus no amd gpu on windows)
 and this is what ineed only tbh if needed can also run on xps easy
 

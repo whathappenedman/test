@@ -1,0 +1,13 @@
+Last week, SpaceX announced it’s poised to launch the fully stacked Starship spacecraft for a first orbital flight test following a launch rehearsal this week and pending regulatory approval. Now SpaceX CEO Elon Musk is confirming it’s ready, with launch “trending towards near the end of third week of April,” Musk wrote in a tweet on Monday.
+
+Starship is SpaceX’s long-awaited flagship spacecraft that’s designed to take astronauts and payloads to deep space — including the Moon and, of course, Mars. Most importantly, the parts are designed to be reusable, and it is paired with a massive booster known as the Super Heavy to get it off the Earth’s surface.
+
+SpaceX followed that up with this five-minute all-CG reel of Starship on missions to Mars, complete with refueling and a peek at Musk’s idea for an outpost on the planet.
+
+SpaceX’s Starship is fully prepped for testing at the company’s Starbase facility in Boca Chica, Texas. Starship had been met with many launch delays, including a major setback last summer when the Federal Aviation Authority (FAA) determined there would be some environmental impact around the base.
+
+But now all that’s left to get Starship and Super Heavy off the ground is a license from the FAA. “The FAA will make a license determination only after the agency is satisfied SpaceX meets all licensing, safety and other regulatory requirements,” an FAA spokesperson stated in an email to The Street.
+
+According to the FAA’s Operations Plan Advisory, the Super Heavy might be slated for launch on April 17th, with backup dates for each subsequent day after through the 22nd. Sources communicating to Ars Technica say SpaceX is working closely with the FAA and that it’s expected that the regulatory body will finally provide a license.
+
+Should the April 17th launch date become reality, that means SpaceX is only one week away from finally launching the Super Heavy, which has never yet been done. It’s expected that once launched, the Super Heavy and Starship will separate, then the Super Heavy will head to the Gulf of Mexico while Starship will travel into orbit. Shortly after, Starship will then reenter Earth’s atmosphere and vertically land in the Pacific Ocean near Hawaii.

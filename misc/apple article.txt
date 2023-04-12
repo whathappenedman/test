@@ -1,0 +1,13 @@
+The Mac mini now boasts an incredibly fast M2 or M2 Pro processor, and rivals even Apple’s most pro computers despite costing significantly less. However, as great as it is, there is a problem with the Mac mini—the upgrades are pricey and after you buy one, it’s impossible to upgrade its internal components. However, we’re here to help.
+
+Apple doesn’t let you upgrade the Mac mini with inexpensive third-party components such as RAM or internal storage, and it prices its custom-build options at the very high end of affordability. Like the rest of the Apple silicon Macs, the Mac mini, Apple has fixed the RAM to the processor and the SSDs to the logic board, so they can’t be swapped out after you buy one.
+Apple Mac mini logic board showing RAM and SSD
+This is the logic board of the M2 Mac mini, with one SSD and space for another at the left— but it’s only configurable at the point of purchase.
+
+Foundry
+Upgrading the M2 Mac mini: Adding memory
+
+Apple integrated the RAM right into the M2 chip package in the Mac mini (2023) and Mac mini (M1, 2020) and so it can’t be upgraded. You must instead configure the amount of memory you want in your Mac mini when you purchase it. Unfortunately, there’s simply no way of adding more RAM to the Mac mini after you buy it. Depending on the model you buy, there are three options: 16GB, 24GB, and 32G, which cost up to $400. If you need more than 8GB of standard memory, you’ll have to pay for it at the time of purchase.
+Upgrading the M2 Mac mini: Adding storage
+
+Like the RAM, Apple has soldered the SSD (solid state drive) storage onto the Mac mini’s logic board, meaning that you can’t remove it and plug in a new one. As with the RAM, you must instead configure the amount of flash storage you want in your Mac mini when you purchase it. However, there are, however, several ways that you can upgrade your Mac mini with extra storage.
