@@ -1,186 +1,3 @@
-touch butt
-cd ..
-cd -
-cd-
-cd -
-cd ..
-git status
-git add .
-git status
-nano .gitignore
-git status
-git add .
-git status
-nano .gitignore
-git status
-git add .
-git status
-git reset
-git status
-nano .gitignore
-git status
-ranger
-cd -
-cd ..
-git status
-git add .
-git status
-git reset
-git status
-nano .gitignore
-git status
-git add .
-git status
-git commit -m "f" && git push
-git status
-git pull
-git push
-git status
-cd do*
-cd en*
-cd ../e*
-cd ../en*
-cd ...
-cd ../..
-cd ..
-cd m*
-cd mu*
-cd Mu*
-cd 
-ls
-ls -a
-nano .bashrc
-nano .bashrc 
-fg
-ls
-cd /
-ls
-ls -a
-cd etc
-ls 
-ls -a
-ls
-nano nanorc
-sudo nano nanorc
-cd 
-cd mnt/c/users/Mustafa/p
-cd mnt/c/Users/Mustafa/p
-cd /mnt
-cd /mnt/c/users/Mustafa/p
-cd /mnt/c/users/mustafa/
-cd p
-cd ~
-ls -a
-cd /etc
-ls 
-cd -
-nano .nanorc
-cd -
-sudo nanorc
-sudo nano nanorc
-nano nanorc
-cd -
-ls
-ls -a
-cp
-cd --help
-cp --help
-cp .bashrc .bashrc.old
-ls -a
-nano bash.rc
-nano .bashrc
-cd p
-nano .bashrc
-cd p
-mkdir test
-cd ..
-cd
-. .bashrc
-cd p
-cd
-cd docs
-cd
-nano .bashrc
-realpath
-realpath foo.txt
-realpath foo.txt | nano
-realpath foo.txt 
-nano | realpath foo.txt 
-nano
-realpath foo.txt
-nano /home/dev1/foo.txt
-realpath foo.txt | nano
-nano nano.save
-nano nano.save.1
-nano -v
-nano realpath foo.txt
-nano `realpath foo.txt`
-vi foo.txt
-nano .bashrc
-cd etc
-cd /etc
-ls
-cd
-nano .bashrc
-cd 
-cd p
-ls
-nano /etc/nanorc
-sudo nano /etc/nanorc
-ls
-nano temp/foo.txt
-sudo nano /etc/nanorc 
-nano ~/.bashrc
-cd
-ls
-cd test
-ls
-ls -a
-touch orig.txt
-nano orig.txt
-sudo nano /etc/nanorc
-nano orig.txt
-cd
-ln --help
-ln -s /test/orig.txt sl.txt
-ls
-nano sl.txt
-nano /test/orig.txt
-rm sl.txt
-nano sl.txt
-ls
-nano /test/orig.txt
-nano test/orig.txt
-ln -s test/orig.txt sl.txt
-ls
-nano sl.txt
-nano test/orig.txt
-cd p
-ls
-cd temp
-ls
-nano foo.txt
-rm foo.txt
-ln -s ~/test/orig.txt sl.txt
-ls
-nano sl.txt
-cdp
-cd p
-git status
-git add .
-git commit -m "d" 
-git push
-cd temp
-ls
-ls -l
-ls -s
-ls -i
-ls
-ln ~/test/orig.txt hl.txt
-cp -help
-cp --help
-cp ~/.bashrc .bashrc
-ls
 cp sl.txt sl2.txt
 ls
 nano ~/.bashrc
@@ -1998,3 +1815,186 @@ cat numbers.txt | grep -v NA
 cat numbers.txt | grep -v NA | datamash sum 1
 expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 3600
 bakn
+htop
+sudo htop
+cat numbers.txt | datamash sum 1
+yt-dlp --flat playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege | datamash sum 1
+yt-dlp.exe --flat playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege | datamash sum 1
+yt-dlp.exe --flat-playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege | datamash sum 1
+yt-dlp.exe --flat-playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege 
+yt-dlp.exe --flat-playlist --print duration https://www.youtube.com/@CambridgeMuslimCollege > numbers.txt
+cat numbers.txt | grep
+cat numbers.txt
+cat numbers.txt | NA
+cat numbers.txt | grep NA
+cat numbers.txt | grep -v NA
+cat numbers.txt | grep -v NA | datamash sum 1 
+expr 5/2
+expr 5 / 2
+cat numbers.txt | grep -v NA | datamash sum 1 | expr
+cat numbers.txt | grep -v NA | datamash sum 1 | expr $ / 5
+cat numbers.txt | grep -v NA | datamash sum 1 | expr  / 5
+cat numbers.txt | grep -v NA | datamash sum 1 | expr  / 
+cat numbers.txt | grep -v NA | datamash sum 1 | expr  
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 60
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 60 / 60
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 3600 
+man grep
+cat numbers.txt | grep -c
+cat numbers.txt | grep -v -c
+yt-dlp.exe --flat-playlist --print duration https://www.youtube.com/@BloggingTheology > numbers.txt
+cat numbers.txt | grep -v NA -c
+cat numbers.txt | grep -v NA 
+cat numbers.txt | grep -v NA | datamash sum 1
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 3600
+bakn
+htop
+cd p/code/projects//ytd
+cd p/code/projects/ytdownloader/
+node https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+node app https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+mkdir temp && cd temp
+node ../app https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+cd ..
+node termtest
+yt-dlp -r 50k https://www.youtube.com/watch?v=XiCxj-bXu5M
+yt-dlp.exe -r 50k https://www.youtube.com/watch?v=XiCxj-bXu5M
+yt-dlp.exe -r 50k https://www.youtube.com/watch?v=-PD0FZt9-VU
+yt-dlp.exe -r 50k https://www.youtube.com/watch?v=-PD0FZt9-VU -F
+yt-dlp.exe -r 50k https://www.youtube.com/watch?v=-PD0FZt9-VU -160
+yt-dlp.exe -r 50k https://www.youtube.com/watch?v=-PD0FZt9-VU -f 160
+yt-dlp.exe -r 50k https://www.youtube.com/watch?v=-PD0FZt9-VU -f 247
+yt-dlp.exe -r 1M https://www.youtube.com/watch?v=-PD0FZt9-VU -f 247
+yt-dlp.exe -r 2M https://www.youtube.com/watch?v=-PD0FZt9-VU -f 247
+yt-dlp.exe -r 3M https://www.youtube.com/watch?v=-PD0FZt9-VU -f 247
+yt-dlp.exe -r 2M https://www.youtube.com/watch?v=-PD0FZt9-VU -f 397
+node termtest.js 
+node https://www.youtube.com/watch?v=-PD0FZt9-VU&list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s -F
+yt-dlp.exe -F https://www.youtube.com/watch?v=-PD0FZt9-VU&list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+node app -f 397 https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+node app -stats https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+
+node colors
+cls
+node app -F https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+cd p
+cd code/projects/ytdownloader/
+colors.js
+node colors.js
+htop
+node colors.js 
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 3600
+bakn
+htop
+sudo htop
+cd p
+cd projects/ytdownloader/
+node colors
+node 
+node
+colortest.js
+colorstest.js
+cls
+node colors.js
+node colortest.js
+node colorstest.js
+exit
+cd ytdownloader/
+node
+expr $(cat numbers.txt | grep -v NA | datamash sum 1) / 3600
+bakn
+htop
+sudo htop
+cd p
+cd projects/ytdownloader/
+node colors
+node 
+node
+colortest.js
+colorstest.js
+node colors.js
+node colortest.js
+node colorstest.js
+cd p/code/projects/ytd
+cd ../../../
+cd ..
+cd ytdownloader/
+ls
+la
+ll
+winkill.bat
+cmd.exe winkill.bat
+cmd.exe
+
+cmd.exe `winkill`
+cmd /c winkill
+cmd.exe /c C:\Users\Mustafa\p\code\projects\ytdownloader\winkill.bat
+cmd.exe /c C:\\Users\Mustafa\p\code\projects\ytdownloader\winkill.bat
+cmd.exe /c winkill
+node app https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+node app --stats https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+node app -G  https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+node app -g https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+node app --flat-playlist --print webpage_url https://www.youtube.com/playlist?list=PL8mG-RkN2uTwNy21Qm1qyCxoSTipfzJ7s
+c;s
+yt-dlp https://www.youtube.com/watch?v=auObtDOftAI -s
+yt-dlp.exe https://www.youtube.com/watch?v=auObtDOftAI -s
+yt-dlp.exe https://www.youtube.com/watch?v=auObtDOftAI -j
+node etest.js
+cmd.exe /c C:\test\winkill.bat
+cmd.exe /c C:\\test\\winkill.bat
+cmd.exe /c C:\\tclsest\\winkill.bat
+cls
+node etest.js 
+foo = "https://"
+node app --audio https://www.youtube.com/watch?v=auObtDOftAI
+node app --audio apple\ https://www.youtube.com/watch?v=auObtDOftAI
+node app  apple\ https://www.youtube.com/watch?v=auObtDOftAI
+node app -s https://www.youtube.com/watch?v=auObtDOftAI
+node app  apple https://www.youtube.com/watch?v=auObtDOftAI
+node app --audio  apple https://www.youtube.com/watch?v=auObtDOftAI
+node app  apple\\ https://www.youtube.com/watch?v=auObtDOftAI
+node app --audio apple\\ https://www.youtube.com/watch?v=auObtDOftAI
+node app --stats apple\\ https://www.youtube.com/watch?v=auObtDOftAI
+node app --stats https://www.youtube.com/watch?v=auObtDOftAI
+node app --stats https://www.youtube.com/playlist?list=PL8mG-RkN2uTx9Er8AqFDnD6mFvje5fybs
+node app --audio apple\\too\\ https://www.youtube.com/playlist?list=PL8mG-RkN2uTx9Er8AqFDnD6mFvje5fybs
+node app --audio apple\\too https://www.youtube.com/playlist?list=PL8mG-RkN2uTx9Er8AqFDnD6mFvje5fybs
+nano /etc/security/limits.conf
+node ../app --stats https://www.youtube.com/@BloggingTheology/videos
+node app --audio apple\\too\\ https://www.youtube.com/playlist?list=PL8mG-RkN2uTx9Er8AqFDnD6mFvje5fybs
+node app --audio apple\\too https://www.youtube.com/playlist?list=PL8mG-RkN2uTx9Er8AqFDnD6mFvje5fybs
+nano /etc/security/limits.conf
+node app --stats https://www.youtube.com/@BloggingTheology/videos
+nano app.js
+node app --audio https://www.youtube.com/@BloggingTheology/videos /bt
+cls
+node app --audio /bt https://www.youtube.com/@BloggingTheology/videos 
+cls
+node app --audio /bt https://www.youtube.com/@BloggingTheology/videos 
+cd p
+ga.
+gs
+gcep
+node app --stats https://www.youtube.com/@muhammadthemerciful7601
+node app --stats https://www.youtube.com/@muhammadthemerciful7601/videos
+node app --audio /bt https://www.youtube.com/@BloggingTheology/videos 
+cd p
+node app --stats https://www.youtube.com/@muhammadthemerciful7601
+node app --stats https://www.youtube.com/@muhammadthemerciful7601/videos
+cd ../..
+gs
+ga.
+gcep
+cd code/practice/
+mkdir sleeptest
+cd sleeptest/
+nano app.js
+node app.js
+npm update
+npm -U
+npm install -g npm@9.6.4
+npm install node-prevent-sleep
+explorer .
+explorer.exe .
+exit
