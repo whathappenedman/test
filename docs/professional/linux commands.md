@@ -162,3 +162,13 @@ check git for guide on linux secuyring
 firecracker
  - [fly.io]()
  - [aws blogpost](https://aws.amazon.com/blogs/aws/firecracker-lightweight-virtualization-for-serverless-computing/)
+ 
+ 
+ 
+ 
+# User Admin/IT (breakout)
+
+VDI
+
+recording:
+https://unix.stackexchange.com/a/351290

@@ -11,19 +11,31 @@
             "id": "729cd3c87d21cf54",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writings/lockdown-of-technology.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aff0d364ce1241da",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "test/Untitled 2.canvas",
                 "viewState": {
-                  "x": -3563.3896541255526,
-                  "y": -1396.0369002414132,
-                  "zoom": -0.5,
-                  "snapToGrid": false
+                  "x": 20,
+                  "y": 104.76002644336711,
+                  "zoom": -0.3115907249649598
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "right": {
     "id": "5b12599d3687e00b",
@@ -90,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "test/Untitled 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "test/Untitled 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "test/Untitled 2.canvas"
               }
             }
           }
@@ -152,12 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "729cd3c87d21cf54",
+  "active": "da7a7f2ada97979f",
   "lastOpenFiles": [
-    "RA.md",
-    "Untitled.canvas",
+    "test/Untitled.canvas",
+    "test/test to do.md",
+    "test/Untitled 2.canvas",
+    "Untitled.md",
+    "Writings/lockdown-of-technology.md",
+    "test",
+    "New folder",
+    "personal/bench.md",
     "Untitled 1.canvas",
     "Untitled 1.png",
+    "Untitled.canvas",
+    "RA.md",
     "attachments/muhammad-bin-yahya-al-ninowy-f019a75a-6bc9-43d0-a96d-1b784bc546a-resize-750.jpeg",
     "photo-1527838832700-5059252407fa.jpg",
     "attachments/travel-industry-air.jpg",

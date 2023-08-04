@@ -8,3 +8,6 @@ wasm
 encrypted media extentions/ widewine and chromeium
 
 no physical switch on mic,webcam,gps
+
+
+web integrity api
