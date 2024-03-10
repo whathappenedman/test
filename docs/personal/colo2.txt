@@ -1,0 +1,101 @@
+12 MAX
+switch
+$53 12 port x2
+$252 to mmanage
+
+ip
+upolink ($42)
+
+ws (60)
+was (107)
+db (64*4+107)
+managemnt server/internal service server
+
+add $22 for dual to everything +6 for wires
+so 30
+
+53*2
+130 ws 2 * 60+42+28 
+135 was 3 * 107+28
+391 db 3 * 64*4+107+28
+110 manage 2 * 40+28+(42/2)
+277 back up 1 * (207+42+28)
+
+2 switches (unmanaged)
+1ws/rotuer with internet into each
+other two tieres of servers one each into switch
+
+ask about 12switch
+samrt?
+can ahve on server 10gbps uplink
+and other 10gbps lan?
+
+3.5k (20gbps)
+2.5 1.5k
+5k 2.7
+2k (can be 400 only prt)
+1k
+
+so basically 40k for 2 locs assuming bandwith share
+maybe even 30 if cut off the data from top (save 7k total with heztner discount compare prollyu 30k)
+its 5x which is okay but at least not 10x.
+then can cut even that in half by colo for db or buuyt ransit
+
+fmt sucks 
+try lax,dalas,chi,ash
+
+come out to like 3ish
+x2 so 6
+then add 800tb usage @1
+all comes to less than 10k
+
+once making that
+then move to 
+datapacket
+
+and to he
+and look at other colo
+get AS
+look into peering and bgp
+
+
+10/19/23
+this whoel thing acutally
+
+just go for hetzner cloud first to validate
+linode is better disk ioops? (db)
+and anyways still aiming for everything on cloud for launch anyways.
+cloud 
+	-> hetzner cloud -> hetzner dedi -> ovh
+									 -> 10gbps
+									 -> colo
+for colo he fremont sucks. need to find providors and hardware loans
+
+hetzner cloud:
+2x LOCATIONS {
+2x 4vcpu as nginx/node ($25/ea)
+1x 8vcpu as db ($50ea)
+	240bg * .7 / 6MB/user = 30k users
+} TOTAL: $200
+can add db when need for note
+50 x 2 or 100 x2 or 100 x4
+shard on user. no hash, just go seqential
+deal with multi/public later
+	?cache on nginx level for public
+	?redis before db on node server
+
+pg pool/ pg bouncer
+db replictoiion
+can deal with replication delay nbd
+or do 2 pahse commit
+verify:
+on update trigger timestamp
+on update call notify 
+have long poll/ws in nginx/node for "registered" clients/users
+simpliest is ask user to requery.
+https://javascript.info/long-polling
+https://stackoverflow.com/questions/21130845/long-polling-using-node-js-to-get-database-updates
+search: post gres real time using notify and long polling node js
+
+do a check if on primary or other location when notify
+if secondary just tell client to wait a second.

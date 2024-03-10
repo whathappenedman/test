@@ -1,0 +1,29 @@
+notes on auth
+
+owasp
+cryto.met
+
+authorization vs authenticaiton
+
+can use jwt for example:
+removed admin role
+change password/log outs 
+near bottom fo this: http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+
+for admin role thats authR
+will do in db?
+for log outs just have a toggle in db or blacklist in memeory?
+	crypto says what if that goes down. well so will my DB!
+
+
+
+i think the main thing is avoiding a db lookup
+this came up in the context of postgrest!
+hn has comments
+
+so session store check on every request into a db.
+vs check signed token from client using key.
+
+https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html#built-in-session-management-implementations
+https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
+ben awad

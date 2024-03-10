@@ -1,0 +1,64 @@
+i rememer
+neka hb
+foxes
+still kiulll
+baelfire
+
+
+
+
+postgres
+sqlite/cf
+
+redis
+
+couchdb
+--------------
+dynamo .25/gb
+firebase
+
+
+relational
+just postgres and sqlite got u covereed 
+can use aws or planetscale if really need clooud or cf for sqlite or s3
+
+kv
+redis 
+	kvrocks
+dynamo
+----
+memchaed
+rocks
+riak
+etcd
+
+document
+couch
+mongo
+
+columnar
+
+graph?
+
+scylla?
+	ehh maybe not
+	https://news.ycombinator.com/item?id=25521138
+dragonfly?
+
+
+
+
+
+
+
+
+
+Twillio Sendgrid immediatly closes accounts with the word Palestine in them
+
+It was reported to me, and I confirmed, and so can you, by making a new account on sendgrid.com with an email such as plaestine@mydomain.com
+
+Instead of a verification or welcome email you immediately get an account closure and violation of tos email.
+
+Irrespective of the politics, such a crude filter is not a good look for Twillio who owns sendgrid. 
+
+I did not check if this is the case on Twillio it self.

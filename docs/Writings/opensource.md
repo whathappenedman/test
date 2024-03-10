@@ -26,3 +26,43 @@ but some company .5-.33 votes are for devs. if unanimous has powerup
 can also do auth and basic webserver docker/image
 this way too
 weather app ... etc
+
+
+
+
+
+
+------------------------------------
+quran 13
+prayers
+
+kvm/qemu/proxmox
+firecracker
+
+tripwire
+
+couch
+postgres
+
+npm
+	imap
+
+ntfy
+
+yt-dlp
+vlc
+
+qbit
+sonarr
+radarr
+
+# linux
+
+gnu
+	vim/bash
+	cmd line stuff
+	
+	
+curl/wget
+wiregaurd
+

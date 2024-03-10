@@ -1,0 +1,74 @@
+this week work on fcc htmlcss
+also next week finish it and do some mdn review
+then from the week after that only ocne a week html css
+rest is js (2 weeks fcc js+react) (2 weeks mdn) 
+now thats 6 total. maybe 5 and then keep schedule 1 day htmlcss, 2 day js and 1 day (node,faas,db)
+and start leet cote grinding for a month
+
+1 week (5 days 8hrs for worker internship)
+1 week responseivew fcc
+1 week mdn html+css
+1 week fcc js+react+backend+dv(ajax) should be 4 days no projects. last day projects (i pick some js and some micro service) 
+next week one day projects into mdn
+1 week mdn js+react
+
+
+resposive (esitamte 30hrs?) ill add a .25 multiplier to my time. so 1hr is 1hr15
+	block 1 (~8hrs)
+		html (1hr)
+		menu(1hr)
+		markers(1hr)
+		forms(2.5)
+			step 42??? min max and vw
+		project(1.5hr)
+	block 2
+		ROTHKO(45min)
+			VERY IMPORTANT! DO AGAIN WITH INSPECTER AND RE DO SURVEY CSS
+		photo gallery (45min) 
+			(can skip last (24))
+		typography(1hr15min)
+	block 3
+	block 4
+	block 5
+	
+	flexbox froggy
+	grid garden
+	cssrefrence.io
+	
+	
+js (10-15)
+fe(10-15)
+backened (10)
+qa (10)
+
+bascially 2 weeks
+2 more weeks on mdn (cover same)
+2nd month projects and more mdn
+
+
+
+
+html notes
+self closing
+inline
+form 
+	btn deault submits form
+	name is for backend form purpose (also used for grouping, need id or val to distinguish)
+		for radio buttons can be used to associate 
+	label is for user (make whole thing selectable or use for with same name as id)
+	make sure to give value to radio buttons if multiple share same name
+	
+css
+	h1 has top margin make it zero
+	
+	
+	
+# prvious alignemtn and shit and colors and ughh
+
+# flex box
+display: flex;
+flex-direction: row;
+flex-wrap: wrap|nowrap 
+justify-content (deals with positioning along main axis)
+align-items (along corss axis)
+gap 

@@ -1,6 +1,5 @@
 {
     "workbench.colorTheme": "Default Dark+",
-    "window.zoomLevel": 2,
     "editor.fontSize": 14,
     "git.ignoreMissingGitWarning": true,
     "workbench.colorCustomizations": {
@@ -13,6 +12,7 @@
     ],
     "editor.minimap.enabled": false,
     "window.openFilesInNewWindow": "on",
-    "git.decorations.enabled": false
+    "git.decorations.enabled": false,
+    "window.zoomLevel": 2
     
 }

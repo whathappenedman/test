@@ -116,3 +116,26 @@ core: read the book, do the rituals
 taharah: good smells, be clean
 smiles, softness, charity, family
 dua: is your wapon
+
+
+# psa
+maybe ther is a need to modify/add
+about the major practicual issues facing people
+family
+	dysfunctional fmaily
+		high conflict
+		authortiatraian
+		detached
+		violence/drugs
+personal
+	addictions
+	productivity/goals
+	mental health
+social/civic
+	contribute to society
+	build
+	
+no i dont think we need to modify
+just every other week or so can mention it as a sub point
+like in the broad themes thing. can have guest speakers do it
+but best for lectrure

@@ -1,0 +1,251 @@
+General Information
+Fields marked with an asterisk (*) are required
+
+Contact Information
+Name
+Syed M Hussain
+Address
+9909 Hazard Ave
+12
+Garden Grove, CA 92844
+US
+Phone
+7144834494
+Email
+Whathappenedman1@gmail.com
+Notification Preference
+Email
+Personal Information
+Driver’s License
+Yes
+Driver’s License State
+California
+Driver’s License Number
+Driver’s License Class
+A
+Date of birth
+10/13
+Have proof of your legal right to work in the US?
+Yes
+What is your highest level of education?
+Bachelor's Degree
+Preferences
+Are you willing to relocate?
+Yes
+Relocation Comments
+Education
+School Name
+Cal State - Long Beach
+Type
+College/University
+Address
+Long Beach, CA
+US
+Website
+https://www.csulb.edu/
+Major/Minor
+Computer Science
+Degree
+Bachelor's
+Units Completed
+Unit Type
+Dates
+- 2018
+Did you graduate?
+Yes
+Work Experience
+Company/Agency
+Blue Ribbon Global Technologies
+Address
+Chicago, IL
+US
+Phone
+Website
+Position
+Consultant
+Hours/Week
+40
+Employees Supervised
+4
+Dates
+October 2021 - January 2024
+Supervisor
+Reason For Leaving
+May we contact this employer?
+Yes
+Duties Summary
+Oversaw, directed and implemented various technology projects for clients. Projects ranged from web and application design and management to server and hardware procurement and maintenance. Some projects also included creating CMS systems or using existing CMS systems such as WordPress and shopify to meet business needs.
+Company/Agency
+Airport Spectrum Parking
+Address
+Los Angeles, CA
+US
+Phone
+Website
+Position
+Developer
+Hours/Week
+40
+Employees Supervised
+Dates
+January 2019 - September 2021
+Supervisor
+Reason For Leaving
+May we contact this employer?
+Yes
+Duties Summary
+Engineered robust CMS features, including website architecture and booking integration, aligning with enterprise-level CMS architecture principles.
+Integrated third-party APIs to centralize operational data management, adhering to database management best practices.
+Web Design and programming
+Additional Information
+Certificates and Licenses
+Certificates and Licenses are not specified.
+Skills
+Typing speed
+Data Entry
+Languages
+Languages are not specified.
+Supplemental Information
+Supplemental information is not specified.
+References
+Agency Questions
+Fields marked with an asterisk (*) are required
+
+The information this section will be kept separate from the rest of the application form. At no time will the information on this section be available to any person involved in the hiring process.
+Questions 1 through 13 pertain to your suitability for employment with The Los Angeles County Office of Education (LACOE). Responses to these questions are required.
+
+The remaining questions are asked for statistical tracking purposes and may be used by Federal, State and local agencies. Responses to these questions are optional.
+
+Edit 
+Have you ever been employed by the Los Angeles County Office of Education? Choose one.
+Never Employed by LACOE
+
+Have you ever used or been known by any other name? If yes, please list the other name(s) you have been known by in the space provided. (If "No" enter "NA")
+NA
+
+Are you related to anyone currently working for the Los Angeles County Office of Education?
+No
+
+If you answered "Yes" above, please list the following for each relation: A) Employee Name B) Position C) Relationship. (If "No" enter "NA")
+NA
+
+Have you ever been discharged or forced to resign from employment because of misconduct or unsatisfactory service?
+No
+
+(If "No" enter "NA".) If "Yes," please provide the reason for termination and the date, name of employer and your job title below.
+NA
+
+Employment eligibility will be conditional pending verification of prior employment and reference checking. Your current employer will not be contacted until after you have been successful in the selection process. Your submittal of this application releases LACOE to solicit information from your prior employers. Check "yes" to indicate your acknowledgement of this release.
+Yes
+
+Have you, as an adult, ever pleaded guilty, been convicted, fined, imprisoned, placed on probation, or given a suspended sentence by a civilian or military court? You must answer "yes" if you were convicted, whether by plea, jury verdict, or finding of guilt by a court in a trial without a jury. Further, you must still answer "Yes" if, under Penal Code Section 1203.4, there was a subsequent order allowing the withdrawal of a plea of guilty and entering the plea of not guilty, or setting aside a verdict of guilty, or dismissing the accusations or information (i.e. expungements, dismissals, or record sealing). Note that providing conviction information is not an automatic disqualification, but it will be reviewed for severity, relevancy, and recency in evaluating your suitability for the position to which you are applying. Further, prior to a final employment offer, a fingerprint check will verify the accuracy of the information you provide here. (You may omit minor traffic violations.)
+Yes
+
+If "Yes" to Question 8, what was the OFFENSE RESULT? (If more than one offense, check all that apply.)
+Misdemeanor
+
+If "Yes" to Question 8, provide a BRIEF DESCRIPTION OF THE OFFENSE. If more than one offense, describe all. (If "No" enter "NA".)
+Misdemeanor Hit and run - property damage
+
+If "Yes" to Question 8, what is the CONVICTION CODE associated with the offense? If more than one offense, list all. (If "No" enter "NA".)
+20002(a) VC
+
+If "Yes" to Question 8, what was the DATE OF THE CONVICTION(S)? (If "No" enter "NA".)
+8/31/2017
+
+If "Yes" to Question 8, what was the CITY AND STATE OF THE CONVICTION(S)? (If "No" enter "NA".)
+Westminster, CA
+
+At this time, is there any criminal complaint or indictment issued against you which is now pending and awaiting a final decision in any State or Federal court?
+No
+
+If your answer is "Yes," explain fully on the space provided below the details of the complaint or indictment. (If "No" enter "NA")
+NA
+
+Do you have the legal right to work in the United States of America? (i.e., you are a US citizen, or you have a permanent residency "green" card, or you have a right-to-work visa from the US Immigration Service)
+Yes
+
+The information on this section will help ensure that our selection processes are nondiscriminatory, and it will be utilized for statistical purposes only.
+What is your gender?
+
+Male
+
+What is your race or ethnic origin?
+Asian or Pacific Islander
+
+What is your age group? 
+21-39
+
+What is your Veteran status?
+
+Please note: For applicable classifications, you will be asked to provide DD Form 214 to be eligible for veterans credit.
+Non-Veteran
+
+Do you have a physical or mental disability or impairment that substantially limits at least one major life activity. This would include, but not be limited to impairment or sight, speech, hearing, orthopedic impairments, cerebral palsy, cancer, heart disease, diabetes, mental retardation, emotional illness, drug addiction, alcoholism, limps or disfiguring scars.
+
+If you require accommodation, please contact the Personnel Commission Office at 562-803-8366.
+No
+
+To enable efficient verification of your recent employment history, please provide the NAME, EMAIL, and PHONE number of the Human Resources office or official at your two (2) most recent employers in the past five (5) years.
+Jackie Rimerez - Operations Director - Blue ribbon
+909-215-0042
+Aaron Martinez - Operations Manager - Airport Spectrum
+626-277-1253
+
+Do you anticipate being or have you been laid-off or displaced from a position within Los Angeles County Office of Education (LACOE) for which you will be placed or are listed on a current re-employment list?
+No
+
+If you answered "Yes" to the previous question, indicate which job classification(s) you are or will be listed on the re-employment list:
+NA
+
+Where did you learn about this career opportunity?
+Other
+
+If you selected "Professional Association / Industry Publication" or "Other," please specify:
+NA
+
+Are you eligible to be rehired from your two (2) previous employers?
+Yes
+
+If you answered "No" or "Other" to the previous question, please provide an explanation. (If "Yes" enter "NA")
+NA
+
+Supplemental Questions
+In order for your application to be complete, you must provide responses to the following supplemental questions. Your responses will provide additional job related information that will be used to evaluate your education, training, and experience. Failure to submit complete responses will result in the disqualification of your application. Providing false or misleading information may result in disqualification, employment bar, and employment termination if hired.
+Edit 
+PLEASE READ THE FOLLOWING STATEMENT: Answer the following questions as truthfully and accurately as possible. You are not expected to answer at the highest level of each of these items to be qualified. The application will be evaluated for minimum qualifications. Your responses to the supplemental questions below may also be used to determine your qualifications beyond the minimum qualification requirements for this classification in a training and experience (T&E) evaluation. Referring to your application/resume, listing "see resume", or incomplete responses will NOT qualify as a response to any question. Questions that are answered in this method will be considered INCOMPLETE and may result in DISQUALIFICATION. You are required to answer ALL of the supplemental questions as truthfully and accurately as possible. Your responses to these questions are subject to verification and may be assessed in subsequent examination parts. All experience, education, training, and certification must be included in your application in order to be considered. Any sign of deliberate misinformation or intentional exaggeration will result in disqualification from this examination process and possible bar from future employment opportunities with the Los Angeles County Office of Education (LACOE). Select "Yes" if you have read, understood, and agree to the above statements. Select "No" if you have read, understood, and DO NOT agree with the above statements and voluntarily withdraw your application for this position.
+Yes
+
+Do you possess a valid California driver's license?
+Yes
+
+What is your highest level of education? You must attach a copy of your transcripts to your application for verification purposes. Note: Degrees must be from an institution of higher learning recognized by the Council of Higher Education Accreditation. Foreign degrees and credit units require translation and equivalency established by an agency recognized by the Commission on Teacher Credentialing.
+Bachelor's degree
+
+Please list the field in which you obtained your degree(s). If no degree, list "N/A".
+Computer Science
+
+How many years of experience do you have in the design, development, implementation, and support of large scale Web-based applications, relational database design or online applications?
+5 or more years
+
+Please describe your experience in the design, development, implementation, and support of large scale Web-based applications, relational database design or online applications. For each related experience, please include: a) Your job title(s) b) Name of the organization(s) c) Job duties/responsibilities related to the job areas described above d) Length(s) of employment If no experience in this area, list "N/A".
+Blue Ribbon Consulting - Consultant:
+Oversaw, directed and implemented various technology projects for clients. Projects ranged from web and application design and management to server and hardware procurement and maintenance. Some projects also included creating CMS systems or using existing CMS systems such as WordPress and shopify to meet business needs.
+
+Sharpline, CRM Admin:
+Designed web applications for business needs, provided support and training to users.
+
+General Note:
+I have a strong background in IT, Programming, CMS, and CRM technology. I frequently work with a wide range of stakeholders across various teams to meet business objectives.
+
+
+
+
+
+
+
+Jackie Rimerez - Operations Director - Blue ribbon
+909-215-0042
+Aaron Martinez - Operations Manager - Airport Spectrum
+626-277-1253
+

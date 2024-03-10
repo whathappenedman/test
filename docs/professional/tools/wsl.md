@@ -22,3 +22,17 @@ or try win+ctrl+shift+B to reset graphics, or toggle monitor states?
 
 ## Files
 [working accross filesystems](https://learn.microsoft.com/en-us/windows/wsl/filesystems)
+
+
+# network/vpn issues
+2 problems. mtu and dns and maybe ipv6
+curl -v --dns-ipv4-addr 8.8.8.8 --ipv4 https://ollama.ai/install.sh
+https://github.com/microsoft/WSL/issues/4698#issuecomment-1598038161
+ ip link set dev eth0 mtu 1230
+ set mtu in wsl on eth0
+ there also seems to be some dns issue 
+ cus that command doesnt work without dns flag
+ oc actually it does its just ipv4 flag
+ strange cus -v shows ipv4 addresses
+ 
+ need to learn some netowrking!

@@ -34,5 +34,10 @@ web ui -> command line -> original link, newlink?, tag
     integrate with my notes app
 
 
+# Super Browser all in on extention
+vimium (control bar)
+right click enable
+libredirect 
+
 
 

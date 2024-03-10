@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writings/lockdown-of-technology.md",
-                "mode": "preview",
+                "file": "professional/projects/Project-Ideas/project-ideas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,12 +25,30 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "test/Untitled 2.canvas",
+                "file": "test/TODO MAIN.canvas",
                 "viewState": {
-                  "x": 20,
-                  "y": 104.76002644336711,
-                  "zoom": -0.3115907249649598
+                  "x": -44.5,
+                  "y": 152.06546936976642,
+                  "zoom": -0.21185376853392976
                 }
+              }
+            }
+          },
+          {
+            "id": "2c29503c67d966a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c7fa70e63fe3042",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md"
               }
             }
           }
@@ -80,6 +98,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4d2f6145dd24a278",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -101,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/Untitled 2.canvas",
+                "file": "test/TODO MAIN.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/Untitled 2.canvas",
+                "file": "test/TODO MAIN.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/Untitled 2.canvas"
+                "file": "test/TODO MAIN.canvas"
               }
             }
           }
@@ -163,13 +189,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da7a7f2ada97979f",
+  "active": "aff0d364ce1241da",
   "lastOpenFiles": [
-    "test/Untitled.canvas",
+    "professional/projects/Project-Ideas/project-ideas.md",
+    "Untitled Kanban.md",
+    "test/TODO MAIN.canvas",
+    "Untitled 2.md",
+    "pakistan developer.md",
+    "professional/Programming-notes/study-plan.md",
+    "professional/notes.md",
+    "professional/technology.md",
+    "Untitled 1.md",
+    "test/Mantra.canvas",
     "test/test to do.md",
+    "test/Untitled.canvas",
     "test/Untitled 2.canvas",
-    "Untitled.md",
+    "professional/bussiness/Web Dev bussiness/websiteBussiness.md",
+    "professional/bussiness/merch/shirt ideas.md",
     "Writings/lockdown-of-technology.md",
+    "Untitled.md",
     "test",
     "New folder",
     "personal/bench.md",

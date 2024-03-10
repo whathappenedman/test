@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"type":"text","text":"Obsidian sync\n\thow looks mobile\n\nObsidian css","id":"0c651c79c94e7552","x":820,"y":-640,"width":320,"height":320},
+		{"type":"text","text":"# Tech\n- Laptops\n\t- lenovo\n\t\t- ram/ssd\n\t\t- linux\n\t\t- sonarr/radarr/nas/vpn\n\t- hp\n\t- dell\n\t\t- battery/ram\n\t- desktop\n\t\t- bios\n\t\t- psu/power\n- AI\n\t- open ai api\n\t- stable diffusion amd\n\t- llama/llama code amd\n\t- copilot\n\t- wix/microsoft 365/bard\n\n","id":"d22c1b08052e06cd","x":695,"y":-266,"width":445,"height":490},
+		{"type":"text","text":"# Health\n- donny\n\t- vit d/choesterol/testosterone\n\t- cut?\n\t- ear 3rd ref\n\t- knee\n- PT\n\t- Knee\n\t- Posture\n- Dental!\n\t- cleaning\n\t- xray/decay/gum line\n- Future\n\t- plaque ultrasound\n\t- bronchoscapy for lung","id":"25d235dd1ad3e58d","x":685,"y":280,"width":465,"height":330},
+		{"type":"text","text":"# Dates\n\n8/22/23 - Toothbrush\n\n- # Sick\n\t- 8/13/23\n\t\t- Sore throat, fever 2 days\n\t\t- 2 days hard cough\n\t\t- 4 days recovery, weak, lots of phlegm (in lung?)\n\t- 1/20/24\n\t\t- same as above\n\t\t- 2 days sick\n\t\t- super bad shivers with fever, every 30 secon till warmed up\n\t\n","id":"28a6f375fc46658d","x":400,"y":320,"width":249,"height":325},
+		{"type":"text","text":"bill yt\nbank!\n\ndads car post\nMOM dmv and ocmputer\n\nprep oil\nprep nuts\ncourt date\nhijama date\n\nfree tmobile\ntmobile port and mom\nbill pay and finish ssa due\n\n300 gov money\n200 cotton on\nspectrum date?\n","id":"4518a84411c0a567","x":-520,"y":-648,"width":322,"height":374},
+		{"type":"text","text":"return bed\n\n\nChair\nmonitor\n\n","id":"842a8f6106ce4afe","x":-920,"y":-648,"width":373,"height":396},
+		{"type":"text","text":"resume QA mohsin\n\ngit faker\nlinked in","id":"5a3b8a9f16316f5d","x":-1220,"y":-640,"width":260,"height":388},
+		{"type":"text","text":"- # Amazon rn\n\t- pink stuff?\n\t- lysol\n- Soon\n\n\n- Returns:\n\t- silcone grip\n\t- protien bars\n\t- Sun block?\n\t- boots? shooes?\n\t- shirt?, shorts\n\n- # Main\n\t- Glasses/contacts?\n\t- Chair(WM)\n\t- Monitor\n\n- # Future\n\t- Lasik\n\t- LANAP\n\t- Braces\n\t- speech therapy","id":"0fff0ea3c57bfe24","x":-1239,"y":35,"width":361,"height":610},
+		{"type":"text","text":"- clean gun\n- move crypto\n\n- clean car\n\nlotion issue","id":"b00f2c24fb574bc5","x":-530,"y":-134,"width":332,"height":454},
+		{"type":"text","text":"# Projects\n\nvoice note\nyt sorter\nhn tracker\nimap @saved\n\nytag\npic tag/voice\nsocial media notifier (shadowban)\n\tthot free sm\n\nytdlp commadline (archiver)\nsystem monitor/sleep+wake\nyelp bot\n\n- home\n\t- pi camera\n\nblog\n\tpersonal (phil/tech)\neverymans op sec\n\ndz\ndz forum\nislamic archive\n\npolitical forum\nyt news/podcast channel\nwirtings\n\nbasket making\nlungi\n\nnews\n\tpodcast watchers\n\tknowledge base/ topic tracker","id":"aafc721381b1ef57","x":-150,"y":-64,"width":365,"height":709},
+		{"type":"text","text":"- Projects (todo)\n\t- [[pakistan developer]] for 1k(6 month)\n\t- hair?\n\t\t- reddit\n\t- curtain?\n\t- vitamin\n\t- water\n","id":"f44f9b40656ca418","x":330,"y":-266,"width":355,"height":565},
+		{"type":"text","text":"- pi\n\t- zero w 2 or w\n\t\t- sensor build\n\t\t\t- ir tx\n\t\t\t- 125khz\n\t\t- camera build (case)","id":"8eb02dd9b1483a5d","x":-150,"y":-648,"width":369,"height":371},
+		{"type":"text","text":"- # Out Errand\n\t- mom ssa\n\t- lysol + pink stuff\n\t- take car to mehanic","id":"542cdf690278a851","x":300,"y":-664,"width":300,"height":390},
+		{"type":"text","text":"Arabic review","id":"8ee8a707412352bd","x":-1220,"y":-220,"width":250,"height":60},
+		{"type":"text","text":"Evil attack\ndelist from google maps or claim for competitor\ndmca\nr3eport to fraud and bank global check types","id":"7599e2751e277e6f","x":-547,"y":550,"width":250,"height":290}
+	],
+	"edges":[]
+}

@@ -1,0 +1,99 @@
+lots of dummy side projects
+main guy is here
+1 to start
+and team in india for research and support
+can send all hardware there too
+
+start on sides
+and also prototypes to nail 
+the usability and ui and process
+can be un optimized at first 
+will eventaully move to full open core/secure later
+
+secure keyboard
+all iot
+	camera
+	access pad
+	car
+
+first make authenticator
+	basic screen and touch for keypad
+	only few buttons like 2-5
+	maybe just dpad?
+	
+	its for encrypted access
+	like requester identifies and send nonce
+	so mitm impractical cus first local
+	second only for that machine and at that instant
+	and only once
+	couterpart has secure connection to main server
+	with all keys and ui
+		so door/building
+		office/house
+		really try for car
+	---------------------------------------------can sell this right away for alot of money
+	---------------------------------------------and no legal issues. can even sell to ems/pd
+	---------------------------------------------aim for 1month if not 1 week.
+	---------------------------------------------
+	then for login like yubikey
+	
+	STEP 2
+	key holder for appliances?
+		keybboard
+		ENCRYPTOR
+
+		
+also now make ptp ENCRYPTOR
+	standalone and built and combo for ab
+	
+also there is the secure muxer thing to handle kvm basically?
+
+all this is prototype 
+as figuring it out and making it work 
+now make sure its tamper proof
+now switch to our own full hardware/open core
+
+befoer this can start calls/messages/walkie taki/mic
+add a basic offline maps and gps(try for inertial)
+look into driving into hud/vr
+basic custom apps
+
+now look into mesh networking
+
+later just add rdp/remote outofband pikvm sessions
+
+maybe start with esp32?
+https://deepbluembedded.com/esp32-sleep-modes-power-consumption/
+
+stm 32 is better maybe
+
+
+using 20000mah batter
+20*3.7=74wh
+74/3.5 for iphone 14
+/5v for esp32
+4228mah
+/2 for smallish generic battery size and accouint for board extras
+2114
+
+@ .8 thats 2642hrs
+light sleep
+1ms resume
+clock gate/keeps cpu state
+
+
+deep sleep wakes from gpio/periph needs to restart cpu 150uA
+hibernate wake from button lets say or timer 5uA
+
+with button at night and (5ua)
+and no movement for 5+ min for deep sleep (no accelermoeter)
+14hrs+10hrs 
+17616 days @ 5uA
+587 days @150uA
+tbh can probably get it to 1yr
+
+but flipper zero is similar size(2kmah) battery and it gets 1 month??
+
+make a universale remote thing
+like wifi/ble/ir
+but also rfid?

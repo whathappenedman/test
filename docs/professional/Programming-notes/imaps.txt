@@ -1,0 +1,52 @@
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io -X 'STATUS INBOX (MESSAGES)'
+
+
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=header.fields%20(subject)"
+
+ curl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'fetch 7 (body[header.fields (subject)] body[1])' -v
+
+section=1
+section=text
+section=header.fields%20()
+
+'fetch 1:* (UID FLAGS)'
+
+## delete
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 +FLAGS (\deleted)' 
+ curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'expunge'
+ 
+ fetch number is index not uid
+ +/-flags 
+
+
+
+
+---------------------------
+need to figure out byte thing
+
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 1:* (body)'
+
+
+
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[text])'
+
+
+------------------------
+https://everything.curl.dev/usingcurl/reademail
+https://www.atmail.com/blog/imap-commands/
+https://datatracker.ietf.org/doc/html/rfc3501#section-6.4.5
+https://curl.se/docs/manpage.html
+
+
+https://stackoverflow.com/questions/49429092/fetching-and-deleting-a-message-over-imap-using-curl
+
+https://stackoverflow.com/questions/72655471/curl-imap-how-to-get-multiple-email-messages-with-one-command
+
+https://github.com/curl/curl/issues/1150
+https://github.com/curl/curl/issues/536
+
+
+--------------------------------
+# streams
+https://nicolashery.com/parse-data-files-using-nodejs-streams/

@@ -29,6 +29,12 @@ Compiling from source?
 
 # DB
 Use the index luke
+
+pg
+sqlite3/bettersqlite
+knex (mid level)
+sequelize (proper orm)
+prisma(very high)
 # JS 
 React and next 
 TS

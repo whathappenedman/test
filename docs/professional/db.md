@@ -63,3 +63,15 @@ or just 2 for pg 1 master and one hot failover
 https://news.ycombinator.com/item?id=34812527
 https://news.ycombinator.com/item?id=34813298 (how to run)
 more notes https://news.ycombinator.com/item?id=33975635 on how to run
+
+
+
+# hardware/tuning (seperate file)
+https://news.ycombinator.com/item?id=25956670
+alot in comments too but also main blog post
+
+have raid/pool/fs considerations
+levl 1 tech software raid/ hardware raid is dead
+zfs stores checksum with block
+
+https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/

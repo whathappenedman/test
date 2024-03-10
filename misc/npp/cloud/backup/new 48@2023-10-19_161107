@@ -1,0 +1,59 @@
+csrf impo
+https://github.com/pillarjs/understanding-csrf
+json api with cors and csrf
+https://github.com/pillarjs/csrf
+
+
+mubmle/teamspeak
+osticket
+pbx
+	email
+
+vpn
+git
+dns
+monitoring
+fielsahre
+
+internal tools/apps
+job runner
+script runner/control panel
+monitoring/dashboards
+	deployments
+jump host
+
+
+proxmox replication corss dc how?
+put dbs in own vms and deal with that seperatly
+1. can try rclone direct. since vm is on file people say that is issue.
+   i call buhh on modern nvme and slim vms!
+2. DRBD?
+3. veam
+
+search: proxmox cross dc failover
+search: proxmox cross dc replication
+
+
+docker
+terraform/ansible
+	podman
+nomad
+k3s
+
+linux
+	basic and user and permission 
+	network
+		selinux
+	
+	nginx
+			haproxy
+				envoy
+		node
+		practical(monitoring, prometheous,umami,forum)
+	postgres
+		replication things
+			couchdb
+			graphql
+	proxmox
+		failover cross dc
+	

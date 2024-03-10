@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"fba78f5cfccca5df","x":-1060,"y":-1160,"width":340,"height":100,"type":"text","text":"RECESSION IS COMIONG\nWORK EVERY DAY TILL GOAL!\nAI is coming for jobs"},
-		{"id":"2d85cb3c664e4567","x":-1060,"y":-1000,"width":539,"height":393,"type":"text","text":"- i want a new car\n- i want to get in shape and have nice clothes\n- i want money to go eat and do vaccations\n\t- sushi every week. order steak and good bbq at home\n- i want to get perfume and have nice things\n- i want to move and have a washer dryer\n- i want a maid"}
+		{"type":"text","text":"- i want a new car\n- i want to get in shape and have nice clothes\n- i want money to go eat and do vaccations\n\t- sushi every week. order steak and good bbq at home\n- i want to get perfume and have nice things\n- i want to move and have a washer dryer\n- i want a maid","id":"2d85cb3c664e4567","x":-1060,"y":-1000,"width":539,"height":393},
+		{"id":"7e6cb58cc4bd188d","x":-158,"y":-1093,"width":398,"height":193,"type":"text","text":"- dont devalue your speech\n\t- if some one doesnt listne to you once dont repeat\n\t- if somone does appreciate your thoughts and fights you or is a wall pull back\n- only explain things to people on their level\n\t- dont argue. no one wants to listen"},
+		{"type":"text","text":"RECESSION IS COMIONG\nWORK EVERY DAY TILL GOAL!\nAI is coming for jobs\nWORLD WAR IS COMMING","id":"fba78f5cfccca5df","x":-1560,"y":-1240,"width":400,"height":180}
 	],
 	"edges":[]
 }

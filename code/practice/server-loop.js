@@ -1,5 +1,7 @@
 //https://web.archive.org/web/20220223201610/https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals
 //recursive setTimeout gurantees to run delay after previous end of exec
+
+//UPDATE 2023: https://stackoverflow.com/a/44476626 USE PROMISE AND SETTIMEOUT
 let i=0;
 let delay  = 10;
 

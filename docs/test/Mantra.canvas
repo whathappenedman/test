@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"0148ef363bc5f407","x":-635,"y":-517,"width":615,"height":617,"type":"text","text":"- dont argue\n\t- dont devalue your speech\n\t- people dont want to listen\n\t- people are dumb and insicincere\n\t- judge some one on:\n\t\t- intellect\n\t\t\t- can get you\n\t\t- sincerity\n\t\t\t- want to get you\n\t\t- morals\n\t\t\t- forgiving/generous\n- dont tell people what to do \n\t- just dicusse youir idea\n\t- you should get solar panels vs. solar panels are cool\n- don't compain\n\t- aobout your self or others\n- "},
+		{"id":"ba20f18e1b4c051a","x":240,"y":-517,"width":505,"height":210,"type":"text","text":"- eye contact\n- smile\n- posture\n- keep moth closed"},
+		{"id":"8b333a24f611cac6","x":200,"y":-240,"width":365,"height":410,"type":"text","text":"- greet people"}
+	],
+	"edges":[]
+}
