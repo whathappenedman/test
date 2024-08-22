@@ -36,3 +36,7 @@ https://github.com/microsoft/WSL/issues/4698#issuecomment-1598038161
  strange cus -v shows ipv4 addresses
  
  need to learn some netowrking!
+
+
+## dns issues
+change etc/resolv.conf to not be default

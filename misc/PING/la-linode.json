@@ -1,0 +1,636 @@
+[
+  {
+    "region": "NA",
+    "source": "la-linode",
+    "data": [
+      {
+        "location": "Honolulu, HI",
+        "latency": "108ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Ashburn, VA",
+        "latency": "60ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Atlanta, GA",
+        "latency": "45ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Boston, MA",
+        "latency": "66ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Charlotte, NC",
+        "latency": "54ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Chicago, IL",
+        "latency": "47ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Dallas, TX",
+        "latency": "31ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Denver, CO",
+        "latency": "31ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Houston, TX",
+        "latency": "38ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Kansas City, MO",
+        "latency": "Failed"
+      },
+      {
+        "location": "Los Angeles, CA",
+        "latency": "0ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Miami, FL",
+        "latency": "56ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Minneapolis, MN",
+        "latency": "61ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Montreal, CA",
+        "latency": "68ms",
+        "loss": "0%"
+      },
+      {
+        "location": "New York City, NY",
+        "latency": "59ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Ogden, UT",
+        "latency": "15ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Phoenix, AZ",
+        "latency": "10ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Pittsburgh, PA",
+        "latency": "63ms",
+        "loss": "0%"
+      },
+      {
+        "location": "San Jose, CA",
+        "latency": "7ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Seattle, WA",
+        "latency": "25ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Toronto, CA",
+        "latency": "56ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Vancouver, CA",
+        "latency": "31ms",
+        "loss": "0%"
+      }
+    ]
+  },
+  {
+    "region": "AS",
+    "source": "la-linode",
+    "data": [
+      {
+        "location": "Almaty, KZ",
+        "latency": "239ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Baku, AZ",
+        "latency": "228ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Bangalore, IN",
+        "latency": "244ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Bangkok, TH",
+        "latency": "191ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Chennai, IN",
+        "latency": "210ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Dhaka, BD",
+        "latency": "227ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Ho Chi Minh, VN",
+        "latency": "204ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Hong Kong, HK",
+        "latency": "148ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Istanbul, TR",
+        "latency": "182ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Jakarta, ID",
+        "latency": "188ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Karachi, PK",
+        "latency": "336ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Kathmandu, NP",
+        "latency": "238ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Kuala Lumpur, MY",
+        "latency": "184ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Manila, PH",
+        "latency": "154ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Mumbai, IN",
+        "latency": "225ms",
+        "loss": "0%"
+      },
+      {
+        "location": "New Delhi, IN",
+        "latency": "232ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Nicosia, CY",
+        "latency": "187ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Phnom Penh, KH",
+        "latency": "198ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Seoul, KR",
+        "latency": "146ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Singapore, SG",
+        "latency": "191ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Taipei, TW",
+        "latency": "128ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Tbilisi, GE",
+        "latency": "204ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Tel Aviv, IL",
+        "latency": "185ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Tokyo, JP",
+        "latency": "109ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Ulaanbaatar, MN",
+        "latency": "205ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Yangon, MM",
+        "latency": "205ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Yerevan, AM",
+        "latency": "194ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Hagatna: GU",
+        "latency": "109ms",
+        "loss": "0%"
+      }
+    ]
+  },
+  {
+    "region": "AF",
+    "source": "la-linode",
+    "data": [
+      {
+        "location": "Cairo, EG",
+        "latency": "188ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Cape Town, SA",
+        "latency": "291ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Johannesburg, ZA",
+        "latency": "235ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Lagos, NG",
+        "latency": "234ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Luanda, AO",
+        "latency": "186ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Nairobi, KE",
+        "latency": "259ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Baghdad 2, IQ",
+        "latency": "219ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Baghdad, IQ",
+        "latency": "225ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Bahrain, BH",
+        "latency": "291ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Dubai, AE",
+        "latency": "255ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Fujairah, UAE",
+        "latency": "255ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Riyadh, SA",
+        "latency": "244ms",
+        "loss": "0%"
+      }
+    ]
+  },
+  {
+    "region": "EU",
+    "source": "la-linode",
+    "data": [
+      {
+        "location": "Amsterdam, NL",
+        "latency": "149ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Athens, GR",
+        "latency": "205ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Belgrade, RS",
+        "latency": "170ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Bratislava, SK",
+        "latency": "163ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Brussels, BE",
+        "latency": "150ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Bucharest, RO",
+        "latency": "172ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Budapest, HU",
+        "latency": "160ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Chisinau, MD",
+        "latency": "173ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Copenhagen, DK",
+        "latency": "155ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Dublin, IE",
+        "latency": "157ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Frankfurt 2, DE2",
+        "latency": "151ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Frankfurt, DE",
+        "latency": "150ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Helsinki, FI",
+        "latency": "152ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Keflavik, IS",
+        "latency": "170ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Kyiv, UA",
+        "latency": "172ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Lisbon, PT",
+        "latency": "158ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Ljubljana, SI",
+        "latency": "165ms",
+        "loss": "0%"
+      },
+      {
+        "location": "London, UK",
+        "latency": "133ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Luxembourg, LU",
+        "latency": "147ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Madrid, ES",
+        "latency": "164ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Marseille, FR",
+        "latency": "157ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Milan, IT",
+        "latency": "152ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Moscow, RU",
+        "latency": "182ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Novi Travnik, BA",
+        "latency": "169ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Oslo, NO",
+        "latency": "146ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Paris, FR",
+        "latency": "141ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Prague, CZ",
+        "latency": "149ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Riga, LV",
+        "latency": "164ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Sofia, BG",
+        "latency": "169ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Stockholm, SE",
+        "latency": "162ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Vienna, AT",
+        "latency": "160ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Vilnius, LT",
+        "latency": "167ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Warsaw, PL",
+        "latency": "158ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Zagreb, HR",
+        "latency": "167ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Zurich, CH",
+        "latency": "175ms",
+        "loss": "0%"
+      }
+    ]
+  },
+  {
+    "region": "OC",
+    "source": "la-linode",
+    "data": [
+      {
+        "location": "Adelaide, AU",
+        "latency": "162ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Auckland, NZ",
+        "latency": "140ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Brisbane, AU",
+        "latency": "152ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Melbourne, AU",
+        "latency": "152ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Perth, AU",
+        "latency": "189ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Sydney, SYD",
+        "latency": "141ms",
+        "loss": "0%"
+      }
+    ]
+  },
+  {
+    "region": "SA",
+    "source": "la-linode",
+    "data": [
+      {
+        "location": "Brasilia, BR",
+        "latency": "179ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Fortaleza, BR",
+        "latency": "125ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Guatemala, GT",
+        "latency": "137ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Mexico City, MX",
+        "latency": "52ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Porto Alegre, BR",
+        "latency": "221ms",
+        "loss": "0%"
+      },
+      {
+        "location": "San Juan, PR",
+        "latency": "83ms",
+        "loss": "0%"
+      },
+      {
+        "location": "San Pedro, CR",
+        "latency": "100ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Bogota, SA",
+        "latency": "117ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Buenos Aires, AR",
+        "latency": "185ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Curitiba, BR",
+        "latency": "171ms",
+        "loss": "0%"
+      },
+      {
+        "location": "La Paz, BO",
+        "latency": "Failed"
+      },
+      {
+        "location": "Lima, PE",
+        "latency": "139ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Quito, EC",
+        "latency": "120ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Rio de Janeiro, BR",
+        "latency": "159ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Salvador, BR",
+        "latency": "148ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Santiago, CL",
+        "latency": "168ms",
+        "loss": "0%"
+      },
+      {
+        "location": "Sao Paulo, BR",
+        "latency": "160ms",
+        "loss": "0%"
+      }
+    ]
+  }
+]

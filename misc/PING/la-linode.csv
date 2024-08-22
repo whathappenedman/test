@@ -1,0 +1,121 @@
+data.location,data.latency,region,source,data.loss
+Honolulu-HI,108ms,NA,la-linode,0%
+Ashburn-VA,60ms,NA,la-linode,0%
+Atlanta-GA,45ms,NA,la-linode,0%
+Boston-MA,66ms,NA,la-linode,0%
+Charlotte-NC,54ms,NA,la-linode,0%
+Chicago-IL,47ms,NA,la-linode,0%
+Dallas-TX,31ms,NA,la-linode,0%
+Denver-CO,31ms,NA,la-linode,0%
+Houston-TX,38ms,NA,la-linode,0%
+Kansas City-MO,Failed,NA,la-linode,undefined
+Los Angeles-CA,0ms,NA,la-linode,0%
+Miami-FL,56ms,NA,la-linode,0%
+Minneapolis-MN,61ms,NA,la-linode,0%
+Montreal-CA,68ms,NA,la-linode,0%
+New York City-NY,59ms,NA,la-linode,0%
+Ogden-UT,15ms,NA,la-linode,0%
+Phoenix-AZ,10ms,NA,la-linode,0%
+Pittsburgh-PA,63ms,NA,la-linode,0%
+San Jose-CA,7ms,NA,la-linode,0%
+Seattle-WA,25ms,NA,la-linode,0%
+Toronto-CA,56ms,NA,la-linode,0%
+Vancouver-CA,31ms,NA,la-linode,0%
+Almaty-KZ,239ms,AS,la-linode,0%
+Baku-AZ,228ms,AS,la-linode,0%
+Bangalore-IN,244ms,AS,la-linode,0%
+Bangkok-TH,191ms,AS,la-linode,0%
+Chennai-IN,210ms,AS,la-linode,0%
+Dhaka-BD,227ms,AS,la-linode,0%
+Ho Chi Minh-VN,204ms,AS,la-linode,0%
+Hong Kong-HK,148ms,AS,la-linode,0%
+Istanbul-TR,182ms,AS,la-linode,0%
+Jakarta-ID,188ms,AS,la-linode,0%
+Karachi-PK,336ms,AS,la-linode,0%
+Kathmandu-NP,238ms,AS,la-linode,0%
+Kuala Lumpur-MY,184ms,AS,la-linode,0%
+Manila-PH,154ms,AS,la-linode,0%
+Mumbai-IN,225ms,AS,la-linode,0%
+New Delhi-IN,232ms,AS,la-linode,0%
+Nicosia-CY,187ms,AS,la-linode,0%
+Phnom Penh-KH,198ms,AS,la-linode,0%
+Seoul-KR,146ms,AS,la-linode,0%
+Singapore-SG,191ms,AS,la-linode,0%
+Taipei-TW,128ms,AS,la-linode,0%
+Tbilisi-GE,204ms,AS,la-linode,0%
+Tel Aviv-IL,185ms,AS,la-linode,0%
+Tokyo-JP,109ms,AS,la-linode,0%
+Ulaanbaatar-MN,205ms,AS,la-linode,0%
+Yangon-MM,205ms,AS,la-linode,0%
+Yerevan-AM,194ms,AS,la-linode,0%
+Hagatna: GU-,109ms,AS,la-linode,0%
+Cairo-EG,188ms,AF,la-linode,0%
+Cape Town-SA,291ms,AF,la-linode,0%
+Johannesburg-ZA,235ms,AF,la-linode,0%
+Lagos-NG,234ms,AF,la-linode,0%
+Luanda-AO,186ms,AF,la-linode,0%
+Nairobi-KE,259ms,AF,la-linode,0%
+Baghdad 2-IQ,219ms,AF,la-linode,0%
+Baghdad-IQ,225ms,AF,la-linode,0%
+Bahrain-BH,291ms,AF,la-linode,0%
+Dubai-AE,255ms,AF,la-linode,0%
+Fujairah-UAE,255ms,AF,la-linode,0%
+Riyadh-SA,244ms,AF,la-linode,0%
+Amsterdam-NL,149ms,EU,la-linode,0%
+Athens-GR,205ms,EU,la-linode,0%
+Belgrade-RS,170ms,EU,la-linode,0%
+Bratislava-SK,163ms,EU,la-linode,0%
+Brussels-BE,150ms,EU,la-linode,0%
+Bucharest-RO,172ms,EU,la-linode,0%
+Budapest-HU,160ms,EU,la-linode,0%
+Chisinau-MD,173ms,EU,la-linode,0%
+Copenhagen-DK,155ms,EU,la-linode,0%
+Dublin-IE,157ms,EU,la-linode,0%
+Frankfurt 2-DE2,151ms,EU,la-linode,0%
+Frankfurt-DE,150ms,EU,la-linode,0%
+Helsinki-FI,152ms,EU,la-linode,0%
+Keflavik-IS,170ms,EU,la-linode,0%
+Kyiv-UA,172ms,EU,la-linode,0%
+Lisbon-PT,158ms,EU,la-linode,0%
+Ljubljana-SI,165ms,EU,la-linode,0%
+London-UK,133ms,EU,la-linode,0%
+Luxembourg-LU,147ms,EU,la-linode,0%
+Madrid-ES,164ms,EU,la-linode,0%
+Marseille-FR,157ms,EU,la-linode,0%
+Milan-IT,152ms,EU,la-linode,0%
+Moscow-RU,182ms,EU,la-linode,0%
+Novi Travnik-BA,169ms,EU,la-linode,0%
+Oslo-NO,146ms,EU,la-linode,0%
+Paris-FR,141ms,EU,la-linode,0%
+Prague-CZ,149ms,EU,la-linode,0%
+Riga-LV,164ms,EU,la-linode,0%
+Sofia-BG,169ms,EU,la-linode,0%
+Stockholm-SE,162ms,EU,la-linode,0%
+Vienna-AT,160ms,EU,la-linode,0%
+Vilnius-LT,167ms,EU,la-linode,0%
+Warsaw-PL,158ms,EU,la-linode,0%
+Zagreb-HR,167ms,EU,la-linode,0%
+Zurich-CH,175ms,EU,la-linode,0%
+Adelaide-AU,162ms,OC,la-linode,0%
+Auckland-NZ,140ms,OC,la-linode,0%
+Brisbane-AU,152ms,OC,la-linode,0%
+Melbourne-AU,152ms,OC,la-linode,0%
+Perth-AU,189ms,OC,la-linode,0%
+Sydney-SYD,141ms,OC,la-linode,0%
+Brasilia-BR,179ms,SA,la-linode,0%
+Fortaleza-BR,125ms,SA,la-linode,0%
+Guatemala-GT,137ms,SA,la-linode,0%
+Mexico City-MX,52ms,SA,la-linode,0%
+Porto Alegre-BR,221ms,SA,la-linode,0%
+San Juan-PR,83ms,SA,la-linode,0%
+San Pedro-CR,100ms,SA,la-linode,0%
+Bogota-SA,117ms,SA,la-linode,0%
+Buenos Aires-AR,185ms,SA,la-linode,0%
+Curitiba-BR,171ms,SA,la-linode,0%
+La Paz-BO,Failed,SA,la-linode,undefined
+Lima-PE,139ms,SA,la-linode,0%
+Quito-EC,120ms,SA,la-linode,0%
+Rio de Janeiro-BR,159ms,SA,la-linode,0%
+Salvador-BR,148ms,SA,la-linode,0%
+Santiago-CL,168ms,SA,la-linode,0%
+Sao Paulo-BR,160ms,SA,la-linode,0%

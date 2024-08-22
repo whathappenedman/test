@@ -1,0 +1,38 @@
+linux bible 800
+linux command line 500
+lfs 400
+4 months
+--
+go into arch, gentoo, debian
+use tool (vim,screen,tmux,apt)
+2 months
+move half of os book here and wont do half anyways
+----------------------
+3 month
+computer systems a programmers perspective 
+1000 spread over 3 motnhs so half time
+and other half is rust (600)cpp(idk just a survey) more c actually
+last 3 months
+finish up rust cpp 
+and do some secuirty/hacking 
+have projects thorugh out and knowledge tests
+--------------------------------------
+start mapping and reading code and start contrib
+second year is do or die
+first year eliminate from tests and keep up pace
+second year needs results
+but its still half time
+need way more learning:
+networking, https, secure web facing
+buffer overflow, input val
+priv esc, ctf
+encyrption
+2 month web boot camp just basic
+
+cull first year at monthly till 3 months then at 3 month then 2 week break
+
+maybe move os book partial into first 6 months
+and drag out rest of edu in 1.5 years
+then that second half is do or die
+
+

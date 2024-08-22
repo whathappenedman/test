@@ -77,3 +77,9 @@ for sessions, ipv4/6 is 32/128 bit so 4/16
 so 20*5 + (128bit session id) + (jwt/refresh)
 100+16*3*2 = ~ 200 bytes
 200MB for million users so all in all 1GB is plenty for redis session and auth cache.
+
+# netwrok
+
+can use hetzner if you want but front it with data from digital ocean
+its .006/mb if you prebuy and overage is .01 still better than .1 LOL
+linode too is akami and iirc .005 now

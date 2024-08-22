@@ -1,0 +1,47 @@
+download all the docs hn?
+batching, maxitem, backoff, write to file
+always update
+
+strean the json and try a search normall?
+grep,jq or nodejs string even
+
+obsioully try steps with like 100mb-1gb first lol
+then before implementing paralellise it
+
+make an inverted index (global word->id) (just hasmap)
+	remove common words
+	can delete data technically and fetch fresh per result
+	can put on s3/bunny maybe 1/10th size or less of original
+	make a small faas to search it
+or even just alphabetically sorted tree
+	delete original data(replace)
+	can reconstruct from tree
+try pg tsvecotr
+
+for each comment estimate its rank by pos in parent.
+
+write your own f5 bot
+	f5 bot guy git hub has an effecient multi keyword search
+write ur own front page tracker thing and new
+
+
+-------------------------------------------------------
+how important 
+	dont u have better things to do
+how much time
+	cna you spare that
+	could an indian do that for you when u have job?
+	
+hn comments app
+gpu upgrade for ai
+	13b will barely fit in 8GB btw
+more computer hardware?
+
+move one with life no bs side projects
+
+
+fcuk all this ai shit
+just get copilot student
+and use free gpts for normal shit
+	copilot/battle,preplex,paid gpt3 api
+then lean on gpt4 api as needed for complex coding or other

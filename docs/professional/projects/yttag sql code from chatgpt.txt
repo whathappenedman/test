@@ -1,0 +1,138 @@
+thread_naqSzEldl662duhMZ2RAPjtE
+continue this thread.
+ask if no sql would be better
+ask how to leverage jsonb for this. oh duh.
+store jsonb as "cache" table for all user data minus most recent.
+also need to add in tags/groupings
+
+can use jsonb arrays but now i have duplicated state? need to sync
+easy to add/concat
+for modify or delete need to rewrite the whole object.
+
+also i mentioned caching older data in object storage and building on client
+also can cached bookmarks items in memory on app servers but need to cache it all! otherwise another trip to the db
+just trust the system and have lots of memory on db to cache yt/ig/tiktok table or most of it at least.
+yea so on update can rewrite the jsonb, or do it as a batch job, but why store it in a db then and not direct object.
+so when you build it on app server side cache it to object storage. 
+what about tags now? 
+
+forget about trigrams, sue tsvector for title
+---------------------------------------------------
+this handles tags
+CREATE TABLE user_bookmark_tags (
+    user_bookmark_tag_id SERIAL PRIMARY KEY,
+    user_id INT NOT NULL,
+    bookmark_id INT NOT NULL,
+    bookmark_type VARCHAR(255) NOT NULL, -- Use to differentiate bookmark types.
+    tag VARCHAR(255) NOT NULL, -- Storing the tag directly.
+    FOREIGN KEY (user_id) REFERENCES users(user_id),
+    -- Ensure you establish suitable foreign key constraints based on your schema:
+    -- E.g., if bookmark_id and bookmark_type effectively reference something in another table.
+    UNIQUE (user_id, bookmark_id, bookmark_type, tag) -- Prevents the same tag being applied multiple times to the same bookmark by the same user.
+);
+
+-------------------------------------------------
+so now serach is always working on server by tag
+can also do title search too np
+and can get recents. (MOAR INDEXES :( BASICALLY THE WHOLE ASSOC. TABLE)
+	just do one index on user id and modified (userid,bkmarkid,create,modifydate,deleted)
+	so liek for tag look up use the userid index then do full scan for bmark its ok! idfk
+	userid+mod habndles modified and deleted use case too for reconcilation. and a bundle column, 
+	when bundle gets invalidated (24-48+ hours, do hard delete)
+	make new bundle as batch from app server or when requested by client.
+	reset date and ttl. all this for what? to save db?
+	just have the columns dont need to implement app/r2 or client logic at first
+	just use http caching on client with ttl at first.
+	and just stream in on modified till current. 
+	dont need to persist to object storage. just delete after ttl
+just push older to object storage from app server.
+for modified use a timestamp to get it as normal
+maybe can delete it and rewrite it.
+for deletes same thing i guess with delet flag to reconcile on client
+or keep another table for deletes and send to client.
+
+
+-----------------------------------------------------
+
+-- Users Table
+CREATE TABLE users (
+    user_id SERIAL PRIMARY KEY,
+    username VARCHAR(255) NOT NULL UNIQUE,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    hashed_password VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Bookmarks Table
+CREATE TABLE bookmarks (
+    bookmark_id SERIAL PRIMARY KEY,
+    url TEXT NOT NULL UNIQUE,
+    title VARCHAR(255),
+    description TEXT,
+    metadata JSONB, 
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+
+-- User_Bookmarks Table
+CREATE TABLE user_bookmarks (
+    user_id INT NOT NULL,
+    bookmark_id INT NOT NULL,
+    PRIMARY KEY(user_id, bookmark_id),
+    FOREIGN KEY(user_id) REFERENCES users(user_id) ON DELETE CASCADE,
+    FOREIGN KEY(bookmark_id) REFERENCES bookmarks(bookmark_id) ON DELETE CASCADE,
+    added_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Add Bookmark for a User (Stored Procedure)
+CREATE OR REPLACE FUNCTION add_bookmark_for_user(
+    _user_id INT,
+    _url TEXT,
+    _title VARCHAR(255),
+    _description TEXT,
+    _metadata JSONB
+) RETURNS VOID AS $$
+DECLARE
+    _bookmark_id INT;
+BEGIN
+    SELECT bookmark_id INTO _bookmark_id FROM bookmarks WHERE url = _url;
+    IF _bookmark_id IS NULL THEN
+        INSERT INTO bookmarks (url, title, description, metadata)
+        VALUES (_url, _title, _description, _metadata)
+        RETURNING bookmark_id INTO _bookmark_id;
+    END IF;
+    PERFORM 1 FROM user_bookmarks WHERE user_id = _user_id AND bookmark_id = _bookmark_id;
+    IF NOT FOUND THEN
+        INSERT INTO user_bookmarks (user_id, bookmark_id)
+        VALUES (_user_id, _bookmark_id);
+    END IF;
+END;
+$$ LANGUAGE plpgsql;
+
+-- Remove Bookmark for a User (Stored Procedure)
+CREATE OR REPLACE FUNCTION remove_bookmark_for_user(_user_id INT, _bookmark_id INT) RETURNS VOID AS $$
+BEGIN
+    DELETE FROM user_bookmarks WHERE user_id = _user_id AND bookmark_id = _bookmark_id;
+END;
+$$ LANGUAGE plpgsql;
+
+-- View User Bookmarks (View)
+CREATE VIEW view_user_bookmarks AS
+SELECT u.user_id, b.bookmark_id, b.url, b.title, b.description, b.metadata
+FROM user_bookmarks ub
+JOIN users u ON ub.user_id = u.user_id
+JOIN bookmarks b ON ub.bookmark_id = b.bookmark_id;
+
+-- Search Bookmark Titles for a User (Query)
+SELECT b.bookmark_id, b.url, b.title, b.description, b.metadata
+FROM bookmarks b
+JOIN user_bookmarks ub ON b.bookmark_id = ub.bookmark_id
+WHERE ub.user_id = _user_id AND b.title ILIKE '%' || _search_term || '%';
+
+-- Indexes
+CREATE INDEX idx_user_bookmarks_user_id ON user_bookmarks (user_id);
+CREATE INDEX idx_user_bookmarks_bookmark_id ON user_bookmarks (bookmark_id);
+CREATE EXTENSION IF NOT EXISTS pg_trgm;
+CREATE INDEX idx_bookmarks_title_trgm ON bookmarks USING GIN (title gin_trgm_ops);
+CREATE INDEX idx_user_bookmarks_compound ON user_bookmarks (user_id, bookmark_id);

@@ -1,981 +1,3 @@
-cp sl.txt sl2.txt
-ls
-nano ~/.bashrc
-cp ~/.bashrc bashrc
-ls
-touch .bashrc
-ls
-ls -a
-rm .bashrc
-cp ~/.bashrc bashrc
-ls -a
-cp ~/.bashrc .bashrc
-ls -a
-cp --help
-cd
-ls -a
-rm .bashrc.old
-nano .bashrc
-nano .bash_aliases
-ls -a
-nano .bashrc
-echo
-echo fartface
-echo foo
-nano .bash_aliases
-foo
-. .bashrc
-nano .bash_aliases
-. .bashrc
-foo
-cp --help
-nano .bash_aliases
-nano --help
-bano
-nano .bash_aliases
-bano foo.txt
-. .bashrc
-nano `realpath foo.txt`
-nano $(realpath foo.txt)
-nano .bash_aliases
-. .bashrc
-nano .bash_aliases
-. .bashrc
-nano .bash_aliases
-. .bashrc
-nano .bash_aliases
-. .bashrc
-nano .bash_aliases
-. .bashrc
-bano
-. .bashrc
-nano .bash_aliases
-. .bashrc
-bano
-. .bashrc
-nano .bash_aliases
-. .bashrc
-bano
-nano .bash_aliases
-. .bashrc
-ls
-ls test
-bano orig.txt
-bano test/orig.txt
-nano .bash_aliases
-. .bashrc
-bano test/orig.txt
-nano .bash_aliases
-. .bashrc
-nano .bash_aliases
-nano 
-/
-cd /
-ls
-cd bin
-ls
-cd
-/bin/nano .bash_aliases
-nano foo.txt
-. .bashrc
-nano foo.txt
-/bin/nano foo.txt
-/bin/nano .bashrc
-/bin/nano .bash_aliases
-nano foo.txt
-. .bashrc
-nano foo.txt
-nano .bashrc
-fg
-nano .bashrc
-nano ~/.bashrc
-nano ~/.bash_aliases 
-la ~
-nano ~/.nanorc
-nano ~/.profile
-echo $SHELL
-ps -p $$
-testfoo
-exit
-nano .bashrc
-cd
-nano .bashrc
-nano .bash_aliases
-. .bashrc
-cd p
-cd -
-nano .bashrc
-histsize
-history
-clear
-history
-ls
-ls -a
-nano .bash_history
-nano .gitconfig
-nano .git-credentials 
-history --help
-cd /etc
-ls
-nano inputrc
-cd -
-ls -a
-rm nano.save nano.save.1
-ls -a
-$histsize
-echo $histsize
-echo $HISTSIZE
-nano .bashrc
-echo $HISTSIZE
-. .bashrc
-echo $HISTSIZE
-nano .bash_aliases
-. .bashrc 
-echo $HISTSIZE
-nano .bash_aliases
-nano .bashrc 
-fg
-nano .bashrc 
-. .bashrc 
-$HISTSIZE
-echo $HISTSIZE
-echo $HISTFILESIZE
-clear
-nano .bash_aliases
-. .bashrc 
-gs
-gp
-nano .bash_aliases
-cd p
-gs
-gce
-. .bashrc
-git add .
-gs
-gce
-nano .bash_alises
-nano ~/.bash_alises
-nano ~/.bash_alaises
-nano ~/.bash_aliases
-gce
-gp
-gce
-nano ~/.bash_aliases
-. .bashrc
-. ~/.bashrc
-gce
-git commit -m " ds"
-git reset 
-git status
-git reset HEAD~
-gs
-git add .
-git commit -m 'lol'
-git reset HEAD~
-git add .
-nano ~/.bash_alises
-nano ~/.bash_alaises
-nano ~/.bash_aliases
-. .~/bashrc
-. ~/.bashrc
-gce
-git reset HEAD
-gs
-git reset HEAD~
-gs
-ls temp
-ls -a
-ls -a temp
-rm temp/bashrc 
-gcm
-. ~/.bashrc
-nano ~/.bash_aliases 
-exit
-.exit
-exit
-wsl
-logout
-fg
-logout
-testfoo
-cls
-.logout
-.exit
-exit
-ps
-cat --help
-cd p/temp
-la
-less sl2.txt
-cat sl2.txt
-echo cat sl2.txt
-echo `cat sl2.txt`
-nano ~/.backup
-cat ~/.backup
-cd ~
-cp `cat .backup` /mnt/c/Users/Mustafa/p/temp/
-backup
-bkp
-nano ~./bash_aliases
-nano ~/.bash_aliases
-. ~/.bashrc
-nano ~/.bash_aliases
-. ~/.bashrc
-nano ~/.bash_aliases
-. ~/.bashrc
-backup
-nano ~/.bash_aliases
-cp -i `cat .backup` /mnt/c/Users/Mustafa/p/temp/
-nano ~/.bash_aliases
-. ~/.bashrc
-backup
-nano ~/.bash_aliases
-cd ~
-cd ..
-. ~/.bashrc
-backup
-nano ~/.bash_aliases
-cd p
-backup
-. ~/.bashrc
-backup
-cd p
-backup
-nano .bash_aliases
-nano ~/.bash_aliases
-ip
-curl ip
-curl icanhaz.ip
-curl canihazip.com
-curl icanhazip.com
-ip?
-ipis
-ipp
-nano ~/.bash_aliases
-. ~/.bashrc
-ipp
-backup
-gs
-gce
-git add .
-ga.
-gs
-gce
-gp
-cd
-nano .backup
-nano ~/.bash_aliases
-backup
-. .bashrc
-backup
-la
-ls
-la
-backup
-cp --help
-nano .bash_aliases 
-. .bashrc
-backup
-ipp
-cd p
-gs
-git add .
-gs
-gce 
-gp
-gs
-git add .
-gce && git push
-gs
-cd ~
-nano .bash_aliases
-fg
-cd -
-gs
-git pull
-gs
-git commit
-git add .
-gs
-git add .
-gcep
-. .bashrc
-. ~/.bashrc
-gcep
-gs
-git add .
-gcep
-backup
-gs
-nano ~/.bash_alaises
-nano ~/.bash_aliases
-. ~/.bashrc
-gs
-git diff
-backup
-git diff
-gs
-gcep
-git diff
-backup
-git status
-gs
-cd yttag
-cd projects
-cd yttag
-gs
-git diff
-gcep
-cd
-nano .bash_alaises
-nano .bash_aliases
-. .bashrc
-cd yttag
-cls
-cd
-gs
-cd p
-gs
-git diff
-gs
-git add .
-cd
-nano .bash_aliases 
-. .bashrc
-ip?
-nano .bash_aliases 
-. .bashrc 
-ipp
-ip?
-ipp
-cd p
-gs
-backup
-gs
-ga.
-gs
-gcep
-gs
-gcep
-gs
-cls
-gs
-gcep
-cd
-explorer.exe .
-gedit
-exit
-sudo apt update
-apt list --upgradeable
-sudo apt upgrade
-sudo apt install gedit
-sudo apt upgrade
-sudo apt install gedit
-gedit
-la
-cd p
-cd
-gedit .bashrc
-gedit
-startx
-start x
-gedit
-ip
-ip --help
-ipaddr
-ip addr
-gedit
-ver
-exit
-cd p
-gs
-ga.
-gs
-backup
-gcep
-sudo apt install zlib1g-dev libpng-dev libjpeg-dev
-cd
-la
-pwd
-cd ..
-pwd
-la
-cd ..
-pwd
-la
-cd home
-cd dev1
-mkdir
-mkdir bin
-cd bin
-mkdir avif
-cd avif
-git clone -b v0.9.1 https://github.com/AOMediaCodec/libavif.git
-la
-rm libavif
-explorer .
-explorer.exe .
-git clone -b v0.9.1 https://github.com/AOMediaCodec/libavif.git
-cd libavif
-cd ext
-la
-./
-cd ./
-cd .
-./aom.cmd
-cd ..
-mkdir build
-cd build
-cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
-cd
-sudo apt install cmake
-sudo apt install ninja-build
-cd -
-cd ../ext
-la
-explorer.exe .
-cd
-cd bin/avif
-git clone -b v0.9.1 https://github.com/AOMediaCodec/libavif.git
-cd libavif/ext
-./aom.cmd
-man more
-exit
-cd ~/bin/avif/libavif/
-ls
-cd ext
-ls
-./aom.cmd
-cmake -v
-cmake --help
-apt uninstall cmake
-apt uninstal cmake
-apt remove cmake
-sudo apt remove cmake
-apt search cmake
-cd 
-explorer.exe .
-ls
-cmake-3.24.2-linux-x86_64.sh
-./cmake-3.24.2-linux-x86_64.sh
-chmod +x cmake-3.24.2-linux-x86_64.sh
-./cmake-3.24.2-linux-x86_64.sh
-cd bin/avif
-git clone -b v0.9.1 https://github.com/AOMediaCodec/libavif.git
-cd libavif/ext
-./aom.cmd
-cd ..
-mkdir build
-cd build
-cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
-$PATH
-cd ~
-explorer.exe .
-cd -
-cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
-~/bin/cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
-sudo ~/bin/cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
-cd
-ls bin
-chmod +x bin/cmake
-sudo ~/bin/cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
-sudo apt install cmake
-cd -
-cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=0 -DAVIF_CODEC_AOM=1 -DAVIF_LOCAL_AOM=1 -DAVIF_BUILD_APPS=1 ..
-cd p/experiments/avif
-cls
-avifenc.exe
-ls
-la
-avifenc.exe 
-./avifenc.exe
-exit
-time
-time ./avif.exe images/pill.jpg pill.jpg
-time ./avifenc.exe images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 2 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 4 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 12 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 16 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 12 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 4 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 6 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
-cd p/experiments/avif/
-time ./avifenc.exe --jobs 8 images/pill.jpg pill.jpg
-time ./avifenc.exe --jobs 1 images/pill.jpg pill.jpg
-cd experiments
-cd p/experiments/avif/
-time avifenc.exe images/paper.jpg paper.avif
-time ./avifenc.exe images/paper.jpg paper.avif
-avifenc
-./avifenc.exe
-cls
-time ./avifenc --min 0 --max 63 -a end-usage=q -a cq-level=18 -a tune=ssim images/paper.jpg paper.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=18 -a tune=ssim images/paper.jpg paper.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=30 -a tune=ssim images/paper.jpg paper.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=30 -a tune=ssim --jobs 8 images/paper.jpg paper.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 --s 10 images/paper.jpg paper.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 3 images/paper.jpg paper.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 6 images/paper.jpg paper.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 6 images/pill.jpg pill_q40.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 5 images/pill.jpg pill_q40.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 7 images/pill.jpg pill_q40.avif
-time ./avifenc.exe --min 0 --max 63 -a end-usage=q -a cq-level=40 -a tune=ssim --jobs 8 -s 6 images/pill.jpg pill_q40.avif
-cd /
-ls
-cd var
-ls
-la
-cd lib
-la
-cd systemd
-ls
-cd ..
-cd vim/
-ls
-la
-htop
-cd p
-gs
-gp
-gs
-gs remote update
-git remote update
-cd downloads
-yt-dlp -a del.txt
-exit
-ipp
-gs
-cd p
-gs
-git pull
-cd p/docs
-ls
-nano windows\ setup.md
-nano "windows setup.md" 
-/bin/nano windows\ setup.md 
-nano ~.bash_aliases
-nano ~/.bash_aliases
-. ~/.bash_aliases
-nano "windows setup.md" 
-nano ~/.bash_aliases
-bin/nano ~/.bash_aliases
-/bin/nano ~/.bash_aliases
-. ~/.bash_aliases
-nano ~/.bash_aliases
-nano "windows setup.md" 
-nano ~/.bash_aliases
-. ~/.bash_aliases
-nano ~/.bash_aliases
-nano "windows setup.md" 
-/bin/nano windows\ setup.md 
-nano windows\ setup.md 
-realpath windows\ setup.md 
-nano ~/.bash_aliases 
-ipp
-gs
-ga.
-gs
-gcep
-gce
-top
-htop
-cls
-man htop
-cd ~
-la
-cd .config
-la
-cd htop
-la
-nano htoprc
-cd ..
-la
-cd .wrangler
-la
-cd config
-la
-nano default.toml 
-cd ..
-la
-cd neofetch/
-la
-nano config.conf 
-cd ,,
-cd ..
-cd .
-ls
-cd procps
-ls
-la
-cd ../ranger
-ls
-la
-cd ..
-la
-rm cmake-3.24.2-linux-x86_64.sh cmake-3.24.2-linux-x86_64.sh sl.txt 
-.backup
-ls .backup
-nano .backup
-backup
-cls
-neofetch
-sudo apt install neofetch
-neofetch 
-cls
-neofetch 
-neofetch -h
-neofetch --help
-nano ~
-nano ~/.bash_aliases
-nano ~./bash_history
-la ~./
-la ~/
-la ~/.bash_history
-nano ~/.bash_history
-nano ~./bash_history
-nano ~/.bash_history
-cls
-nano ~/.bash_history
-htop
-sudo htop
-man bash
-nano ~/.bash_aliases
-cls
-cls
-cd ~
-cd .config
-la
-cls
-nano ~/.bash_history
-backup
-history
-history 1147
-history --help
-nano ~/.bash_aliases
-nano ~/.bash_aliases
-cd ~
-ls .cache/
-ls .landscape/
-vi
-vi vitemp
-la
-vi
-vi vitemp
-la
-cd p/docs
-code.exe .
-code .
-cd ..
-backup
-ga.
-gs
-gcep
-ipp
-ipp
-cd p/docs
-git add .
-gs
-gcep
-exit
-.exit
-cd downloads\dl
-cd downloads/dl
-nano dl.txt
-exit
-.exit
-cd downloads/dl
-yt-dlp -a dl.txt
-yt-dlp.exe -a dl.txt
-ls
-nano dl.txt
-./yt-dlp.exe -a dl.txt
-cd downloads
-cat dl/dl.txt
-nano dl/dl.txt
-cd dl
-ls
-rm dl.txt
-emacs
-vi
-node
-ipp
-cd p
-cd ../download/dl
-cd ../downloads/dl
-ls
-nano dl.txt
-cd
-vi
-gs\
-cd p
-gs
-gcep
-nano ~/.bash_aliases
-cd p
-gcep
-git push
-ip
-ipp
-gcep
-git push
-curl https://raw.githubusercontent.com/macvk/dnsleaktest/master/dnsleaktest.sh -o dnsleaktest.sh
-chmod +x dnsleaktest.sh
-./dnsleaktest.sh
-ipp
-git push
-vim
-vi
-vimtutor
-suicide
-ipp
-suicide
-ipp
-./dnsleaktest.sh
-ipp
-suicide
-ipp
-./dnsleaktest.sh
-sudo apt install tesseract-ocr
-sudo apt update && sudo apt upgrade
-cd p
-cd experiments/
-cd avif
-cd images/
-ls
-tesseract pill.jpg
-tesseract pill.jpg -
-tesseract pill.jpg - -l eng
-tesseract ss_jerry.jpg - -l eng
-tesseract large_menu.jpg - -l eng
-tesseract paper.jpg - -l eng
-tesseract ss_engineer.jpg - -l eng
-tesserarc -v
-tesseract small_ticket.jpg -
-tesseract small_ticket.jpg - -l eng
-tesseract small_ticket.jpg - -l eng -dpi 70
-tesseract small_ticket.jpg - -l eng --dpi 70
-tesseract price_card.jpg 
-tesseract price_card.jpg -
-tesseract price_card.jpg - -l eng
-tesseract -v
-history
-history | grep avif
-tesseract paper-cropped.jpg -
-tesseract small-ticket-rs50.jpg -
-tesseract parking-rates-rs50.jpg -
-/mnt/c/Users/Mustafa/ocr/tesseract.exe
-/mnt/c/Users/Mustafa/ocr/tesseract.exe parking-rates-rs50.jpg -
-time /mnt/c/Users/Mustafa/ocr/tesseract.exe parking-rates-rs50.jpg -
-time /mnt/c/Users/Mustafa/ocr/tesseract.exe large-menu-rs50.jpg -
-ipp
-ls /bin
-ls ~/bin
-cd avif
-cd ~/bin/avif
-ls
-ls /
-ls /media/
-ls /opt
-ls usr
-ls /usr
-ls /usr/bin
-ls /sys
-ls /srv
-ipp
-cd p
-ls
-ga.
-gs
-gcep
-nano
-ls /srv
-ipp
-ls
-nano
-cd p
-ga.
-gcep
-gs
-ls
-nano
-ls /srv
-ipp
-ls
-nano
-cd p
-nano ~/.bash_aliases
-source 
-soruce ~/.bash_aliases
-source ~/.bash_aliases
-ga.
-backup
-gcep
-gs
-cd p
-gs
-ga.
-gcep
-gcep
-ip a
-wsl
-ip route | grep default
-cat /etc/resolv.conf | grep nameserver
-firefox --no-remote --no-xshm
-source ~/.bash_aliases
-backup
-ip a
-wsl
-ip route | grep default
-cat /etc/resolv.conf | grep nameserver
-firefox --no-remote --no-xshm
-cd p
-diff
-git add
-git add .
-git resotre 
-git restore
-git reset
-git diff
-cls
-git diff -w
-ga.
-gs
-gcep
-ga.
-cd p
-gcep
-gs
-cd p
-gs
-ga.
-gcep
-ls /srv
-ipp
-nano
-source 
-soruce ~/.bash_aliases
-source ~/.bash_aliases
-ip a
-wsl
-ip route | grep default
-cat /etc/resolv.conf | grep nameserver
-firefox --no-remote --no-xshm
-source ~/.bash_aliases
-ip a
-wsl
-ip route | grep default
-cat /etc/resolv.conf | grep nameserver
-firefox --no-remote --no-xshm
-diff
-git add
-git add .
-git resotre 
-git restore
-cls
-git diff -w
-cd p
-git reset
-gs
-git diff
-ga.
-gcep
-sudo apt update
-apt list --upgradable 
-sudo apt upgrade
-sudo apt install rclone
-config
-rsync
-rclone
-ls
-rclone ls
-rclone about
-rclone about "b2 - test"
-rclone about "B2 - test"
-rclone "B2 - test"
-rclone mnt "B2 - test"
-rclone ncdu "B2 - test"
-rclone ncdu "B2 - test":
-rclone ls "B2 - test"
-mkdir b2
-rclone ls "B2 - test":
-rclone about "B2 - test":
-rclone lsd
-rclone lsb
-rclone lsd "b2 - test":
-rclone mkdir "B2 - test":rclone
-rclone mkdir "B2 - test":rclone6
-rclone lsd "B2 - test":
-rclone lsd "B2 - test":rclone6
-rclone config
-rclone sync -i "C:\Users\Mustafa\p\docs" secretb2:docs
-rclone sync "C:\Users\Mustafa\p\docs" secretb2:docs
-rclone sync "/mnt/c/Users/Mustafa/p/docs" secretb2:docs
-rclone sync "/mnt/c/Users/Mustafa/p/docs" secret-b2:docs
-rclone ncdu
-rclone listremotes
-rclone ncdu b2-test:
-rclone ncdu secret-b2
-rclone ncdu secret-b2:
-rclone sync "/mnt/c/Users/Mustafa/p" secret-b2:windows/p
-rclone sync "/mnt/c/Users/Mustafa/p" secret-b2:windows/p -pi
-rclone sync -p "/mnt/c/Users/Mustafa/p" secret-b2:windows/p 
-rclone sync -I "/mnt/c/Users/Mustafa/p" secret-b2:windows/p 
-rclone sync -P "/mnt/c/Users/Mustafa/p" secret-b2:windows/p 
-rclone sync -P -I "/mnt/c/Users/Mustafa/p" secret-b2:windows/p 
-rclone sync -P -I "/mnt/c/Users/Mustafa/p" secret-b2:windows/p --vv
-rclone sync -P -I "/mnt/c/Users/Mustafa/p" secret-b2:windows/p -vv
-rclone ls "/mnt/c/Users/Mustafa/p"  
-rclone ls -exclude .git/* "/mnt/c/Users/Mustafa/p"  
-rclone ls --exclude .git/* "/mnt/c/Users/Mustafa/p"  
-rclone ls "/mnt/c/Users/Mustafa/p" --exclude .git/ 
-rclone ls "/mnt/c/Users/Mustafa/p" --exclude .git/ --exclude code/
-rclone ls "/mnt/c/Users/Mustafa/p" --exclude .git/ -- exclude node_modules/
-rclone ls "/mnt/c/Users/Mustafa/p" --exclude .git/ --exclude node_modules/
-rclone lsd secret-b2:windows/p 
-nano ~/.bash_aliases
-nano ~/.config/rclone/rclone.conf
-rclone sync -P "/mnt/c/Users/Mustafa/p" secret-b2:windows/p --exclude .git/ --exclude node_modules/
-rclone sync -P "/mnt/c/Users/Mustafa/p" b2-secret:windows/p --exclude .git/ --exclude node_modules/
-cd
-la .git-credentials
-nano .git-credentials 
-nano .gitconifg
-nano .gitconfig
-nano .backup
-backup
-bg
-fg
-jobs
-rm .bash_aliases.save.1
-rm .bash_aliases.save
-la
-git reset
-git diff
-cls
-git diff -w
-ga.
-gs
-gcep
-ga.
-cd p
-gcep
-gs
-cd p
-gs
-ga.
-gcep
-find
-find rclone.conf
-cd etc
-cd ..
-cd var
-rclone
-rclone config file
 cd .config
 nano rclone
 cd rclone
@@ -1997,4 +1019,957 @@ npm install -g npm@9.6.4
 npm install node-prevent-sleep
 explorer .
 explorer.exe .
+exit
+exit
+cd ~
+ls
+pwd
+la
+nano .bash_aliases 
+explorer.exe .
+bakn
+rclonde ncdu
+rclone ncdu
+rclone ncdu b2:secret
+rclone config
+rclone ncdu b2-secret:
+nano ~.bash_alliases
+nano ~/.bash_alliases
+nano ~/.bash_aliases
+pwd
+la
+nano .bash_aliases 
+explorer.exe .
+bakn
+rclonde ncdu
+rclone ncdu
+rclone ncdu b2:secret
+rclone config
+rclone ncdu b2-secret:
+ga.
+gcep
+gs
+rclone ncdu b2-secret:
+ga.
+gcep
+gs
+cd p
+cd misc
+cd large/
+cd rarbg-main/
+ls
+grep showsrarbg.txt 
+grep -F psych showsrarbg.txt 
+grep -F "psych" showsrarbg.txt 
+grep psych showsrarbg.txt 
+grep veep showsrarbg.txt 
+grep batman showsrarbg.txt 
+nano showsrarbg.txt 
+grep 24 showsrarbg.txt 
+grep 24.legacy showsrarbg.txt 
+cls
+grep 24.Legacy showsrarbg.txt 
+grep Veep showsrarbg.txt 
+grep Rick.and. showsrarbg.txt 
+grep Rick.and.Morty showsrarbg.txt 
+grep Archer showsrarbg.txt 
+grep Futureama showsrarbg.txt 
+grep Futurama showsrarbg.txt 
+grep Psych showsrarbg.txt 
+grep Silicon.Valley showsrarbg.txt 
+grep Modern.Family showsrarbg.txt 
+grep Modern.Family showsrarbg.txt 
+cd rarbg-main/
+ls
+grep big.bang showsrarbg.txt
+grep Big.Bang showsrarbg.txt
+grep Extrapolations showsrarbg.txt
+apt get qbitorrent
+apt install qbitorrent
+sudo apt install qbitorrent
+digg https://www.hetzner.com/de/
+dig https://www.hetzner.com/de/
+ping 8.8.8.8
+dig www.hetzner.com/de/
+dig www.hetzner.com
+ping   213.133.116.41
+ping   213.133.116.41
+cd "Private share"
+cd llama/
+cd llama\ 2/
+cd llama-2-70b/
+md5sum -c checklist.chk
+CD ..
+cd ..
+ls
+mk dir temp
+mkdir temp
+cd temp
+explorer .
+explorer.exe .
+./download.sh 
+dig www.hetzner.com/de/
+dig www.hetzner.com
+ping   213.133.116.41
+cd "Private share"
+cd llama/llama\ 2/
+download.sh
+cls
+./download.sh
+whisper --model small --language ar --task translate fm.m4a
+whisper.exe --model small --language ar --task translate fm.m4a
+pip
+exit
+rclone
+rclone version
+exit
+exit
+cd p
+cd code\
+cd code/practice/gcplayground/
+cls
+time node index.js
+exit
+cd code\
+cd code/practice/gcplayground/
+cls
+time node index.js
+grep C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt "star trek"
+grep "C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt"
+grep "C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" "star trek"
+grep startrek "C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" 
+grep startrek "mnt/C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" 
+ls mnt
+ls /mnt
+grep startrek "/mnt/C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" 
+grep startrek "/mnt/C\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" 
+grep startrek "/mnt/C/Users/Mustafa/p/misc/large/rarbg-main/showsrarbg.txt" 
+cd mnt
+cd /mnt/c
+cd -
+ls
+cd Users/Mustafa
+cd msic
+grep startrek "/mnt/C/Users/Mustafa/p/misc/large/rarbg-main/
+grep startrek "/mnt/C/Users/Mustafa/p/misc/large/rarbg-main/"
+cd "/mnt/C/Users/Mustafa/p/misc/large/rarbg-main/"
+cd "/mnt/c/Users/Mustafa/p/misc/large/rarbg-main/"
+cd
+cd C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt
+cd c:\Users\Mustafa\p\misc\large\rarbg-main
+cd c\Users\Mustafa\p\misc\large\rarbg-main
+cd mnt/c\Users\Mustafa\p\misc\large\rarbg-main
+cd mnt/c/Users\Mustafa\p\misc\large\rarbg-main
+cd mnt\c\Users\Mustafa\p\misc\large\rarbg-main
+cd p
+cd misc
+cd large\rarbg
+cd large/rarbg-main/
+grep
+grep startrek showsrarbg.txt
+grep "star trek" showsrarbg.txt
+grep "Star Trek" showsrarbg.txt
+grep batman showsrarbg.txt
+
+grep "Batman" showsrarbg.txt
+grep "Reasons" showsrarbg.txt
+grep "Bat" showsrarbg.txt
+grep "Bat" showsother.txt
+grep "Batman" showsother.txt
+grep "Bat man" showsother.txt
+grep "Star Trek" showsother.txt
+grep -i "Star Trek" showsother.txt
+grep -i "Star" showsother.txt
+grep -i "Startrek" showsother.txt
+grep -i "trek" showsother.txt
+grep -i "star.trek" showsother.txt
+grep -i "star.trek.the.original" showsother.txt
+grep C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt "star trek"
+grep "C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt"
+grep "C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" "star trek"
+grep startrek "C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" 
+grep startrek "mnt/C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" 
+ls mnt
+ls /mnt
+grep startrek "/mnt/C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" 
+grep startrek "/mnt/C\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt" 
+grep startrek "/mnt/C/Users/Mustafa/p/misc/large/rarbg-main/showsrarbg.txt" 
+cd mnt
+cd /mnt/c
+cd -
+ls
+cd Users/Mustafa
+cd msic
+grep startrek "/mnt/C/Users/Mustafa/p/misc/large/rarbg-main/
+grep startrek "/mnt/C/Users/Mustafa/p/misc/large/rarbg-main/"
+cd "/mnt/C/Users/Mustafa/p/misc/large/rarbg-main/"
+cd "/mnt/c/Users/Mustafa/p/misc/large/rarbg-main/"
+cd
+cd C:\Users\Mustafa\p\misc\large\rarbg-main\showsrarbg.txt
+cd c:\Users\Mustafa\p\misc\large\rarbg-main
+cd c\Users\Mustafa\p\misc\large\rarbg-main
+cd mnt/c\Users\Mustafa\p\misc\large\rarbg-main
+cd mnt/c/Users\Mustafa\p\misc\large\rarbg-main
+cd mnt\c\Users\Mustafa\p\misc\large\rarbg-main
+cd p
+cd misc
+cd large\rarbg
+cd large/rarbg-main/
+grep
+grep startrek showsrarbg.txt
+grep "star trek" showsrarbg.txt
+grep "Star Trek" showsrarbg.txt
+grep batman showsrarbg.txt
+grep "Batman" showsrarbg.txt
+grep "Reasons" showsrarbg.txt
+grep "Bat" showsrarbg.txt
+grep "Bat" showsother.txt
+grep "Batman" showsother.txt
+grep "Bat man" showsother.txt
+grep "Star Trek" showsother.txt
+grep -i "Star Trek" showsother.txt
+grep -i "Star" showsother.txt
+grep -i "Startrek" showsother.txt
+grep -i "trek" showsother.txt
+grep -i "star.trek" showsother.txt
+grep -i "star.trek.the.original" showsother.txt
+curl -ssl imap://mail.s19.io/inbox -u saved@s19.io:fakepassword1 
+curl -ssl imap://mail.s19.io:993/inbox -u saved@s19.io:fakepassword1 
+curl -ssl imap://mail.s19.io:993/inbox -u saved@s19.io:test1ffD22cXYy3
+curl -ssl imap://mail.s19.io/inbox;MAILINDEX=1 -u saved@s19.io:test1ffD22cXYy3
+curl -ssl imap://mail.s19.io/inbox -u saved@s19.io:test1ffD22cXYy3;MAILINDEX=1
+curl -ssl imap://mail.s19.io/inbox -u saved@s19.io:test1ffD22cXYy3
+curl -ssl imap://mail.s19.io/inbox/1 -u saved@s19.io:test1ffD22cXYy3
+curl -ssl imap://mail.s19.io/inbox/. -u saved@s19.io:test1ffD22cXYy3
+LIST
+man curl
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 -
+curl -ssl imap://mail.s19.io/inbox/ -u saved@s19.io:test1ffD22cXYy3
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox;MAILINDEX=0
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox;MAILINDEX=1
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox;MAILINDEX=365
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'LIST INBOX (MESSAGES)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'STATUS INBOX (MESSAGES)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io -X 'STATUS INBOX (MESSAGES)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox;UID=1
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io -X "LIST INBOX"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io -X "LIST INBOX "*""
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io -X 'LIST INBOX "*"'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/INBOX;UID=1
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/INBOX -X 'FETCH '
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/INBOX -X 'FETCH 1 "*"'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/INBOX
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imaps://mail.s19.io/INBOX
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/INBOX 'fetc 1:* (UID FLAGS)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/INBOX/inbox 'fetc 1:* (UID FLAGS)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/INBOX/inbox 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox .
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox LIST
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fecth 0'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fecth 0 (title)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fecth 0 (body)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fecth 1 (body)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 0 (body)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 1 (body)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 2 (body)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox;mailindex=1
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox;mailindex=1;
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (title)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 "*"'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 "*"' >> imt.txt
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (subject)' >> imt.txt
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (subject)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io;UID=3
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io;mailindex=3
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (full)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (BODY)'
+explorer .
+explorer.exe .
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (BODY)'>> imt.txt
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (FLAGS)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (envelope)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.title])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields] (subject))'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (*)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 ("*")'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io;UID=3"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (uid)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io;uid=3"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=body"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=headers"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4" >> imt.txt
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4" >> imt.txt
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=rfc882.text"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4;section="
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4;section=envelope"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=header.fields%20(subject)"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=4.2.1"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=4.2.2.1"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=header"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=header.fields%20(subject)"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=text"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=envelope"
+nano ~/.bash_history 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body.text)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (headers)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (flags)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (header)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header]{0})'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header]{1})'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header]{1-10})'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 1:* (body.text)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 1:* (body[header.fields (subject)])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' -o 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' -o .
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' -o.
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' -o .0
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' >> imt.txt
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 1:* (envelope)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 1:* (full)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 1:* (body)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3;section=1"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=1;section=1"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=2;section=1"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=[2,3];section=1"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid={2,3};section=1"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid={2,3}"
+cls
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=5"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=5;section=1"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=5;section=1" > imt.txt
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=5;section=2"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=5;section=1,2"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=5;section={1,2}"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=5;section={header.fields%20(subject),1}"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox" -v -X 'examine inbox'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' -r 0-22
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' -r 0-22 -o -
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' --range 0-23
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' --range 0-21
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[header.fields (subject)])' --range 0-10
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body.peek[header.fields (subject)])' --range 0-10
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 1:* (body[])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 1:* (body[text])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[text])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[text]<0-22>)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[text]<500>)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[text]<500-510>)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[text]<1>)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (body[text]<524>)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (rfc822)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (rfc822.text)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox -X 'fetch 3 (rfc822.text)' -v
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox;uid=3
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4" -v
+time curl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3" -v
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3" 
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v --keepalive-time 300
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v --no-keepalive
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 imap://mail.s19.io/inbox;uid=3
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=4" -v
+time curl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3" -v
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imap://mail.s19.io/inbox;uid=3" 
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v --keepalive-time 300
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=3" -v --no-keepalive
+curl icanhazip.com
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1:*]" 
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1:5]" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1:5]" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=1" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid={3,5}" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid={3,5};section=text" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid={3,5};section=headers.fields%20(subject)" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid={3,5};section=header.fields%20(subject)" 
+cls
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid={1,5};section=header.fields%20(subject)" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1-5];section=header.fields%20(subject)" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1-*];section=header.fields%20(subject)" 
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1-5];
+
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1-5];
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1-5]
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1-5]"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1-5]" > imt.txt
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;uid=[1-5]"
+time curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'status inbox'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'status inbox(messages)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io" -X 'status inbox(messages)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io" -X 'STATUS inbox (messages)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'STATUS inbox (messages)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'STATUS inbox (unseen UIDVALIDITY)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'fetch 1:* (UID)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;UID=5"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox;UID=3"
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'STATUS inbox (unseen)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 2 +FLAGS (\Recent)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 2 (+FLAGS (\Recent))'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'fetch 2 (body[])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 +FLAGS (/deleted)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 +FLAGS (\deleted)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'expunge'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 +FLAGS (\recent)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 7 +FLAGS (\recent)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 7 +FLAGS (\seen)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 7 +FLAGS (\Seen)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'fetch 1:* (UID FLAGS)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'fetch 7 (body[text])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'fetch 6 (body[text])'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 +FLAGS (\Seen)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 +FLAGS (\Unseen)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 +FLAGS (\Delete)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 7 +FLAGS (\Delete)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 7 +FLAGS (\Deleted)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 +FLAGS (\Deleted)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 -FLAGS (\Deleted)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 -FLAGS (\Seen)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'store 6 +FLAGS (\Recent)'
+curl -ssl -u saved@s19.io:test1ffD22cXYy3 "imaps://mail.s19.io/inbox" -X 'fetch 6 (UID FLAGS)'
+docker
+docker info
+docker info
+cd downloads
+pt_linux_64
+./pt_linux_64
+apt install ncurses5
+sudo apt install ncurses5
+apt /help
+man apt
+apt search ncurses
+sudo apt install libncurses5
+./pt_linux_x64
+ls
+ls >> myfile.txt
+exit
+
+wsl
+exit
+./pt_linux_x64
+vimtutor\
+vimtutor
+cat /proc/sys/fs/file-max
+vimtutor
+cat /proc/sys/fs/file-max
+man grep
+grep -i trek showsrarbg.txt 
+grep -i trek showsrarbg.txt showsother.txt 
+grep -i startrek showsrarbg.txt showsother.txt 
+grep -i star trek showsrarbg.txt showsother.txt 
+cls
+grep -i star.trek.the.original showsrarbg.txt showsother.txt 
+grep -i piss showsrarbg.txt showsother.txt 
+man grep
+grep -Eo "https?://[^/\n ]*" data.txt
+grep -Eo "https?://[^/\n ]*" data
+awk -F/ '{print $3}' data | sed 's/www.//' | sort | uniq -c
+awk -F/ '{print $3}' data | sed 's/www.//' | sort | uniq -c | sort -nr
+awk -F/ '{print $3}' data | sed 's/www.//' | sort | uniq -c | sort -nr
+YT-DLP -F https://www.youtube.com/shorts/SNIb4Othdqs
+yt-dlp -F https://www.youtube.com/shorts/SNIb4Othdqs
+exit
+exit
+curl https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W | grep ytd-playlist-video-renderer
+curl https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W 
+curl icanhazip.com
+curl https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W
+curl "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl -v "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl.exe "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl.exe "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W" | grep ytd-playlist-video-renderer
+
+curl -v "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl.exe "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl.exe "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W" | grep ytd-playlist-video-renderer
+openssl list -cipher-algorithms
+openssl list -cipher-algorithms | grep aes
+cls
+openssl list -cipher-algorithms | grep -i aes
+yt-dlp -F https://www.youtube.com/shorts/SNIb4Othdqs
+exit
+exit
+curl https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W | grep ytd-playlist-video-renderer
+curl https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W 
+curl https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W
+curl "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl -v "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl.exe "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl.exe "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W" | grep ytd-playlist-video-renderer
+curl -v "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl.exe "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W"
+curl.exe "https://www.youtube.com/playlist?list=PL8mG-RkN2uTxaBh0fJi3o7zlg3Obbhv7W" | grep ytd-playlist-video-renderer
+openssl list -cipher-algorithms
+openssl list -cipher-algorithms | grep aes
+openssl list -cipher-algorithms | grep -i aes
+cd p
+cd ao
+cd ai
+mkdir ollama-wsl
+cd ollama-wsl/
+curl https://ollama.ai/install.sh | sh
+curl https://ollama.ai/install.sh
+nano /etc/resolv.conf 
+ping google.com
+ping https://ollama.ai/install.sh
+ping ubunutu.com
+ping apple.com
+ping --ipv4 ubunutu.com
+ping -4
+ping -4 google.com
+ping -4 ubuntu.com
+ping  ubuntu.com
+ping ollama.ai
+ping -4 ollama.ai
+curl -4 https://ollama.ai/install.sh
+curl --ipv4 https://ollama.ai/install.sh
+curl --ipv4 
+curl --help
+curl --dns-ipv4-address 8.8.8.8 --ipv4 https://ollama.ai/install.sh
+curl --dns-ipv4-addr 8.8.8.8 --ipv4 https://ollama.ai/install.sh
+curl https://ollama.ai/install.sh 
+curl -v https://ollama.ai/install.sh | sh
+sudo apt upgrade
+cls
+curl -v ubuntu.com
+sudeo apt update
+curl -v security.ubuntu.com
+sudo apt update
+curl icanhazip.com
+curl -v https://ollama.ai/install.sh
+curl -v --dns-ipv4-addr 8.8.8.8 --ipv4 https://ollama.ai/install.sh
+curl -v security.ubuntu.com
+curl icanhazip.com
+ip
+ip link
+ip link set dev eth0 mtu 1230
+sudo ip link set dev eth0 mtu 1230
+sudo ip link
+curl -v --dns-ipv4-addr 8.8.8.8 --ipv4 https://ollama.ai/install.sh
+curl -v https://ollama.ai/install.sh
+sudo apt update
+curl -v --ipv4 https://ollama.ai/install.sh
+ip link set dev eth0 mtu 1230
+sudo ip link set dev eth0 mtu 1230
+sudo ip link
+curl -v --dns-ipv4-addr 8.8.8.8 --ipv4 https://ollama.ai/install.sh
+curl -v https://ollama.ai/install.sh
+sudo apt update
+curl -v --ipv4 https://ollama.ai/install.sh
+cd p\misc\large\rarbg-main
+cd p/misc/large/rarbg-main
+grep showsrarbg.txt modern
+grep showsrarbg.txt 
+grep
+grep -i modern family showsrarbg.txt
+grep -i "modern family" showsrarbg.txt
+grep -i "modern\ family" showsrarbg.txt
+grep -i "modernfamily" showsrarbg.txt
+grep -i "modern.family" showsrarbg.txt
+grep -i "big.bang.theory" showsrarbg.txt
+grep -i "office" showsrarbg.txt
+grep -i "office" extended showsrarbg.txt
+grep -i office extended showsrarbg.txt
+grep -i office*extended showsrarbg.txt
+grep --help
+grep -i office.*extended showsrarbg.txt
+grep -i robot.chicken showsrarbg.txt
+grep -i rick.and.morty showsrarbg.txt
+grep -i archer showsrarbg.txt
+grep -i south.park showsrarbg.txt
+grep -i south showsrarbg.txt
+grep -i veep showsrarbg.txt
+grep -i office showsrarbg.txt
+grep -i office.us showsrarbg.txt
+grep -i modern.family showsrarbg.txt
+grep -i modern.family showsrarbgother.txt
+grep -i modern.family showsother.txt
+grep -i justice.league showsrarbg.txt
+grep -i justice.league showsother.txt
+grep -i justice.league moviesrarbg.txt
+grep -i psych showsrarbg.txt
+grep -i dragon.balll showsrarbg.txt
+grep -i dragon.ball showsrarbg.txt
+grep -i dragon showsrarbg.txt
+grep -i dragon.ball showsother.txt
+grep -i dragon.ball.z showsother.txt
+cls
+grep -i dragon.ball showsrarbg.txt
+grep -i dragon showsrarbg.txt
+grep -i dragon.ball showsother.txt
+grep -i dragon.ball.z showsother.txt
+avifenc.exe -q 40 images\pill.jpg -o pill_q40_2.avif
+avifenc.exe 
+/avifenc.exe -q 40 images\pill.jpg -o pill_q40_2.avif
+./avifenc.exe -q 40 images\pill.jpg -o pill_q40_2.avif
+./avifenc.exe -q 40 images/pill.jpg -o pill_q40_2.avif
+./avifenc.exe -q 40 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe --help
+cls
+time ./avifenc.exe -q 40 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 6 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 1 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 12 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 2 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 4 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe --help
+time ./avifenc.exe -q 40 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 6 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 1 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 12 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 2 images/pill.jpg -o pill_q40_2.aviftime 
+time ./avifenc.exe -q 40 -j 4 images/pill.jpg -o pill_q40_2.aviftime 
+cd p
+expliorer .
+git add misc/
+git add docs/
+gcep
+cls
+gs
+explorer.exe .
+cls
+explorer.exe .
+cd p
+git add doc/ experiments/  code/practice/
+git add docs/ experiments/  code/practice/
+gcep
+gs
+gs
+grep Alcohol tempexcel.txt
+grep Alcohol tempexel.txt
+grep Linus tempexel.txt
+grep -oP '^[^,]+,\s*\K[^,]+' tempexel.txt | sort | uniq -c | sort -rn
+cls
+exit
+awk -F ';;;' '{ print $2 }' tempexel.txt | sort | uniq -c | sort -rn
+cls
+awk -F ';;;' '{ print $2 }' tempexel.txt | sort | uniq -c | sort -rn | awk '{sum += $1} END {print sum}'
+awk -F ';;;' '{ print $2 }' data.txt | sort | uniq -c | sort -rn | awk '$1 >= 4 {sum += $1} END {print "4 or more videos: ", sum}'
+awk -F ';;;' '{ print $2 }' tempexel.txt | sort | uniq -c | sort -rn | awk '$1 >= 4 {sum += $1} END {print "4 or more videos: ", sum}'
+awk -F ';;;' '{ print $2 }' tempexel.txt | sort | uniq -c | sort -rn | awk '$1 <= 3 {sum += $1} END {print "3 or less videos: ", sum}'
+exit
+awk -F ';;;' '{ print $2 }' tempexel.txt | sort | uniq -c | sort -rn
+awk -F ';;;' '{ print $2 }' tempexel.txt | sort | uniq -c | sort -rn | awk '{sum += $1} END {print sum}'
+awk -F ';;;' '{ print $2 }' data.txt | sort | uniq -c | sort -rn | awk '$1 >= 4 {sum += $1} END {print "4 or more videos: ", sum}'
+awk -F ';;;' '{ print $2 }' tempexel.txt | sort | uniq -c | sort -rn | awk '$1 >= 4 {sum += $1} END {print "4 or more videos: ", sum}'
+awk -F ';;;' '{ print $2 }' tempexel.txt | sort | uniq -c | sort -rn | awk '$1 <= 3 {sum += $1} END {print "3 or less videos: ", sum}'
+grep sunny in phil showsrarbg.txt
+grep "sunny in phil" showsrarbg.txt
+grep archer showsrarbg.txt
+grep -h
+grep --help
+grep Archer showsrarbg.txt
+grep "Sunny in P" showsrarbg.txt
+grep "Its.Always.Sunny.in.P" showsrarbg.txt
+grep "Its.Always.Sunny.in" showsrarbg.txt
+grep -i "Its.Always.Sunny.in" showsrarbg.txt
+grep -i "Its.Always Sunny.in" showsrarbg.txt
+grep -i "Its Always Sunny.in" showsrarbg.txt
+grep -i "Its Always Sunny" showsrarbg.txt
+grep -i Sunny showsother.txt
+grep -i "Its.Always.Sunny" showsrarbg.txt
+grep -i Its.Always.Sunny showsrarbg.txt
+grep -i Its.Always showsrarbg.txt
+grep -i "Its.Always" showsrarbg.txt
+grep -i "Always.S" showsrarbg.txt
+grep -i "Always.Sunny" showsrarbg.txt
+grep -i "Always.Sunny" showsother.txt
+cls
+grep -i "Its Always Sunny" showsother.txt
+grep -i "Its.Always.Sunny" showsother.txt
+grep -i Its.Always.Sunny showsother.txt
+grep -i "Its.Always.Sunny" showsother.txt
+grep -i Its.Always.Sunny showsother.txt
+cd downloads
+ls
+touch sss.txt
+explorer.exe
+vi sss.txt
+awk '/^\.\// {dir=$0} /^SUM:/ {sum=$NF; print dir, sum}' sss.txt
+awk '/^\.\// {dir=$0} /^SUM:/ {print dir, $NF}' sss.txt
+awk '/^\.\// {dir=$0} /^SUM:/ {sum=$NF; print dir, sum}' sss.txt | sed 's|/$||'
+awk '/^\.\// {gsub(/\//, "", $0); dir=$0} /^SUM:/ {print dir, $NF}' sss.txt
+awk '/^\.\// {dir=$0} /^SUM:/ {print dir, $NF}' sss.txt | sed 's|/$||'
+awk '/^\.\// {gsub(/\.\//, "", $0); dir=$0} /^SUM:/ {gsub(/\//, "", dir); print dir, $NF}' sss.txt
+awk '/^\.\// {dir=$0; sub(/\r$/, ""); sub(/\/$/, "", dir)} /^SUM:/ { sub(/\r$/, ""); sums[dir]=$NF } END { for (d in sums) print d, sums[d] }' yourfile.txt | sort -k2,2nr
+awk '/^\.\// {dir=$0; sub(/\r$/, ""); sub(/\/$/, "", dir)} /^SUM:/ { sub(/\r$/, ""); sums[dir]=$NF } END { for (d in sums) print d, sums[d] }' sss.txt | sort -k2,2nr
+awk '/^\.\// {dir=$0; gsub(/\r/, ""); sub(/\/$/, "", dir)} /^SUM:/ {gsub(/\r/, ""); sums[dir]=$NF} END {for (d in sums) print d, sums[d]}' sss.txt | sort -k2,2nr
+awk '/^\.\// {dir=$0; sub(/\r$/, "", dir)} /^SUM:/ {sub(/\r$/, ""); dir=gensub(/\/$/, "", "g", dir); print dir, $NF}' sss.txt
+total=$(awk '{s+=$2} END {print s}' sss.txt) && awk -v total=$total '{printf "%s %d (%.2f%%)\n", $1, $2, ($2/total)*100}' sss.txt | sort -k2nr
+cmd.exe for /D %I in (.\*) do C:\Users\Mustafa\Downloads\cloc-2.00.exe %I
+cmd.exe "for /D %I in (.\*) do C:\Users\Mustafa\Downloads\cloc-2.00.exe %I"
+cmd.exe /C "for /D %I in (.\*) do C:\Users\Mustafa\Downloads\cloc-2.00.exe %I" |
+cmd.exe /C "for /D %I in (.\*) do C:\Users\Mustafa\Downloads\cloc-2.00.exe %I" | grep SUM
+cloc
+sudo apt install cloc
+grep -i "Its Always Sunny" showsother.txt
+grep -i "Its.Always.Sunny" showsother.txt
+grep -i Its.Always.Sunny showsother.txt
+cd linux-master/
+cd arch
+awk '/^\.\// {dir=$0; sub(/\r$/, ""); sub(/\/$/, "", dir)} /^SUM:/ { sub(/\r$/, ""); sums[dir]=$NF } END { for (d in sums) print d, sums[d] }' sss.txt | sort -k2,2nr
+cd drivers
+cls
+for d in ./*/ ; do (cd "$d" && echo "$d" && (cloc ../"$d" | grep SUM)); done
+cd ..
+exit
+ls
+vim rockyou2024.txt
+ls
+vim rockyou2024.zip.sha256 
+vim rockyou2024.txt
+exit
+E:
+cd "New folder (2)"
+ls
+head rockyou2024.txt
+tail rockyou2024.txt
+cls
+grep --binary-files=text 'whathappenedman' rockyou2024.txt
+grep --binary-files=text 'GETCRUNK!' rockyou2024.txt
+grep --binary-files=text 'Getcrunk!' rockyou2024.txt
+grep --binary-files=text 'Getcrunk!' rockyou2024.txt
+cat lgetist.txt | sed -E 's/.*([0-9]{4}).*/\1 &/' | sort -n | nl -w1 -s'. ' | sed 's/^[0-9]*\. [0-9]* //'
+cat getlist.txt | sed -E 's/.*([0-9]{4}).*/\1 &/' | sort -n | nl -w1 -s'. ' | sed 's/^[0-9]*\. [0-9]* //'
+cat getlist.txt | sed -E 's/.*([0-9]{4}).*/\1 &/' | sort -n | awk '{printf "%d. %s\n", NR, substr($0, index($0,$2))}' | sed 's/ *$//'
+cls
+awk '
+{
+    match($0, /\(([0-9]{4})\)/, year)
+    if (year[1] == "") match($0, /[^0-9]([0-9]{4})[^0-9]/, year)
+    if (year[1] != "") print year[1] " " $0
+    else print "0000 " $0
+}' getlist.txt| sort -n | cut -d' ' -f2- | nl -w2 -s'. '
+awk '/^\.\// {dir=$0} /^SUM:/ {sum=$NF; print dir, sum}' sss.txt
+awk '/^\.\// {dir=$0} /^SUM:/ {print dir, $NF}' sss.txt
+awk '/^\.\// {dir=$0} /^SUM:/ {sum=$NF; print dir, sum}' sss.txt | sed 's|/$||'
+awk '/^\.\// {gsub(/\//, "", $0); dir=$0} /^SUM:/ {print dir, $NF}' sss.txt
+awk '/^\.\// {dir=$0} /^SUM:/ {print dir, $NF}' sss.txt | sed 's|/$||'
+awk '/^\.\// {gsub(/\.\//, "", $0); dir=$0} /^SUM:/ {gsub(/\//, "", dir); print dir, $NF}' sss.txt
+awk '/^\.\// {dir=$0; sub(/\r$/, ""); sub(/\/$/, "", dir)} /^SUM:/ { sub(/\r$/, ""); sums[dir]=$NF } END { for (d in sums) print d, sums[d] }' yourfile.txt | sort -k2,2nr
+awk '/^\.\// {dir=$0; sub(/\r$/, ""); sub(/\/$/, "", dir)} /^SUM:/ { sub(/\r$/, ""); sums[dir]=$NF } END { for (d in sums) print d, sums[d] }' sss.txt | sort -k2,2nr
+awk '/^\.\// {dir=$0; gsub(/\r/, ""); sub(/\/$/, "", dir)} /^SUM:/ {gsub(/\r/, ""); sums[dir]=$NF} END {for (d in sums) print d, sums[d]}' sss.txt | sort -k2,2nr
+awk '/^\.\// {dir=$0; sub(/\r$/, "", dir)} /^SUM:/ {sub(/\r$/, ""); dir=gensub(/\/$/, "", "g", dir); print dir, $NF}' sss.txt
+total=$(awk '{s+=$2} END {print s}' sss.txt) && awk -v total=$total '{printf "%s %d (%.2f%%)\n", $1, $2, ($2/total)*100}' sss.txt | sort -k2nr
+cmd.exe for /D %I in (.\*) do C:\Users\Mustafa\Downloads\cloc-2.00.exe %I
+cmd.exe "for /D %I in (.\*) do C:\Users\Mustafa\Downloads\cloc-2.00.exe %I"
+cmd.exe /C "for /D %I in (.\*) do C:\Users\Mustafa\Downloads\cloc-2.00.exe %I" |
+cmd.exe /C "for /D %I in (.\*) do C:\Users\Mustafa\Downloads\cloc-2.00.exe %I" | grep SUM
+cloc
+sudo apt install cloc
+grep -i "Its Always Sunny" showsother.txt
+grep -i "Its.Always.Sunny" showsother.txt
+grep -i Its.Always.Sunny showsother.txt
+cd linux-master/
+cd arch
+awk '/^\.\// {dir=$0; sub(/\r$/, ""); sub(/\/$/, "", dir)} /^SUM:/ { sub(/\r$/, ""); sums[dir]=$NF } END { for (d in sums) print d, sums[d] }' sss.txt | sort -k2,2nr
+cd drivers
+for d in ./*/ ; do (cd "$d" && echo "$d" && (cloc ../"$d" | grep SUM)); done
+cd ..
+ls
+vim rockyou2024.txt
+ls
+vim rockyou2024.zip.sha256 
+vim rockyou2024.txt
+cd "New folder (2)"
+ls
+head rockyou2024.txt
+tail rockyou2024.txt
+grep --binary-files=text 'whathappenedman' rockyou2024.txt
+grep --binary-files=text 'GETCRUNK!' rockyou2024.txt
+grep --binary-files=text 'Getcrunk!' rockyou2024.txt
+grep --binary-files=text 'Getcrunk!' rockyou2024.txt
+cat lgetist.txt | sed -E 's/.*([0-9]{4}).*/\1 &/' | sort -n | nl -w1 -s'. ' | sed 's/^[0-9]*\. [0-9]* //'
+cat getlist.txt | sed -E 's/.*([0-9]{4}).*/\1 &/' | sort -n | nl -w1 -s'. ' | sed 's/^[0-9]*\. [0-9]* //'
+cat getlist.txt | sed -E 's/.*([0-9]{4}).*/\1 &/' | sort -n | awk '{printf "%d. %s\n", NR, substr($0, index($0,$2))}' | sed 's/ *$//'
+awk '
+{
+    match($0, /\(([0-9]{4})\)/, year)
+    if (year[1] == "") match($0, /[^0-9]([0-9]{4})[^0-9]/, year)
+    if (year[1] != "") print year[1] " " $0
+    else print "0000 " $0
+}' getlist.txt| sort -n | cut -d' ' -f2- | nl -w2 -s'. '
+grep -oP '\(\d{4}\)|\b\d{4}\b' getlist.txt | paste - movies.txt | sort -n | cut -f2- | nl -w2 -s'. '
+grep -oP '\(\d{4}\)|\b\d{4}\b' getlist.txt | paste - getlist.txt | sort -n | cut -f2- | nl -w2 -s'. '
+grep -oP '\(\d{4}\)|\b\d{4}\b' getlist.txt | paste - getlist.txt | sort -n 
+grep -oP '(?<=\()\d{4}(?=\))|(?<!\d)\d{4}(?!\d)' getlist.txt | paste - getlist.txt | sort -n | cut -f2- | nl -w2 -s'. '
+grep -oP '(?<=\()\d{4}(?=\))|(?<!\d)\d{4}(?!\d)' getlist.txt | paste - getlist.txt | sort -n
+sed -E 's/^.*?(\d{4})\b.*/\1 &/' getlist.txt | sort -n | sed 's/^[0-9]* //' | nl -w2 -s'. '
+sed -E 's/^.*?(\d{4})\b.*/\1 &/' getlist.txt | sort -n 
+sed -E 's/^.*?(\d{4})\b.*/\1/' getlist.txt
+grep -oP -m1 '\(\d{4}\b' movies.txt | paste - movies.txt | sort -n | cut -d' ' -f2- | nl -w2 -s'. '
+grep -oP -m1 '\(\d{4}\b' getlist.txt | paste - getlist.txt | sort -n | cut -d' ' -f2- | nl -w2 -s'. '
+grep -oP -m1 '\(\d{4}\b' getlist.txt | paste - getlist.txt | sort -n 
+getlist.txt | paste - getlist.txt | sort -n 
+sed -E 's/^.*?(\d{4})\b.*/\1 &/' getlist.txt | paste - getlist.txt | sort -n 
+sed -E 's/^.*?(\d{4})\b\1 &/' getlist.txt | paste - getlist.txt | sort -n 
+sed -E 's/^.*?(\d{4})\b &/' 
+sed -E 
+sed -E 's/^.*?(\d{4})\b/\1\0/' 
+sed -E 's/^.*?(\d{4})\b/\1\0/' getlist.txt
+sed -E 's/^.*?(\d{4})\b /\1/' getlist.txt
+sed -E 's/^.*?(\d{4})\b/\1/' getlist.txt
+sed -E 's/^.*?(\d{4})\b/\1/gm' getlist.txt
+sed -E 's/^.*?(\d{4})\b/\0/gm' getlist.txt
+sed -E 's/^.*?(\d{4})\b/\2/gm' getlist.txt
+sed -E 's/^.*?(\d{4})\b/\boop/gm' getlist.txt
+man sed
+sed -E 's/^.*?(\d{4})\b/\boop/gm' getlist.txt --debug
+sed -E 's/^.*?(\d{4})/\boop/gm' getlist.txt --debug
+sed -E 's/^.*?(\d{4})/\boop/gm' getlist.txt 
+sed -E 's/^.*?(\d{4})/\boop/gm' 'apple sauce '
+"poop" |sed -E 's/^.*?(\d{4})/\boop/gm' 
+"poop" | sed -E 's/^.*?(\d{4})/\boop/gm' 
+cat "poop" | sed -E 's/^.*?(\d{4})/\boop/gm' 
+cat  <<< "poop" | sed -E 's/^.*?(\d{4})/\boop/gm' 
+cat  <<< "poop" 
+cat  <<< "poop" | sed 's/oo/bb'
+cat  <<< "poop" | sed 's/oo/bb/'
+cat  <<< "All.Star.2009.movie" | sed 's/oo/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/^.+?/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/^.+?(\d{4}))/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/\d{4}/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/d{4}/bb/'
+cat  <<< "All.Star.2009.movie" | sed 's/\d{4}/bb/'
+cat  <<< "All.Star.2009.movie" | sed 's/[S]/bb/'
+cat  <<< "All.Star.2009.movie" | sed 's/2009/bb/'
+cat  <<< "All.Star.2009.movie" | sed 's/^.+/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/^.+/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/\b/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's//\d/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/\d/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/\\d/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/\digit/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/digit/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/[0-9]/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/[0-9]{4}/bb/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/[0-9]{4}/\0/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/[0-9]{4}/\1/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/[0-9]{4}/s/'
+cat  <<< "All.Star.2009.movie" | sed 's/[0-9]{4}/xxxx/'
+cat  <<< "All.Star.2009.movie" | sed -E 's/[0-9]{4}/xxxx/'
+sed -E 's/^.*?([0-9]{4})\b/\1\0/' getlist.txt
+sed -E 's/^.*?([0-9]{4})\b/\1  \0/' getlist.txt
+sed -E 's/^.*?([0-9]{4})\b.*/\1 &/' getlist.txt | sort -n | sed 's/^[0-9]* //' | nl -w2 -s'. '
+sed -E 's/^.*?([0-9]{4})\b.*/\1 &/' getlist.txt | sort -n 
+sed -E 's/^.*?([0-9]{4})\b.*$/\1 &/' getlist.txt | sort -n 
+sed -E 's/^.*?([0-9]{4})\b.*$/\1 &/gm' getlist.txt | sort -n 
+sed -E 's/^.*?([0-9]{4})\b.*$/\1 &/gm' getlist.txt --debug
+sed -E 's/^.*?([0-9]{4})\b.*$/\1 &/gm' getlist.txt --debugcls
+cat <<< 'All Star Superman 2011 1080p BluRay DD+ 5.1 x265-EDGE2020 | sed -E 's/^.*?([0-9]{4})\b.*$/\1 &/gm'
+cat <<< "All Star Superman 2011 1080p BluRay DD+ 5.1 x265-EDGE2020" | sed -E 's/^.*?([0-9]{4})\b.*$/\1 &/gm'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.*?([0-9]{4})\b.*$/\1 &/gm'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.*?([0-9]{4})\b.*$/\1 &/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.*?([0-9]{4})\b.*$/\1'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.*?([0-9]{4})\b.*$/\1'/
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.*?([0-9]{4})\b.*$/\1 \0'/
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/[0-9]{4}/\1 \0/
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.*?([0-9]{4}).*/\0/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.*?([0-9]{4}).*/\1/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.+?([0-9]{4}).*/\1/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.+?([0-9]{4}).*/\0/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/^.+?cls([0-9]{4}).*/\0/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/lol/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/\1/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/\2/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/lol \0/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/lol \0/gm'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/(^.+?[0-9]{4})/lol \0/gm'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/(^.+?[0-9]{4})/\1 \0/gm'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/(^.+?([0-9]{4}))/lol \0/gm'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/(^.+?([0-9]{4}))/\1 \0/gm'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/(^.+?([0-9]{4}))/\2 \0/gm'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/[0-9]{4}/\1 \0/'
+cat <<< "Superman 2011 1080p EDGE2020 /n lol" | sed -E 's/([0-9]{4})/\1 \0/'
+cat <<< "Superman 2011 1080p EDGE2020 \n lol" | sed -E 's/([0-9]{4})/\1 \0/'
+cat <<< "Superman 2011 1080p EDGE2020 \\n lol" | sed -E 's/([0-9]{4})/\1 \0/'
+cat <<< "Superman 2011 1080p EDGE2020 \/n lol" | sed -E 's/([0-9]{4})/\1 \0/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/\1 \0/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/\lol/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/ol/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/\0/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/([0-9]{4})/\0 l/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/[^0-9]([0-9]{4})/\0 l/'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/[^0-9]([0-9]{4})/\1 /'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/[^0-9]*([0-9]{4})/\1 /'
+cat <<< "Superman 2011 1080p EDGE2020" | sed -E 's/[^0-9]*([0-9]{4})/\1 \0 /'
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0 /' getlist.txt
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0 /' getlist.txt | sort -n
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0 /' getlist.txt | sort -n | sed s/^[0-9]* //
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0 /' getlist.txt | sort -n | sed 's/^[0-9]* //'
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0 /' getlist.txt | sort -n | sed 's/^[0-9]* //' | nl -w2 -s'. '
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/^[0-9]* //' | nl -w2 -s'. '
+sed -E 's/[^0-9]*([0-9]{4})/\1 &/' getlist.txt | sort -n | sed 's/^[0-9]* //' | nl -w2 -s'. '
+CLS
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/[0-9]{4}//' |nl -w2 -s'. '
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/[0-9]{4} //' |nl -w2 -s'. '
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/[0-9]{4} //' |nl -w2 -s'. 'cls
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/^[0-9]{4} //' |nl -w2 -s'. 'cls
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/^[0-9]{4} //' |nl -w2 -s'. '
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/^[0-9] //'
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/^[0-9]{4} //'
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/^([0-9]{4}) //'
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/^[0-9]* //'
+sed -E 's/[^0-9]*([0-9]{4})/\1 \0/' getlist.txt | sort -n | sed 's/^[0-9]* //' |nl -w2 -s'. '
+cls
+E:
+exit
+cd p
+cd temp
+touch vitest
+vimvitest
+vim vitest
+exit
+CD P
+cd p
+cd temp
+ls
+touch testscript
+vi testscript
+testscript
+./testscript
+vimtutor
+sudo apt update
+sudeo apt update
+sudo apt update
+apt -o Acquire::ForceIPv4=true update
+sudo apt -o Acquire::ForceIPv4=true update
+sudo do-release-upgrade 
+cls
+sudo apt update
+apt -o Acquire::ForceIPv4=true update
+sudo apt -o Acquire::ForceIPv4=true update
+sudo do-release-upgrade 
+sudo apt install fzf
+cd "$(ls -d */ | fzf)"
+cls
+cd ~
+sudo /etc/init.d/screen-cleanup start
+screen
+man tmux
 exit

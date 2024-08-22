@@ -1,0 +1,121 @@
+data.location,data.latency,region,source,data.loss
+Honolulu-HI,76ms,NA,tx-he,0%
+Ashburn-VA,30ms,NA,tx-he,0%
+Atlanta-GA,17ms,NA,tx-he,0%
+Boston-MA,39ms,NA,tx-he,0%
+Charlotte-NC,39ms,NA,tx-he,0%
+Chicago-IL,24ms,NA,tx-he,0%
+Dallas-TX,6ms,NA,tx-he,0%
+Denver-CO,17ms,NA,tx-he,0%
+Houston-TX,6ms,NA,tx-he,0%
+Kansas City-MO,10ms,NA,tx-he,0%
+Los Angeles-CA,29ms,NA,tx-he,0%
+Miami-FL,32ms,NA,tx-he,0%
+Minneapolis-MN,33ms,NA,tx-he,0%
+Montreal-CA,38ms,NA,tx-he,0%
+New York City-NY,38ms,NA,tx-he,0%
+Ogden-UT,37ms,NA,tx-he,0%
+Phoenix-AZ,45ms,NA,tx-he,0%
+Pittsburgh-PA,32ms,NA,tx-he,0%
+San Jose-CA,49ms,NA,tx-he,0%
+Seattle-WA,64ms,NA,tx-he,0%
+Toronto-CA,43ms,NA,tx-he,0%
+Vancouver-CA,57ms,NA,tx-he,0%
+Almaty-KZ,202ms,AS,tx-he,0%
+Baku-AZ,182ms,AS,tx-he,0%
+Bangalore-IN,246ms,AS,tx-he,0%
+Bangkok-TH,226ms,AS,tx-he,0%
+Chennai-IN,236ms,AS,tx-he,0%
+Dhaka-BD,259ms,AS,tx-he,0%
+Ho Chi Minh-VN,208ms,AS,tx-he,0%
+Hong Kong-HK,175ms,AS,tx-he,0%
+Istanbul-TR,153ms,AS,tx-he,0%
+Jakarta-ID,224ms,AS,tx-he,0%
+Karachi-PK,258ms,AS,tx-he,0%
+Kathmandu-NP,398ms,AS,tx-he,0%
+Kuala Lumpur-MY,242ms,AS,tx-he,0%
+Manila-PH,277ms,AS,tx-he,0%
+Mumbai-IN,255ms,AS,tx-he,0%
+New Delhi-IN,246ms,AS,tx-he,0%
+Nicosia-CY,170ms,AS,tx-he,0%
+Phnom Penh-KH,216ms,AS,tx-he,0%
+Seoul-KR,171ms,AS,tx-he,0%
+Singapore-SG,315ms,AS,tx-he,0%
+Taipei-TW,157ms,AS,tx-he,0%
+Tbilisi-GE,161ms,AS,tx-he,0%
+Tel Aviv-IL,171ms,AS,tx-he,0%
+Tokyo-JP,148ms,AS,tx-he,0%
+Ulaanbaatar-MN,189ms,AS,tx-he,0%
+Yangon-MM,252ms,AS,tx-he,0%
+Yerevan-AM,172ms,AS,tx-he,0%
+Hagatna: GU-,165ms,AS,tx-he,0%
+Cairo-EG,174ms,AF,tx-he,0%
+Cape Town-SA,229ms,AF,tx-he,0%
+Johannesburg-ZA,278ms,AF,tx-he,0%
+Lagos-NG,292ms,AF,tx-he,0%
+Luanda-AO,Failed,AF,tx-he,undefined
+Nairobi-KE,249ms,AF,tx-he,0%
+Baghdad 2-IQ,192ms,AF,tx-he,0%
+Baghdad-IQ,211ms,AF,tx-he,0%
+Bahrain-BH,188ms,AF,tx-he,0%
+Dubai-AE,229ms,AF,tx-he,0%
+Fujairah-UAE,207ms,AF,tx-he,0%
+Riyadh-SA,202ms,AF,tx-he,0%
+Amsterdam-NL,115ms,EU,tx-he,0%
+Athens-GR,184ms,EU,tx-he,0%
+Belgrade-RS,130ms,EU,tx-he,0%
+Bratislava-SK,157ms,EU,tx-he,0%
+Brussels-BE,130ms,EU,tx-he,0%
+Bucharest-RO,147ms,EU,tx-he,0%
+Budapest-HU,128ms,EU,tx-he,0%
+Chisinau-MD,144ms,EU,tx-he,0%
+Copenhagen-DK,126ms,EU,tx-he,0%
+Dublin-IE,116ms,EU,tx-he,0%
+Frankfurt 2-DE2,116ms,EU,tx-he,0%
+Frankfurt-DE,119ms,EU,tx-he,0%
+Helsinki-FI,138ms,EU,tx-he,0%
+Keflavik-IS,142ms,EU,tx-he,0%
+Kyiv-UA,154ms,EU,tx-he,0%
+Lisbon-PT,117ms,EU,tx-he,0%
+Ljubljana-SI,126ms,EU,tx-he,0%
+London-UK,105ms,EU,tx-he,0%
+Luxembourg-LU,126ms,EU,tx-he,0%
+Madrid-ES,99ms,EU,tx-he,0%
+Marseille-FR,128ms,EU,tx-he,0%
+Milan-IT,112ms,EU,tx-he,0%
+Moscow-RU,146ms,EU,tx-he,0%
+Novi Travnik-BA,136ms,EU,tx-he,0%
+Oslo-NO,128ms,EU,tx-he,0%
+Paris-FR,99ms,EU,tx-he,0%
+Prague-CZ,127ms,EU,tx-he,0%
+Riga-LV,147ms,EU,tx-he,0%
+Sofia-BG,154ms,EU,tx-he,0%
+Stockholm-SE,132ms,EU,tx-he,0%
+Vienna-AT,141ms,EU,tx-he,0%
+Vilnius-LT,138ms,EU,tx-he,0%
+Warsaw-PL,134ms,EU,tx-he,0%
+Zagreb-HR,127ms,EU,tx-he,0%
+Zurich-CH,124ms,EU,tx-he,0%
+Adelaide-AU,228ms,OC,tx-he,0%
+Auckland-NZ,176ms,OC,tx-he,0%
+Brisbane-AU,206ms,OC,tx-he,0%
+Melbourne-AU,211ms,OC,tx-he,0%
+Perth-AU,226ms,OC,tx-he,0%
+Sydney-SYD,180ms,OC,tx-he,0%
+Brasilia-BR,149ms,SA,tx-he,0%
+Fortaleza-BR,102ms,SA,tx-he,0%
+Guatemala-GT,109ms,SA,tx-he,0%
+Mexico City-MX,22ms,SA,tx-he,0%
+Porto Alegre-BR,155ms,SA,tx-he,0%
+San Juan-PR,110ms,SA,tx-he,0%
+San Pedro-CR,90ms,SA,tx-he,0%
+Bogota-SA,84ms,SA,tx-he,0%
+Buenos Aires-AR,172ms,SA,tx-he,0%
+Curitiba-BR,144ms,SA,tx-he,0%
+La Paz-BO,129ms,SA,tx-he,0%
+Lima-PE,138ms,SA,tx-he,0%
+Quito-EC,90ms,SA,tx-he,0%
+Rio de Janeiro-BR,147ms,SA,tx-he,0%
+Salvador-BR,116ms,SA,tx-he,0%
+Santiago-CL,146ms,SA,tx-he,0%
+Sao Paulo-BR,139ms,SA,tx-he,0%

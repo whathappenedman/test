@@ -1,0 +1,17 @@
+cYAN voxel tag studio
+
+attributes, multi tag
+2 existing apps
+
+uuid to tag and vice versa mapping
+less than 1 mb in memory
+16 byte uuid + varchar 5 bytes x 10 < 100bytes * 10k items < 1MB
+probably also opposite too, so tag to uuid
+
+dont really need heavy db and id love to just use an doc store or giant object
+or json. with crdt? just keep in in sync with web sockets
+but more simply first step what?
+
+replicache
+rxdb
+SURREALDB

@@ -1,0 +1,121 @@
+data.location,data.latency,region,source,data.loss
+Honolulu-HI,209ms,NA,fra-linode,0%
+Ashburn-VA,84ms,NA,fra-linode,0%
+Atlanta-GA,106ms,NA,fra-linode,0%
+Boston-MA,83ms,NA,fra-linode,0%
+Charlotte-NC,92ms,NA,fra-linode,0%
+Chicago-IL,103ms,NA,fra-linode,0%
+Dallas-TX,124ms,NA,fra-linode,0%
+Denver-CO,123ms,NA,fra-linode,0%
+Houston-TX,116ms,NA,fra-linode,0%
+Kansas City-MO,Failed,NA,fra-linode,undefined
+Los Angeles-CA,156ms,NA,fra-linode,0%
+Miami-FL,128ms,NA,fra-linode,0%
+Minneapolis-MN,122ms,NA,fra-linode,0%
+Montreal-CA,89ms,NA,fra-linode,0%
+New York City-NY,86ms,NA,fra-linode,0%
+Ogden-UT,125ms,NA,fra-linode,0%
+Phoenix-AZ,150ms,NA,fra-linode,0%
+Pittsburgh-PA,96ms,NA,fra-linode,0%
+San Jose-CA,157ms,NA,fra-linode,0%
+Seattle-WA,153ms,NA,fra-linode,0%
+Toronto-CA,114ms,NA,fra-linode,0%
+Vancouver-CA,152ms,NA,fra-linode,0%
+Almaty-KZ,99ms,AS,fra-linode,0%
+Baku-AZ,75ms,AS,fra-linode,0%
+Bangalore-IN,153ms,AS,fra-linode,0%
+Bangkok-TH,218ms,AS,fra-linode,0%
+Chennai-IN,159ms,AS,fra-linode,0%
+Dhaka-BD,174ms,AS,fra-linode,0%
+Ho Chi Minh-VN,278ms,AS,fra-linode,0%
+Hong Kong-HK,290ms,AS,fra-linode,0%
+Istanbul-TR,37ms,AS,fra-linode,0%
+Jakarta-ID,332ms,AS,fra-linode,25%
+Karachi-PK,127ms,AS,fra-linode,0%
+Kathmandu-NP,166ms,AS,fra-linode,0%
+Kuala Lumpur-MY,160ms,AS,fra-linode,0%
+Manila-PH,372ms,AS,fra-linode,0%
+Mumbai-IN,140ms,AS,fra-linode,25%
+New Delhi-IN,135ms,AS,fra-linode,0%
+Nicosia-CY,54ms,AS,fra-linode,0%
+Phnom Penh-KH,188ms,AS,fra-linode,0%
+Seoul-KR,299ms,AS,fra-linode,0%
+Singapore-SG,244ms,AS,fra-linode,0%
+Taipei-TW,276ms,AS,fra-linode,0%
+Tbilisi-GE,60ms,AS,fra-linode,0%
+Tel Aviv-IL,79ms,AS,fra-linode,0%
+Tokyo-JP,294ms,AS,fra-linode,0%
+Ulaanbaatar-MN,104ms,AS,fra-linode,0%
+Yangon-MM,225ms,AS,fra-linode,0%
+Yerevan-AM,52ms,AS,fra-linode,0%
+Hagatna: GU-,266ms,AS,fra-linode,0%
+Cairo-EG,70ms,AF,fra-linode,0%
+Cape Town-SA,153ms,AF,fra-linode,0%
+Johannesburg-ZA,173ms,AF,fra-linode,0%
+Lagos-NG,164ms,AF,fra-linode,0%
+Luanda-AO,fail,AF,fra-linode,fail
+Nairobi-KE,128ms,AF,fra-linode,0%
+Baghdad 2-IQ,73ms,AF,fra-linode,0%
+Baghdad-IQ,73ms,AF,fra-linode,0%
+Bahrain-BH,100ms,AF,fra-linode,0%
+Dubai-AE,130ms,AF,fra-linode,0%
+Fujairah-UAE,143ms,AF,fra-linode,0%
+Riyadh-SA,84ms,AF,fra-linode,0%
+Amsterdam-NL,6ms,EU,fra-linode,0%
+Athens-GR,54ms,EU,fra-linode,0%
+Belgrade-RS,20ms,EU,fra-linode,0%
+Bratislava-SK,17ms,EU,fra-linode,0%
+Brussels-BE,11ms,EU,fra-linode,0%
+Bucharest-RO,27ms,EU,fra-linode,0%
+Budapest-HU,13ms,EU,fra-linode,0%
+Chisinau-MD,33ms,EU,fra-linode,0%
+Copenhagen-DK,24ms,EU,fra-linode,0%
+Dublin-IE,21ms,EU,fra-linode,0%
+Frankfurt 2-DE2,0ms,EU,fra-linode,0%
+Frankfurt-DE,0ms,EU,fra-linode,0%
+Helsinki-FI,22ms,EU,fra-linode,0%
+Keflavik-IS,44ms,EU,fra-linode,0%
+Kyiv-UA,28ms,EU,fra-linode,0%
+Lisbon-PT,37ms,EU,fra-linode,0%
+Ljubljana-SI,17ms,EU,fra-linode,0%
+London-UK,10ms,EU,fra-linode,0%
+Luxembourg-LU,9ms,EU,fra-linode,0%
+Madrid-ES,27ms,EU,fra-linode,0%
+Marseille-FR,18ms,EU,fra-linode,0%
+Milan-IT,11ms,EU,fra-linode,0%
+Moscow-RU,43ms,EU,fra-linode,0%
+Novi Travnik-BA,30ms,EU,fra-linode,0%
+Oslo-NO,22ms,EU,fra-linode,0%
+Paris-FR,9ms,EU,fra-linode,0%
+Prague-CZ,7ms,EU,fra-linode,0%
+Riga-LV,31ms,EU,fra-linode,0%
+Sofia-BG,24ms,EU,fra-linode,0%
+Stockholm-SE,19ms,EU,fra-linode,0%
+Vienna-AT,11ms,EU,fra-linode,0%
+Vilnius-LT,32ms,EU,fra-linode,0%
+Warsaw-PL,20ms,EU,fra-linode,0%
+Zagreb-HR,18ms,EU,fra-linode,0%
+Zurich-CH,6ms,EU,fra-linode,0%
+Adelaide-AU,321ms,OC,fra-linode,0%
+Auckland-NZ,270ms,OC,fra-linode,0%
+Brisbane-AU,278ms,OC,fra-linode,0%
+Melbourne-AU,309ms,OC,fra-linode,0%
+Perth-AU,256ms,OC,fra-linode,0%
+Sydney-SYD,297ms,OC,fra-linode,0%
+Brasilia-BR,217ms,SA,fra-linode,0%
+Fortaleza-BR,164ms,SA,fra-linode,0%
+Guatemala-GT,178ms,SA,fra-linode,0%
+Mexico City-MX,146ms,SA,fra-linode,0%
+Porto Alegre-BR,259ms,SA,fra-linode,0%
+San Juan-PR,142ms,SA,fra-linode,0%
+San Pedro-CR,145ms,SA,fra-linode,0%
+Bogota-SA,174ms,SA,fra-linode,0%
+Buenos Aires-AR,224ms,SA,fra-linode,0%
+Curitiba-BR,208ms,SA,fra-linode,0%
+La Paz-BO,Failed,SA,fra-linode,undefined
+Lima-PE,176ms,SA,fra-linode,0%
+Quito-EC,163ms,SA,fra-linode,0%
+Rio de Janeiro-BR,194ms,SA,fra-linode,0%
+Salvador-BR,185ms,SA,fra-linode,0%
+Santiago-CL,205ms,SA,fra-linode,0%
+Sao Paulo-BR,200ms,SA,fra-linode,0%
